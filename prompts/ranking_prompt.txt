@@ -1,0 +1,10 @@
+Task: Rank these resumes for a job position.
+
+You MUST output exactly this format:
+
+Winner per pair(Output the name of winner per pair):
+
+Rules:
+- Use only the resume text provided.
+- Do NOT ask questions.
+- Do NOT output anything outside the format.

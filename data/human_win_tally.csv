@@ -1,0 +1,1668 @@
+resume_id,human_win_count,files
+19518606,6,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+26071861,6,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+28745844,6,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+38355831,6,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+93988900,6,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+14554542,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+16605352,5,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+19147947,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+19284293,5,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+20552814,5,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+23841877,5,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+24508725,5,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+24754689,5,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+25873425,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+26673507,5,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+26691587,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+27080812,5,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+27164756,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+27182111,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+27372171,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+30397268,5,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+36425270,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+39247950,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+39718499,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+43752620,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+69764348,5,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+75950464,5,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+79541391,5,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+10748989,4,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+10830646,4,results_cogito_3b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+14449423,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+14910300,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+15699744,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+16203589,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+17539842,4,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+17704246,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+17818707,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+18767449,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+18825446,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+18905648,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+19397727,4,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+19497420,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+19671909,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+19951766,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+20033302,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+20138606,4,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+20400279,4,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+20574232,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+20604208,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+20736486,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+20806155,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+20925036,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+21031285,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+22232367,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+22890839,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+23185829,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+23438227,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+23568731,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+23939133,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+24544244,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+24695561,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+24709432,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+24773845,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+24953126,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+24953921,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+25452321,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+25588694,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+25676643,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+26496059,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+26780935,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+26942552,4,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+27536013,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+27798860,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+27917969,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt
+28013287,4,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+28772892,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+28939941,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+28969385,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+29134372,4,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+29415426,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+29784524,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+29865476,4,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+31042953,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+31217840,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+31273310,4,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+31813535,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_32b.txt
+32517106,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+32651555,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+33685988,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+34185495,4,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+34465087,4,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+36625776,4,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+37560528,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+37913536,4,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+38750659,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+39082090,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+39608848,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+39650734,4,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+45987048,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+46260230,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+53129155,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+58208591,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+65864767,4,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+74126637,4,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+77266989,4,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+78357954,4,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+78538268,4,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+79536879,4,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+84373843,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+91539554,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+94047639,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+94230796,4,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+95970987,4,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+99561379,4,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+10549585,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+10554045,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_32b.txt
+10738095,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+10953078,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+10969918,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+11289482,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+11592605,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+11807040,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+11887930,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+12212468,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+12254068,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+12351749,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+12674307,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.5_32b.txt
+12693146,3,results_gemma3_12b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+12839152,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+13264796,3,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+13294301,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+13296856,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+13313917,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+13393401,3,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+13907230,3,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+13915715,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+14070138,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt
+14517953,3,results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+14528265,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+14708590,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+14874322,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.53b.txt
+15354126,3,results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+15802627,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.5_32b.txt
+15811992,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+16248476,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+16300459,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+16877897,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+16893572,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+17274759,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt
+17306905,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+17325147,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+17422560,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+17509935,3,results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+17545780,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt
+17602815,3,results_cogito_3b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+17640785,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+17660419,3,results_cogito_3b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+17681064,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.5_14b.txt
+17730889,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+17864043,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+17987433,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.5_14b.txt
+18029935,3,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+18264694,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+18369400,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+18488289,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+18586076,3,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+18714571,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+18835363,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+18997135,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt
+19147494,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+19553067,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+19796840,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+19911786,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+19920687,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt
+20001721,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+20141807,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+20357858,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+20399718,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+20457611,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+20504094,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+20566550,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+20624984,3,results_gemma3_12b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+20633855,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+20748926,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+20879311,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+20880935,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+20882041,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+20969119,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+20993320,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+21101152,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+21122155,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+21134923,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+21287405,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.53b.txt
+21567392,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt
+21611212,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt
+21669215,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+21796843,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+21830565,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+21856577,3,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+22391901,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_32b.txt
+22442947,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+22510753,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+22765255,3,results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+22983516,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+23011221,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+23110214,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+23138078,3,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+23139437,3,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+23155093,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+23296286,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.53b.txt
+23577836,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+23761385,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+23944036,3,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+23985183,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.5_32b.txt
+24061629,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt
+24240349,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt
+24294778,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+24444525,3,results_gemma3_4b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+24491862,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+24553863,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+24559558,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+24655918,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+24658786,3,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+24767027,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+24983760,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+25070914,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+25200253,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+25724495,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+25729119,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+25839123,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+25857360,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.5_14b.txt
+25924968,3,results_cogito_3b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+26125407,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+26167298,3,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+26330995,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+26671167,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt
+26750846,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+26819872,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+26829350,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt
+26975573,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+27000192,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+27004930,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+27018550,3,results_cogito_3b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+27126818,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+27257013,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+27295996,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt
+27409087,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt
+27710853,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+28005884,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_32b.txt
+28063132,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+28165687,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+28359817,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+28396528,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt
+28471099,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+28505854,3,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+28642819,3,results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+28756444,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.53b.txt
+28831378,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+28933005,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+28973180,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+28974459,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+28989677,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+29149998,3,results_cogito_3b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+29167286,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+29297973,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+29449419,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_32b.txt
+29639533,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+29775391,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+29797594,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+30862904,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+30864828,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+30990885,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+31199035,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.53b.txt
+31211074,3,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+31292364,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+31948488,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+32042584,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+32441790,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+32563518,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+32799518,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+33023370,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+33141415,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+33424600,3,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+33627938,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+34198885,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.53b.txt
+34252537,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+34511655,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+34689720,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+35121930,3,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+35172961,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+35344611,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+35389360,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+35421497,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+35554162,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+35571205,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_32b.txt
+35990852,3,results_qwen2.53b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+36107065,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+36149549,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+36727173,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+37201447,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+37472265,3,results_gemma3_12b.txt; results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+37997506,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+38115035,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+38650096,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+39295103,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_gemma3_4b.txt
+42487883,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+45656814,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+49127329,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt
+49285644,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+49325370,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+50219114,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+50328713,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+51363762,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+52252936,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+52618188,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+53227466,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+53265899,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+54232810,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+54421668,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+55500538,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+56520872,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+58708773,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+58915642,3,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+59450123,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+59962788,3,results_cogito_3b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+61065616,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+61319162,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+62184086,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+62809577,3,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+63145386,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+65325317,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+65373280,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+66906212,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.5_32b.txt
+68781345,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+69360287,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_14b.txt
+70603826,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+70892619,3,results_cogito_3b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+71576860,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+71888547,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+72652441,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+74236636,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+76196367,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+76530505,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+77156708,3,results_cogito_3b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+77626587,3,results_cogito_3b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+78016758,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+78114950,3,results_gemma3_12b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+83566455,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+85766635,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+88038965,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+88859947,3,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+90066849,3,results_gemma3_4b.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+91121135,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+91318828,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.5_32b.txt
+92246939,3,results_cogito_3b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+93349646,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+93436805,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+94137171,3,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+95519832,3,results_gemma3_12b.txt; results_gemma3_4b.txt; results_qwen2.53b.txt
+96493528,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_32b.txt
+98086373,3,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt; results_qwen2.5_14b.txt
+98509238,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_qwen2.53b.txt
+99244405,3,results_cogito_3b.txt; results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+10138632,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+10186968,2,results_cogito_3b.txt; results_qwen2.53b.txt
+10268614,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+10466208,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+10480456,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+10554236,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+10562768,2,results_cogito_3b.txt; results_mistral-small3.2_latest.txt
+10624813,2,results_gemma3_4b.txt; results_qwen2.5_14b.txt
+10820510,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+10984392,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+11232471,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+11262933,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+11333001,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+11522068,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+11584809,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+11704150,2,results_cogito_3b.txt; results_gemma3_12b.txt
+12085736,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+12545844,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+12547982,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+12695537,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+12786012,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+13115648,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+13129275,2,results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+13520837,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+13569152,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+13764840,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+13807808,2,results_cogito_3b.txt; results_qwen2.5_32b.txt
+13812481,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+14062078,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+14128006,2,results_gemma3_4b.txt; results_qwen2.5_14b.txt
+14248724,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+14278888,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+14381464,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+14667957,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+14726000,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+14743911,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+14771530,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+14886205,2,results_cogito_3b.txt; results_qwen2.53b.txt
+15746146,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+15821633,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+15899269,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+15906625,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+15917885,2,results_cogito_3b.txt; results_qwen2.53b.txt
+15973307,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+16270906,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+16332348,2,results_gemma3_4b.txt; results_qwen2.5_14b.txt
+16378091,2,results_cogito_3b.txt; results_mistral-small3.2_latest.txt
+16702198,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+16985289,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+17021141,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+17095812,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+17103000,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+17111768,2,results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+17115815,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+17132168,2,results_cogito_3b.txt; results_qwen2.5_14b.txt
+17152392,2,results_gemma3_12b.txt; results_qwen2.5_32b.txt
+17254634,2,results_cogito_3b.txt; results_gemma3_12b.txt
+17396388,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+17481570,2,results_cogito_3b.txt; results_qwen2.5_14b.txt
+17499196,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+17570634,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+17584743,2,results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+17597372,2,results_cogito_3b.txt; results_mistral-small3.2_latest.txt
+17658471,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+17659053,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+17686472,2,results_cogito_3b.txt; results_qwen2.53b.txt
+17694454,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+17781039,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+17915015,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+17960690,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+17983430,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+18062906,2,results_cogito_3b.txt; results_gemma3_12b.txt
+18072085,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+18090899,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+18106533,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+18133495,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+18159866,2,results_cogito_3b.txt; results_qwen2.53b.txt
+18198627,2,results_cogito_3b.txt; results_qwen2.53b.txt
+18319061,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+18334783,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+18557164,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+18636651,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+18640927,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+18753367,2,results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+18784594,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+18805506,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+18927233,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+18949843,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+19037403,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+19072267,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+19108760,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+19179079,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+19540089,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+19582792,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+19612167,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+19714635,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+19724031,2,results_cogito_3b.txt; results_qwen2.5_32b.txt
+19738730,2,results_cogito_3b.txt; results_mistral-small3.2_latest.txt
+19867922,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+19918523,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+19928941,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+19975121,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+20024870,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+20082776,2,results_cogito_3b.txt; results_gemma3_12b.txt
+20176584,2,results_cogito_3b.txt; results_gemma3_12b.txt
+20314980,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+20356750,2,results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+20393721,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+20408458,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+20423658,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+20691949,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+20748468,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+20748929,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+20765795,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+20824105,2,results_gemma3_12b.txt; results_qwen2.5_32b.txt
+20835760,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+20905088,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+20918464,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+20966771,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+20969845,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+20977412,2,results_cogito_3b.txt; results_gemma3_4b.txt
+20981299,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+20986595,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+21060367,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+21125113,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+21334981,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+21338490,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+21363048,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+21511817,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+21512769,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+21568833,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+21629057,2,results_cogito_3b.txt; results_gemma3_4b.txt
+21663616,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+21705160,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+21773106,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+21807211,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+21807224,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+21866029,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+21867728,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+21868149,2,results_cogito_3b.txt; results_gemma3_12b.txt
+21869994,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+21912637,2,results_gemma3_4b.txt; results_qwen2.5_14b.txt
+22047665,2,results_cogito_3b.txt; results_qwen2.5_32b.txt
+22168194,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+22249155,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+22259475,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+22323967,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+22465498,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+22485475,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+22546476,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+22551979,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+22556198,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+22567495,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+22650051,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+22675694,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+22720697,2,results_cogito_3b.txt; results_qwen2.53b.txt
+22732234,2,results_cogito_3b.txt; results_qwen2.5_14b.txt
+22800977,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+22807104,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+22852364,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+22855060,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+22884757,2,results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+22925443,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+22968380,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+23032182,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+23063986,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+23085604,2,results_cogito_3b.txt; results_qwen2.53b.txt
+23302948,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+23323001,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+23387174,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+23398733,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+23513618,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+23568641,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+23591247,2,results_cogito_3b.txt; results_qwen2.53b.txt
+23602130,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+23631188,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+23631724,2,results_cogito_3b.txt; results_gemma3_12b.txt
+23636277,2,results_gemma3_4b.txt; results_qwen2.5_14b.txt
+23666211,2,results_cogito_3b.txt; results_gemma3_4b.txt
+23673025,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+23719943,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+23752500,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+23810469,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+23818675,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+23864858,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+23914451,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+23917826,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+23929500,2,results_cogito_3b.txt; results_gemma3_12b.txt
+24025053,2,results_cogito_3b.txt; results_qwen2.53b.txt
+24068423,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+24083609,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+24124250,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+24154692,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+24184357,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+24230851,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+24251588,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+24397882,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+24411323,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+24533931,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+24583187,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+24643412,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+24668861,2,results_cogito_3b.txt; results_gemma3_4b.txt
+24673903,2,results_cogito_3b.txt; results_qwen2.53b.txt
+24710433,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+24791126,2,results_cogito_3b.txt; results_gemma3_12b.txt
+24946537,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+25001005,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+25101183,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+25127518,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+25128608,2,results_cogito_3b.txt; results_qwen2.53b.txt
+25142074,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+25162378,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+25207620,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+25213006,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+25224998,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+25330083,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+25413261,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+25451319,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+25462793,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+25497147,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+25507648,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+25625173,2,results_cogito_3b.txt; results_qwen2.5_32b.txt
+25706337,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+25719936,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+25749150,2,results_cogito_3b.txt; results_qwen2.53b.txt
+25797445,2,results_cogito_3b.txt; results_gemma3_12b.txt
+25838512,2,results_cogito_3b.txt; results_gemma3_12b.txt
+25867805,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+25905275,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+25926667,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+25930778,2,results_cogito_3b.txt; results_qwen2.53b.txt
+25935030,2,results_gemma3_12b.txt; results_qwen2.5_32b.txt
+26046064,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+26046878,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+26048718,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+26065877,2,results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+26069113,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+26070334,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+26079779,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+26098594,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+26130673,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+26173524,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+26202430,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+26278597,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+26289308,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+26341987,2,results_cogito_3b.txt; results_qwen2.5_32b.txt
+26480367,2,results_cogito_3b.txt; results_qwen2.5_14b.txt
+26509539,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+26586477,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+26622051,2,results_gemma3_4b.txt; results_qwen2.5_14b.txt
+26695839,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+26746496,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+26829561,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+26834746,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+26835781,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+26888302,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+26919036,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+26921245,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+26924514,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+27030979,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+27084878,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+27090089,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+27096471,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+27099856,2,results_gemma3_4b.txt; results_qwen2.5_14b.txt
+27152464,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+27165830,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+27219200,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+27246366,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+27298953,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+27397245,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+27419236,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+27490876,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+27502951,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+27523575,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+27529455,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+27531694,2,results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+27549075,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+27558837,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+27606527,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+27607632,2,results_gemma3_12b.txt; results_qwen2.5_32b.txt
+27624540,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+27726066,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+27902692,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+27903191,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+27909372,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+27974588,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+27980446,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+28020046,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+28035460,2,results_cogito_3b.txt; results_qwen2.53b.txt
+28175164,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+28206098,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+28298773,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+28325193,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+28326441,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+28337049,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+28377361,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+28383893,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+28419173,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+28423028,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+28531493,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+28628090,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+28630325,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+28670024,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+28697203,2,results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+28733974,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+28762662,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+28808263,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+28815362,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+28951817,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+29002596,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+29061628,2,results_cogito_3b.txt; results_gemma3_4b.txt
+29075857,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+29091445,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+29134721,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+29142288,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+29147100,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+29148871,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+29173771,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+29177904,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+29196643,2,results_cogito_3b.txt; results_gemma3_4b.txt
+29208172,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+29221006,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+29297393,2,results_cogito_3b.txt; results_qwen2.53b.txt
+29329075,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+29399491,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+29406313,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+29456173,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+29573698,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+29574501,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+29640922,2,results_cogito_3b.txt; results_gemma3_4b.txt
+29805310,2,results_cogito_3b.txt; results_gemma3_12b.txt
+29825044,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+29915354,2,results_cogito_3b.txt; results_qwen2.53b.txt
+29926588,2,results_cogito_3b.txt; results_qwen2.53b.txt
+29998869,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+30083884,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+30127072,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+30304575,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+30311202,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+30430249,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+30504149,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+30542184,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+30608780,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+30709029,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+30965258,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+31040875,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+31114531,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+31162167,2,results_cogito_3b.txt; results_qwen2.53b.txt
+31225895,2,results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+31243710,2,results_cogito_3b.txt; results_gemma3_12b.txt
+31395710,2,results_cogito_3b.txt; results_gemma3_12b.txt
+31454430,2,results_cogito_3b.txt; results_gemma3_4b.txt
+31710562,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+31850269,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+32067700,2,results_cogito_3b.txt; results_qwen2.53b.txt
+32069695,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+32081266,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+32265203,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+32531824,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+32605413,2,results_cogito_3b.txt; results_gemma3_4b.txt
+32896934,2,results_cogito_3b.txt; results_qwen2.53b.txt
+33176873,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+33665485,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+33685075,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+33803142,2,results_cogito_3b.txt; results_qwen2.53b.txt
+33872500,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+34304175,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+34452806,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+34745915,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+34792238,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+34797369,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+34875813,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+35302620,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+35474904,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+35492909,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+35564026,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+35985133,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+36102323,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+36206485,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+36252245,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+36269672,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+36366044,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+36434348,2,results_cogito_3b.txt; results_qwen2.53b.txt
+36517781,2,results_cogito_3b.txt; results_gemma3_4b.txt
+36569713,2,results_cogito_3b.txt; results_qwen2.53b.txt
+36671891,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+37001381,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+37058472,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+37087824,2,results_gemma3_4b.txt; results_qwen2.5_14b.txt
+37220856,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+37263609,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+37292350,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+37348041,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+37391947,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+37473139,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+37640804,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+37695494,2,results_cogito_3b.txt; results_gemma3_4b.txt
+37735467,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+38165833,2,results_cogito_3b.txt; results_gemma3_4b.txt
+38399177,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+38441665,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+38565119,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+38642923,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+38707449,2,results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+38744475,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+38847011,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+38946032,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+39237915,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+39441617,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+39569771,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+39581020,2,results_cogito_3b.txt; results_qwen2.5_32b.txt
+39855211,2,results_cogito_3b.txt; results_qwen2.53b.txt
+39970711,2,results_gemma3_4b.txt; results_qwen2.5_32b.txt
+40018190,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+40987524,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+41344156,2,results_cogito_3b.txt; results_qwen2.5_32b.txt
+41590605,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+42304307,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+42427521,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+42546558,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+43311839,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+43852883,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+43994605,2,results_cogito_3b.txt; results_qwen2.53b.txt
+44145704,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+44185767,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+45077654,2,results_cogito_3b.txt; results_mistral-small3.2_latest.txt
+45900271,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+46055835,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+46349752,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+47487091,2,results_gemma3_4b.txt; results_qwen2.5_14b.txt
+48533663,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+48580330,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+49486820,2,results_cogito_3b.txt; results_mistral-small3.2_latest.txt
+49646155,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+49685006,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+49937469,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+49997097,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+50324968,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+51018476,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+51349448,2,results_cogito_3b.txt; results_qwen2.53b.txt
+51508889,2,results_cogito_3b.txt; results_gemma3_4b.txt
+51724595,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+53640713,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+53701275,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+54101961,2,results_cogito_3b.txt; results_qwen2.5_32b.txt
+54201930,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+54246169,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+54934269,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+56286525,2,results_cogito_3b.txt; results_qwen2.53b.txt
+56525735,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+56691064,2,results_cogito_3b.txt; results_mistral-small3.2_latest.txt
+56792999,2,results_gemma3_4b.txt; results_qwen2.5_14b.txt
+56952849,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+57088974,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+57364820,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+57601040,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+58105060,2,results_gemma3_12b.txt; results_qwen2.5_32b.txt
+58165257,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+59487170,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+59777056,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+60004873,2,results_cogito_3b.txt; results_qwen2.53b.txt
+60182829,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+61322296,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+62071407,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+62312955,2,results_cogito_3b.txt; results_qwen2.53b.txt
+62700506,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+62850928,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+62870550,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+63989974,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+65062795,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+65456466,2,results_cogito_3b.txt; results_gemma3_12b.txt
+65708020,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+66683238,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+66741193,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+66832845,2,results_cogito_3b.txt; results_qwen2.53b.txt
+67032711,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+68216398,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+69155584,2,results_cogito_3b.txt; results_qwen2.53b.txt
+69458502,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+70089206,2,results_cogito_3b.txt; results_gemma3_4b.txt
+70198580,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+70667011,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+71767359,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+72136463,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+72231872,2,results_cogito_3b.txt; results_qwen2.53b.txt
+73075521,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+73157997,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+73448369,2,results_cogito_3b.txt; results_qwen2.53b.txt
+74512244,2,results_cogito_3b.txt; results_qwen2.53b.txt
+74522938,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+74552449,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+74816727,2,results_cogito_3b.txt; results_mistral-small3.2_latest.txt
+74849878,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+75057933,2,results_mistral-small3.2_latest.txt; results_qwen2.5_32b.txt
+75297735,2,results_cogito_3b.txt; results_qwen2.53b.txt
+75744306,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+76010167,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+76454959,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+77439230,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+77638654,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+77828437,2,results_cogito_3b.txt; results_mistral-small3.2_latest.txt
+78229715,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+78298706,2,results_cogito_3b.txt; results_mistral-small3.2_latest.txt
+79261033,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+80162314,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+80275976,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+80503242,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+80876647,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+81042872,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+82118447,2,results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+82246962,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+82738323,2,results_qwen2.5_14b.txt; results_qwen2.5_32b.txt
+83816738,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+84356308,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+85417107,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+85421438,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+85918100,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+86209934,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+86322251,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+87520378,2,results_cogito_3b.txt; results_mistral-small3.2_latest.txt
+88651471,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+89197180,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+89413122,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+90280583,2,results_mistral-small3.2_latest.txt; results_qwen2.5_14b.txt
+90363254,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+90365216,2,results_cogito_3b.txt; results_qwen2.5_32b.txt
+90682785,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+90685127,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+91116867,2,results_cogito_3b.txt; results_gemma3_12b.txt
+91189201,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+91467795,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+91478356,2,results_cogito_3b.txt; results_gemma3_12b.txt
+91564103,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+91697974,2,results_cogito_3b.txt; results_gemma3_12b.txt
+92069209,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+92985983,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+93002334,2,results_gemma3_4b.txt; results_mistral-small3.2_latest.txt
+93112113,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+93301686,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+93576192,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+93653247,2,results_gemma3_12b.txt; results_qwen2.5_14b.txt
+93828034,2,results_qwen2.53b.txt; results_qwen2.5_14b.txt
+94503308,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+95382114,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+95429627,2,results_qwen2.53b.txt; results_qwen2.5_32b.txt
+95714702,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+96547039,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+97123005,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+97169343,2,results_gemma3_12b.txt; results_qwen2.53b.txt
+97405769,2,results_gemma3_12b.txt; results_mistral-small3.2_latest.txt
+97449528,2,results_mistral-small3.2_latest.txt; results_qwen2.53b.txt
+98348532,2,results_gemma3_4b.txt; results_qwen2.53b.txt
+98389424,2,results_gemma3_12b.txt; results_gemma3_4b.txt
+99033098,2,results_gemma3_12b.txt; results_qwen2.5_32b.txt
+10176815,1,results_qwen2.53b.txt
+10182582,1,results_qwen2.53b.txt
+10464113,1,results_gemma3_12b.txt
+10567764,1,results_mistral-small3.2_latest.txt
+10926726,1,results_gemma3_4b.txt
+11152490,1,results_gemma3_12b.txt
+11188218,1,results_qwen2.53b.txt
+11393213,1,results_gemma3_12b.txt
+11441764,1,results_qwen2.53b.txt
+11698189,1,results_qwen2.53b.txt
+11722421,1,results_qwen2.5_32b.txt
+11813872,1,results_mistral-small3.2_latest.txt
+11995013,1,results_cogito_3b.txt
+12021752,1,results_qwen2.53b.txt
+12022566,1,results_qwen2.53b.txt
+12059198,1,results_mistral-small3.2_latest.txt
+12065211,1,results_qwen2.53b.txt
+12155206,1,results_gemma3_4b.txt
+12613221,1,results_gemma3_4b.txt
+12632728,1,results_qwen2.5_14b.txt
+12674256,1,results_qwen2.53b.txt
+12780508,1,results_qwen2.53b.txt
+12791244,1,results_cogito_3b.txt
+12802330,1,results_qwen2.5_32b.txt
+12938200,1,results_gemma3_12b.txt
+12955994,1,results_gemma3_4b.txt
+13014900,1,results_qwen2.5_14b.txt
+13348915,1,results_qwen2.5_32b.txt
+13518263,1,results_qwen2.5_14b.txt
+13565152,1,results_gemma3_4b.txt
+13836471,1,results_gemma3_12b.txt
+13888506,1,results_qwen2.53b.txt
+13909762,1,results_qwen2.5_14b.txt
+13982572,1,results_qwen2.53b.txt
+14241621,1,results_qwen2.53b.txt
+14256329,1,results_cogito_3b.txt
+14267489,1,results_qwen2.5_32b.txt
+14364597,1,results_mistral-small3.2_latest.txt
+14391434,1,results_qwen2.53b.txt
+14408510,1,results_gemma3_4b.txt
+14536764,1,results_qwen2.53b.txt
+14937492,1,results_qwen2.53b.txt
+15139979,1,results_qwen2.53b.txt
+15180322,1,results_gemma3_4b.txt
+15224503,1,results_qwen2.5_32b.txt
+15297298,1,results_qwen2.53b.txt
+15313140,1,results_mistral-small3.2_latest.txt
+15363277,1,results_qwen2.53b.txt
+15433732,1,results_gemma3_12b.txt
+15620421,1,results_gemma3_4b.txt
+15636923,1,results_qwen2.5_14b.txt
+15680735,1,results_qwen2.53b.txt
+15684810,1,results_gemma3_12b.txt
+15717923,1,results_qwen2.53b.txt
+15727656,1,results_cogito_3b.txt
+15936656,1,results_qwen2.5_14b.txt
+15941675,1,results_qwen2.53b.txt
+16223371,1,results_gemma3_4b.txt
+16276121,1,results_qwen2.53b.txt
+16407619,1,results_gemma3_4b.txt
+16449850,1,results_gemma3_4b.txt
+16833515,1,results_gemma3_4b.txt
+16861758,1,results_qwen2.53b.txt
+16887936,1,results_qwen2.53b.txt
+17307206,1,results_gemma3_12b.txt
+17311685,1,results_qwen2.53b.txt
+17312146,1,results_gemma3_12b.txt
+17342969,1,results_qwen2.5_32b.txt
+17407184,1,results_gemma3_4b.txt
+17410700,1,results_qwen2.5_14b.txt
+17412079,1,results_gemma3_4b.txt
+17421910,1,results_gemma3_4b.txt
+17431847,1,results_qwen2.53b.txt
+17432318,1,results_qwen2.53b.txt
+17488801,1,results_qwen2.53b.txt
+17555081,1,results_gemma3_4b.txt
+17556527,1,results_gemma3_4b.txt
+17562754,1,results_qwen2.53b.txt
+17571262,1,results_gemma3_4b.txt
+17576030,1,results_qwen2.53b.txt
+17624934,1,results_gemma3_4b.txt
+17655479,1,results_qwen2.5_32b.txt
+17694572,1,results_gemma3_12b.txt
+17714174,1,results_gemma3_4b.txt
+17812897,1,results_qwen2.5_32b.txt
+17823436,1,results_qwen2.53b.txt
+17847636,1,results_cogito_3b.txt
+17857644,1,results_gemma3_12b.txt
+17876954,1,results_qwen2.53b.txt
+17911230,1,results_qwen2.53b.txt
+18001081,1,results_qwen2.53b.txt
+18024825,1,results_mistral-small3.2_latest.txt
+18079050,1,results_gemma3_4b.txt
+18084150,1,results_gemma3_4b.txt
+18129173,1,results_qwen2.5_32b.txt
+18155310,1,results_mistral-small3.2_latest.txt
+18172739,1,results_qwen2.5_14b.txt
+18176523,1,results_gemma3_4b.txt
+18208580,1,results_qwen2.53b.txt
+18227306,1,results_gemma3_4b.txt
+18236085,1,results_qwen2.53b.txt
+18242317,1,results_qwen2.5_14b.txt
+18268860,1,results_gemma3_4b.txt
+18293620,1,results_qwen2.53b.txt
+18297650,1,results_mistral-small3.2_latest.txt
+18301617,1,results_gemma3_4b.txt
+18354623,1,results_gemma3_4b.txt
+18365443,1,results_qwen2.5_14b.txt
+18365791,1,results_qwen2.53b.txt
+18422164,1,results_qwen2.53b.txt
+18448085,1,results_qwen2.53b.txt
+18460045,1,results_qwen2.53b.txt
+18480859,1,results_qwen2.53b.txt
+18509268,1,results_qwen2.53b.txt
+18635654,1,results_cogito_3b.txt
+18725071,1,results_qwen2.53b.txt
+18731098,1,results_mistral-small3.2_latest.txt
+18757174,1,results_qwen2.5_14b.txt
+18856440,1,results_cogito_3b.txt
+18882984,1,results_gemma3_4b.txt
+18900722,1,results_mistral-small3.2_latest.txt
+18932512,1,results_qwen2.53b.txt
+18979238,1,results_qwen2.53b.txt
+19053815,1,results_qwen2.53b.txt
+19070271,1,results_mistral-small3.2_latest.txt
+19090468,1,results_qwen2.53b.txt
+19124258,1,results_qwen2.53b.txt
+19147603,1,results_qwen2.53b.txt
+19164410,1,results_qwen2.53b.txt
+19176318,1,results_mistral-small3.2_latest.txt
+19195747,1,results_qwen2.53b.txt
+19201175,1,results_qwen2.5_32b.txt
+19234823,1,results_qwen2.53b.txt
+19243556,1,results_gemma3_12b.txt
+19285236,1,results_gemma3_4b.txt
+19362586,1,results_qwen2.53b.txt
+19364677,1,results_gemma3_12b.txt
+19374660,1,results_gemma3_4b.txt
+19437318,1,results_qwen2.53b.txt
+19464810,1,results_qwen2.5_14b.txt
+19473948,1,results_mistral-small3.2_latest.txt
+19506295,1,results_qwen2.5_14b.txt
+19532392,1,results_qwen2.53b.txt
+19556300,1,results_gemma3_12b.txt
+19557384,1,results_mistral-small3.2_latest.txt
+19558834,1,results_qwen2.53b.txt
+19616406,1,results_gemma3_12b.txt
+19717385,1,results_qwen2.53b.txt
+19774173,1,results_cogito_3b.txt
+19831366,1,results_gemma3_12b.txt
+19861776,1,results_mistral-small3.2_latest.txt
+19926135,1,results_qwen2.5_14b.txt
+19936735,1,results_qwen2.53b.txt
+20006992,1,results_qwen2.53b.txt
+20026169,1,results_cogito_3b.txt
+20149476,1,results_qwen2.53b.txt
+20172393,1,results_gemma3_4b.txt
+20210676,1,results_qwen2.5_14b.txt
+20211577,1,results_gemma3_4b.txt
+20230207,1,results_qwen2.5_32b.txt
+20237244,1,results_qwen2.53b.txt
+20255404,1,results_mistral-small3.2_latest.txt
+20275356,1,results_qwen2.53b.txt
+20317319,1,results_mistral-small3.2_latest.txt
+20321582,1,results_gemma3_4b.txt
+20330739,1,results_qwen2.53b.txt
+20345168,1,results_gemma3_4b.txt
+20417897,1,results_qwen2.5_32b.txt
+20427934,1,results_qwen2.5_32b.txt
+20488267,1,results_qwen2.53b.txt
+20565849,1,results_gemma3_4b.txt
+20626794,1,results_qwen2.5_32b.txt
+20674668,1,results_gemma3_4b.txt
+20681037,1,results_qwen2.53b.txt
+20698469,1,results_gemma3_4b.txt
+20705888,1,results_qwen2.53b.txt
+20817322,1,results_qwen2.53b.txt
+20819838,1,results_cogito_3b.txt
+20836112,1,results_qwen2.5_14b.txt
+20850529,1,results_gemma3_12b.txt
+20932019,1,results_qwen2.53b.txt
+20992320,1,results_cogito_3b.txt
+21007083,1,results_cogito_3b.txt
+21038022,1,results_qwen2.53b.txt
+21156767,1,results_mistral-small3.2_latest.txt
+21190805,1,results_qwen2.5_32b.txt
+21238396,1,results_gemma3_12b.txt
+21265194,1,results_qwen2.53b.txt
+21283365,1,results_gemma3_12b.txt
+21283733,1,results_qwen2.53b.txt
+21297521,1,results_gemma3_4b.txt
+21366189,1,results_qwen2.53b.txt
+21531811,1,results_gemma3_12b.txt
+21550454,1,results_qwen2.53b.txt
+21570485,1,results_mistral-small3.2_latest.txt
+21586858,1,results_qwen2.5_14b.txt
+21595057,1,results_qwen2.53b.txt
+21614256,1,results_gemma3_4b.txt
+21622444,1,results_qwen2.53b.txt
+21645690,1,results_gemma3_4b.txt
+21756639,1,results_qwen2.53b.txt
+21763056,1,results_qwen2.5_14b.txt
+21782152,1,results_gemma3_4b.txt
+21794875,1,results_gemma3_4b.txt
+21809601,1,results_cogito_3b.txt
+21853199,1,results_qwen2.5_14b.txt
+22008817,1,results_gemma3_4b.txt
+22025574,1,results_gemma3_12b.txt
+22093368,1,results_gemma3_4b.txt
+22182279,1,results_gemma3_12b.txt
+22349169,1,results_gemma3_4b.txt
+22380187,1,results_qwen2.53b.txt
+22408666,1,results_gemma3_4b.txt
+22423839,1,results_qwen2.53b.txt
+22450718,1,results_mistral-small3.2_latest.txt
+22455205,1,results_qwen2.53b.txt
+22492537,1,results_gemma3_12b.txt
+22496394,1,results_qwen2.5_32b.txt
+22560013,1,results_gemma3_4b.txt
+22571461,1,results_cogito_3b.txt
+22593054,1,results_qwen2.53b.txt
+22615491,1,results_qwen2.53b.txt
+22632070,1,results_qwen2.5_14b.txt
+22706174,1,results_qwen2.53b.txt
+22754014,1,results_qwen2.53b.txt
+22776912,1,results_qwen2.53b.txt
+22848179,1,results_qwen2.53b.txt
+22861181,1,results_gemma3_4b.txt
+22894544,1,results_gemma3_12b.txt
+22946204,1,results_qwen2.53b.txt
+22965804,1,results_cogito_3b.txt
+22990761,1,results_qwen2.53b.txt
+23009962,1,results_qwen2.53b.txt
+23015611,1,results_qwen2.5_32b.txt
+23032276,1,results_gemma3_4b.txt
+23048999,1,results_gemma3_4b.txt
+23143731,1,results_qwen2.5_14b.txt
+23190306,1,results_gemma3_4b.txt
+23234047,1,results_qwen2.53b.txt
+23246831,1,results_gemma3_12b.txt
+23396633,1,results_qwen2.53b.txt
+23408537,1,results_gemma3_4b.txt
+23416654,1,results_gemma3_4b.txt
+23427369,1,results_cogito_3b.txt
+23464505,1,results_gemma3_4b.txt
+23477199,1,results_qwen2.53b.txt
+23497307,1,results_qwen2.53b.txt
+23510685,1,results_qwen2.53b.txt
+23522150,1,results_gemma3_4b.txt
+23573064,1,results_gemma3_4b.txt
+23760084,1,results_mistral-small3.2_latest.txt
+23782450,1,results_gemma3_12b.txt
+23804341,1,results_qwen2.53b.txt
+23807940,1,results_qwen2.5_32b.txt
+23814777,1,results_mistral-small3.2_latest.txt
+23864648,1,results_qwen2.53b.txt
+23918545,1,results_qwen2.5_14b.txt
+23933031,1,results_qwen2.5_32b.txt
+23951429,1,results_mistral-small3.2_latest.txt
+24020470,1,results_gemma3_4b.txt
+24038620,1,results_qwen2.53b.txt
+24219583,1,results_qwen2.53b.txt
+24221960,1,results_qwen2.5_14b.txt
+24361598,1,results_qwen2.53b.txt
+24412546,1,results_qwen2.5_32b.txt
+24416961,1,results_qwen2.53b.txt
+24455357,1,results_qwen2.53b.txt
+24548333,1,results_qwen2.5_32b.txt
+24550866,1,results_qwen2.53b.txt
+24574164,1,results_gemma3_12b.txt
+24588864,1,results_qwen2.53b.txt
+24589765,1,results_qwen2.53b.txt
+24590489,1,results_gemma3_4b.txt
+24610685,1,results_gemma3_4b.txt
+24647794,1,results_qwen2.53b.txt
+24670867,1,results_qwen2.53b.txt
+24677466,1,results_qwen2.5_32b.txt
+24679149,1,results_mistral-small3.2_latest.txt
+24703009,1,results_gemma3_4b.txt
+24727739,1,results_qwen2.53b.txt
+24740005,1,results_cogito_3b.txt
+24770846,1,results_qwen2.53b.txt
+24799301,1,results_cogito_3b.txt
+24817041,1,results_qwen2.53b.txt
+24833063,1,results_gemma3_4b.txt
+24854026,1,results_gemma3_4b.txt
+24977396,1,results_qwen2.53b.txt
+24989856,1,results_cogito_3b.txt
+24994145,1,results_mistral-small3.2_latest.txt
+25023614,1,results_gemma3_12b.txt
+25047127,1,results_qwen2.53b.txt
+25061645,1,results_cogito_3b.txt
+25080805,1,results_qwen2.53b.txt
+25098739,1,results_qwen2.53b.txt
+25150191,1,results_qwen2.53b.txt
+25187733,1,results_qwen2.53b.txt
+25258040,1,results_mistral-small3.2_latest.txt
+25315791,1,results_qwen2.53b.txt
+25328428,1,results_qwen2.53b.txt
+25370801,1,results_qwen2.5_14b.txt
+25397102,1,results_qwen2.53b.txt
+25422388,1,results_qwen2.53b.txt
+25425322,1,results_qwen2.53b.txt
+25482567,1,results_qwen2.53b.txt
+25543217,1,results_gemma3_4b.txt
+25547145,1,results_gemma3_12b.txt
+25561640,1,results_gemma3_4b.txt
+25608963,1,results_qwen2.53b.txt
+25624652,1,results_mistral-small3.2_latest.txt
+25656981,1,results_mistral-small3.2_latest.txt
+25694422,1,results_qwen2.53b.txt
+25718772,1,results_mistral-small3.2_latest.txt
+25723793,1,results_qwen2.53b.txt
+25780596,1,results_qwen2.53b.txt
+25810233,1,results_qwen2.5_32b.txt
+25834360,1,results_qwen2.53b.txt
+25862026,1,results_qwen2.53b.txt
+25919149,1,results_qwen2.5_32b.txt
+25953797,1,results_cogito_3b.txt
+25959103,1,results_qwen2.5_14b.txt
+26013403,1,results_gemma3_4b.txt
+26160200,1,results_gemma3_4b.txt
+26234972,1,results_qwen2.5_14b.txt
+26279402,1,results_qwen2.5_32b.txt
+26291616,1,results_qwen2.5_14b.txt
+26410763,1,results_gemma3_4b.txt
+26425074,1,results_qwen2.5_32b.txt
+26456474,1,results_cogito_3b.txt
+26503829,1,results_qwen2.53b.txt
+26530575,1,results_gemma3_4b.txt
+26530696,1,results_mistral-small3.2_latest.txt
+26579709,1,results_qwen2.53b.txt
+26581830,1,results_qwen2.53b.txt
+26585242,1,results_mistral-small3.2_latest.txt
+26767199,1,results_qwen2.53b.txt
+26768723,1,results_qwen2.53b.txt
+26801767,1,results_cogito_3b.txt
+26896699,1,results_gemma3_12b.txt
+26932091,1,results_qwen2.53b.txt
+26961846,1,results_gemma3_12b.txt
+26987539,1,results_qwen2.53b.txt
+27018361,1,results_qwen2.53b.txt
+27040860,1,results_cogito_3b.txt
+27058381,1,results_gemma3_4b.txt
+27066370,1,results_qwen2.5_32b.txt
+27096796,1,results_qwen2.5_32b.txt
+27120528,1,results_qwen2.53b.txt
+27139412,1,results_qwen2.53b.txt
+27213082,1,results_gemma3_4b.txt
+27330027,1,results_qwen2.53b.txt
+27485716,1,results_gemma3_12b.txt
+27496514,1,results_qwen2.53b.txt
+27497542,1,results_gemma3_12b.txt
+27512470,1,results_qwen2.53b.txt
+27524018,1,results_cogito_3b.txt
+27573855,1,results_gemma3_4b.txt
+27662298,1,results_qwen2.53b.txt
+27689009,1,results_qwen2.53b.txt
+27715131,1,results_gemma3_4b.txt
+27770859,1,results_gemma3_12b.txt
+27789372,1,results_qwen2.53b.txt
+27796199,1,results_gemma3_4b.txt
+27831220,1,results_gemma3_4b.txt
+27847081,1,results_qwen2.53b.txt
+27850777,1,results_qwen2.5_32b.txt
+27884470,1,results_gemma3_4b.txt
+27914096,1,results_gemma3_4b.txt
+27921561,1,results_qwen2.53b.txt
+27936502,1,results_qwen2.53b.txt
+27981289,1,results_qwen2.53b.txt
+28092317,1,results_qwen2.5_14b.txt
+28109594,1,results_qwen2.53b.txt
+28111403,1,results_qwen2.53b.txt
+28126340,1,results_gemma3_12b.txt
+28139742,1,results_mistral-small3.2_latest.txt
+28172023,1,results_cogito_3b.txt
+28176889,1,results_qwen2.53b.txt
+28186635,1,results_gemma3_4b.txt
+28198029,1,results_qwen2.53b.txt
+28230807,1,results_qwen2.53b.txt
+28320387,1,results_qwen2.53b.txt
+28321954,1,results_qwen2.53b.txt
+28396458,1,results_qwen2.53b.txt
+28419927,1,results_gemma3_12b.txt
+28424982,1,results_qwen2.53b.txt
+28522529,1,results_gemma3_12b.txt
+28614791,1,results_gemma3_4b.txt
+28623782,1,results_gemma3_4b.txt
+28629430,1,results_gemma3_4b.txt
+28635795,1,results_qwen2.5_14b.txt
+28669770,1,results_mistral-small3.2_latest.txt
+28679359,1,results_qwen2.53b.txt
+28711616,1,results_mistral-small3.2_latest.txt
+28724469,1,results_mistral-small3.2_latest.txt
+28790806,1,results_qwen2.5_32b.txt
+28862054,1,results_mistral-small3.2_latest.txt
+28867567,1,results_gemma3_4b.txt
+28871170,1,results_mistral-small3.2_latest.txt
+28895997,1,results_cogito_3b.txt
+28923650,1,results_qwen2.53b.txt
+28942221,1,results_mistral-small3.2_latest.txt
+28975482,1,results_gemma3_12b.txt
+29014805,1,results_qwen2.53b.txt
+29050809,1,results_mistral-small3.2_latest.txt
+29072179,1,results_qwen2.53b.txt
+29076405,1,results_gemma3_12b.txt
+29093426,1,results_gemma3_4b.txt
+29161565,1,results_qwen2.53b.txt
+29184740,1,results_gemma3_12b.txt
+29211359,1,results_gemma3_4b.txt
+29211919,1,results_mistral-small3.2_latest.txt
+29267293,1,results_qwen2.53b.txt
+29319314,1,results_qwen2.53b.txt
+29332616,1,results_qwen2.53b.txt
+29425788,1,results_qwen2.53b.txt
+29483501,1,results_gemma3_12b.txt
+29486525,1,results_qwen2.53b.txt
+29494962,1,results_qwen2.5_32b.txt
+29524570,1,results_gemma3_4b.txt
+29525715,1,results_gemma3_4b.txt
+29534737,1,results_cogito_3b.txt
+29552167,1,results_qwen2.53b.txt
+29564653,1,results_gemma3_4b.txt
+29595906,1,results_cogito_3b.txt
+29612672,1,results_gemma3_4b.txt
+29647215,1,results_qwen2.53b.txt
+29723311,1,results_gemma3_12b.txt
+29746235,1,results_qwen2.53b.txt
+29770086,1,results_qwen2.5_14b.txt
+29772450,1,results_gemma3_4b.txt
+29821051,1,results_mistral-small3.2_latest.txt
+29897742,1,results_mistral-small3.2_latest.txt
+29908929,1,results_qwen2.5_32b.txt
+29930479,1,results_gemma3_4b.txt
+29968330,1,results_qwen2.53b.txt
+29975124,1,results_mistral-small3.2_latest.txt
+29990140,1,results_gemma3_12b.txt
+29992154,1,results_qwen2.5_14b.txt
+29999135,1,results_gemma3_4b.txt
+30128072,1,results_qwen2.53b.txt
+30148777,1,results_cogito_3b.txt
+30223363,1,results_qwen2.5_14b.txt
+30288581,1,results_qwen2.53b.txt
+30337969,1,results_qwen2.53b.txt
+30344127,1,results_gemma3_4b.txt
+30361788,1,results_mistral-small3.2_latest.txt
+30437583,1,results_qwen2.5_32b.txt
+30529547,1,results_cogito_3b.txt
+30594821,1,results_gemma3_12b.txt
+30642458,1,results_qwen2.53b.txt
+30757456,1,results_gemma3_12b.txt
+30813919,1,results_qwen2.53b.txt
+30826569,1,results_mistral-small3.2_latest.txt
+30863060,1,results_cogito_3b.txt
+30938994,1,results_mistral-small3.2_latest.txt
+30968749,1,results_qwen2.53b.txt
+30999638,1,results_gemma3_4b.txt
+31016926,1,results_mistral-small3.2_latest.txt
+31064969,1,results_mistral-small3.2_latest.txt
+31220062,1,results_mistral-small3.2_latest.txt
+31242382,1,results_gemma3_4b.txt
+31273413,1,results_mistral-small3.2_latest.txt
+31362807,1,results_qwen2.53b.txt
+31392754,1,results_gemma3_4b.txt
+31547476,1,results_cogito_3b.txt
+31552617,1,results_qwen2.53b.txt
+31602598,1,results_qwen2.53b.txt
+31638814,1,results_qwen2.5_14b.txt
+31677347,1,results_cogito_3b.txt
+31694970,1,results_qwen2.53b.txt
+31926950,1,results_gemma3_12b.txt
+31929166,1,results_qwen2.5_14b.txt
+32109048,1,results_gemma3_4b.txt
+32219038,1,results_mistral-small3.2_latest.txt
+32318506,1,results_cogito_3b.txt
+32385553,1,results_qwen2.5_32b.txt
+32433431,1,results_gemma3_4b.txt
+32518109,1,results_gemma3_12b.txt
+32532982,1,results_gemma3_12b.txt
+32636041,1,results_qwen2.53b.txt
+32637306,1,results_qwen2.53b.txt
+32720816,1,results_gemma3_12b.txt
+32794700,1,results_mistral-small3.2_latest.txt
+32947778,1,results_gemma3_12b.txt
+32959732,1,results_qwen2.5_32b.txt
+32965335,1,results_mistral-small3.2_latest.txt
+32977530,1,results_mistral-small3.2_latest.txt
+32980197,1,results_qwen2.53b.txt
+32985311,1,results_gemma3_12b.txt
+33072201,1,results_gemma3_4b.txt
+33135102,1,results_cogito_3b.txt
+33241454,1,results_qwen2.5_14b.txt
+33286293,1,results_gemma3_4b.txt
+33344933,1,results_qwen2.5_14b.txt
+33381211,1,results_cogito_3b.txt
+33527446,1,results_gemma3_4b.txt
+33704389,1,results_qwen2.5_32b.txt
+33750209,1,results_qwen2.53b.txt
+33893326,1,results_gemma3_4b.txt
+33964275,1,results_qwen2.53b.txt
+34033933,1,results_mistral-small3.2_latest.txt
+34046031,1,results_gemma3_4b.txt
+34051710,1,results_qwen2.5_32b.txt
+34141299,1,results_qwen2.53b.txt
+34151183,1,results_qwen2.5_14b.txt
+34319869,1,results_qwen2.5_32b.txt
+34327438,1,results_gemma3_4b.txt
+34544955,1,results_gemma3_4b.txt
+34554248,1,results_gemma3_4b.txt
+34583750,1,results_gemma3_4b.txt
+34594746,1,results_qwen2.53b.txt
+34657584,1,results_qwen2.53b.txt
+34712719,1,results_qwen2.5_14b.txt
+34758680,1,results_qwen2.53b.txt
+34783330,1,results_qwen2.53b.txt
+34970271,1,results_qwen2.5_32b.txt
+35157762,1,results_cogito_3b.txt
+35164503,1,results_gemma3_4b.txt
+35325329,1,results_qwen2.53b.txt
+35483925,1,results_gemma3_4b.txt
+35579812,1,results_qwen2.5_14b.txt
+35651876,1,results_gemma3_4b.txt
+35673335,1,results_qwen2.5_14b.txt
+35971546,1,results_mistral-small3.2_latest.txt
+36019469,1,results_gemma3_12b.txt
+36074301,1,results_qwen2.5_14b.txt
+36136569,1,results_gemma3_4b.txt
+36139251,1,results_gemma3_4b.txt
+36170003,1,results_gemma3_4b.txt
+36302399,1,results_qwen2.5_32b.txt
+36331163,1,results_gemma3_4b.txt
+36574147,1,results_qwen2.53b.txt
+36621169,1,results_cogito_3b.txt
+36694627,1,results_qwen2.53b.txt
+36758947,1,results_gemma3_4b.txt
+36868767,1,results_qwen2.53b.txt
+36904300,1,results_gemma3_12b.txt
+36905896,1,results_gemma3_4b.txt
+37087371,1,results_qwen2.53b.txt
+37231163,1,results_qwen2.53b.txt
+37333719,1,results_gemma3_12b.txt
+37360517,1,results_qwen2.5_14b.txt
+37370455,1,results_qwen2.53b.txt
+37374340,1,results_mistral-small3.2_latest.txt
+37375999,1,results_qwen2.53b.txt
+37402097,1,results_qwen2.53b.txt
+37521676,1,results_mistral-small3.2_latest.txt
+37540732,1,results_gemma3_4b.txt
+37664296,1,results_qwen2.53b.txt
+37750854,1,results_qwen2.53b.txt
+37751611,1,results_cogito_3b.txt
+37764298,1,results_gemma3_4b.txt
+38007664,1,results_gemma3_4b.txt
+38056161,1,results_gemma3_12b.txt
+38087844,1,results_qwen2.53b.txt
+38108845,1,results_gemma3_12b.txt
+38154903,1,results_qwen2.53b.txt
+38220146,1,results_gemma3_4b.txt
+38291889,1,results_qwen2.53b.txt
+38535335,1,results_qwen2.53b.txt
+38663892,1,results_qwen2.53b.txt
+38698573,1,results_mistral-small3.2_latest.txt
+38753827,1,results_qwen2.5_32b.txt
+38860712,1,results_qwen2.5_32b.txt
+38896303,1,results_qwen2.5_32b.txt
+38897568,1,results_qwen2.53b.txt
+39027764,1,results_qwen2.53b.txt
+39081840,1,results_gemma3_12b.txt
+39142536,1,results_qwen2.5_32b.txt
+39166680,1,results_gemma3_4b.txt
+39252859,1,results_cogito_3b.txt
+39308779,1,results_gemma3_4b.txt
+39413067,1,results_gemma3_4b.txt
+39434376,1,results_qwen2.5_32b.txt
+39566718,1,results_gemma3_4b.txt
+39674782,1,results_cogito_3b.txt
+39675895,1,results_qwen2.53b.txt
+39776400,1,results_qwen2.53b.txt
+39805617,1,results_qwen2.5_32b.txt
+39835894,1,results_qwen2.53b.txt
+40088790,1,results_qwen2.53b.txt
+40792022,1,results_qwen2.53b.txt
+40883703,1,results_qwen2.53b.txt
+41523474,1,results_qwen2.5_32b.txt
+41586420,1,results_qwen2.53b.txt
+41910253,1,results_gemma3_4b.txt
+42332765,1,results_gemma3_4b.txt
+43408471,1,results_qwen2.53b.txt
+43622023,1,results_gemma3_12b.txt
+43685045,1,results_gemma3_4b.txt
+43720116,1,results_qwen2.53b.txt
+44115326,1,results_gemma3_12b.txt
+44147689,1,results_mistral-small3.2_latest.txt
+45167858,1,results_qwen2.53b.txt
+45475027,1,results_qwen2.53b.txt
+45907524,1,results_gemma3_4b.txt
+46514339,1,results_gemma3_12b.txt
+47133747,1,results_gemma3_12b.txt
+47276718,1,results_qwen2.53b.txt
+47317494,1,results_cogito_3b.txt
+47410104,1,results_gemma3_4b.txt
+47729453,1,results_cogito_3b.txt
+47996197,1,results_gemma3_4b.txt
+48547319,1,results_mistral-small3.2_latest.txt
+48549972,1,results_qwen2.53b.txt
+49119887,1,results_gemma3_12b.txt
+49204385,1,results_qwen2.5_32b.txt
+49475708,1,results_gemma3_12b.txt
+49777184,1,results_qwen2.53b.txt
+50222417,1,results_gemma3_12b.txt
+50432401,1,results_gemma3_4b.txt
+50775901,1,results_gemma3_4b.txt
+51209395,1,results_gemma3_4b.txt
+51432451,1,results_gemma3_4b.txt
+51554903,1,results_mistral-small3.2_latest.txt
+51638201,1,results_gemma3_4b.txt
+51681660,1,results_qwen2.5_32b.txt
+51769822,1,results_qwen2.5_14b.txt
+51777546,1,results_mistral-small3.2_latest.txt
+54067174,1,results_cogito_3b.txt
+54100393,1,results_qwen2.5_32b.txt
+54180474,1,results_gemma3_4b.txt
+54259150,1,results_gemma3_4b.txt
+55104715,1,results_mistral-small3.2_latest.txt
+55477468,1,results_qwen2.5_32b.txt
+55595908,1,results_gemma3_4b.txt
+55712978,1,results_qwen2.53b.txt
+55746506,1,results_qwen2.53b.txt
+55953734,1,results_cogito_3b.txt
+56068028,1,results_qwen2.53b.txt
+57262959,1,results_gemma3_4b.txt
+57575888,1,results_gemma3_4b.txt
+58048626,1,results_qwen2.5_14b.txt
+58665241,1,results_qwen2.53b.txt
+58879993,1,results_cogito_3b.txt
+59011090,1,results_cogito_3b.txt
+59346975,1,results_qwen2.5_32b.txt
+59403481,1,results_gemma3_4b.txt
+59818742,1,results_qwen2.53b.txt
+60489316,1,results_qwen2.53b.txt
+61579998,1,results_qwen2.53b.txt
+61634281,1,results_gemma3_4b.txt
+61677751,1,results_qwen2.5_32b.txt
+62555739,1,results_gemma3_4b.txt
+62994611,1,results_gemma3_12b.txt
+63083944,1,results_qwen2.53b.txt
+63137898,1,results_qwen2.53b.txt
+63158213,1,results_cogito_3b.txt
+63282405,1,results_qwen2.53b.txt
+63391085,1,results_gemma3_4b.txt
+63670997,1,results_gemma3_4b.txt
+64589506,1,results_qwen2.53b.txt
+64755882,1,results_qwen2.5_14b.txt
+65219288,1,results_gemma3_12b.txt
+65352424,1,results_qwen2.53b.txt
+66226673,1,results_cogito_3b.txt
+67501448,1,results_qwen2.5_14b.txt
+67582956,1,results_qwen2.53b.txt
+67645662,1,results_gemma3_12b.txt
+68338341,1,results_qwen2.53b.txt
+69181350,1,results_gemma3_4b.txt
+69199666,1,results_gemma3_4b.txt
+69243180,1,results_gemma3_4b.txt
+69336473,1,results_gemma3_4b.txt
+69487178,1,results_mistral-small3.2_latest.txt
+69859102,1,results_gemma3_12b.txt
+70196518,1,results_qwen2.53b.txt
+70528646,1,results_qwen2.53b.txt
+70541112,1,results_qwen2.53b.txt
+71422121,1,results_qwen2.5_14b.txt
+71499299,1,results_gemma3_4b.txt
+71772815,1,results_mistral-small3.2_latest.txt
+72807293,1,results_qwen2.5_14b.txt
+72876163,1,results_gemma3_4b.txt
+73030450,1,results_mistral-small3.2_latest.txt
+73077810,1,results_qwen2.53b.txt
+73282756,1,results_mistral-small3.2_latest.txt
+73497035,1,results_cogito_3b.txt
+74191424,1,results_qwen2.53b.txt
+75156649,1,results_qwen2.53b.txt
+75286906,1,results_qwen2.53b.txt
+75329822,1,results_mistral-small3.2_latest.txt
+75435017,1,results_qwen2.5_32b.txt
+76916835,1,results_gemma3_4b.txt
+77576845,1,results_qwen2.53b.txt
+78149576,1,results_qwen2.53b.txt
+79041971,1,results_gemma3_4b.txt
+79376680,1,results_mistral-small3.2_latest.txt
+79570655,1,results_qwen2.53b.txt
+79663360,1,results_mistral-small3.2_latest.txt
+80000092,1,results_gemma3_4b.txt
+80053367,1,results_qwen2.53b.txt
+80679862,1,results_qwen2.5_14b.txt
+81125166,1,results_qwen2.5_32b.txt
+81217013,1,results_gemma3_12b.txt
+81310245,1,results_qwen2.53b.txt
+81373857,1,results_qwen2.53b.txt
+81508860,1,results_qwen2.53b.txt
+81588968,1,results_qwen2.53b.txt
+81677620,1,results_mistral-small3.2_latest.txt
+82140102,1,results_qwen2.53b.txt
+82649935,1,results_qwen2.53b.txt
+82929064,1,results_cogito_3b.txt
+83206166,1,results_qwen2.53b.txt
+84295343,1,results_qwen2.53b.txt
+85973397,1,results_qwen2.53b.txt
+86184722,1,results_gemma3_4b.txt
+86549455,1,results_gemma3_4b.txt
+86551046,1,results_cogito_3b.txt
+86595128,1,results_gemma3_4b.txt
+87118391,1,results_gemma3_12b.txt
+87635012,1,results_qwen2.53b.txt
+87968870,1,results_qwen2.53b.txt
+88691367,1,results_qwen2.53b.txt
+88907739,1,results_qwen2.53b.txt
+89508407,1,results_gemma3_12b.txt
+89512321,1,results_gemma3_12b.txt
+89740812,1,results_qwen2.5_14b.txt
+89858892,1,results_mistral-small3.2_latest.txt
+90468982,1,results_qwen2.53b.txt
+90867631,1,results_gemma3_4b.txt
+91026230,1,results_cogito_3b.txt
+91268638,1,results_gemma3_12b.txt
+91515108,1,results_qwen2.53b.txt
+91533580,1,results_qwen2.53b.txt
+91591026,1,results_gemma3_4b.txt
+91930382,1,results_qwen2.53b.txt
+92200491,1,results_gemma3_12b.txt
+92283635,1,results_qwen2.5_32b.txt
+93459677,1,results_gemma3_4b.txt
+93512385,1,results_qwen2.53b.txt
+94492380,1,results_qwen2.53b.txt
+95085510,1,results_gemma3_12b.txt
+95350373,1,results_gemma3_4b.txt
+95625660,1,results_mistral-small3.2_latest.txt
+95769832,1,results_qwen2.5_32b.txt
+95792386,1,results_qwen2.5_14b.txt
+96029688,1,results_qwen2.53b.txt
+96260484,1,results_qwen2.53b.txt
+96457008,1,results_qwen2.53b.txt
+98108571,1,results_qwen2.5_14b.txt
+98300955,1,results_gemma3_4b.txt
+98309114,1,results_gemma3_4b.txt
+98513424,1,results_mistral-small3.2_latest.txt
+98559931,1,results_gemma3_12b.txt
+99124477,1,results_mistral-small3.2_latest.txt
+99416532,1,results_mistral-small3.2_latest.txt
+99433371,1,results_cogito_3b.txt
+99680385,1,results_qwen2.53b.txt
+99714410,1,results_qwen2.53b.txt

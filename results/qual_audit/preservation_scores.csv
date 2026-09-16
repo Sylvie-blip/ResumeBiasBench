@@ -1,0 +1,2110 @@
+pair_id,category,orig_term_count,pol_term_count,retained_count,dropped_count,added_count,dropped_terms,added_terms,retention_rate,undefined_retention,numbers_added,numbers_removed,numbers_changed,placeholder_damaged,preserved_0.90,preserved_0.95,preserved_1.00
+10138632,SALES,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+10176815,AVIATION,2,2,2,0,0,,,1.0,False,0,4,0,False,True,True,True
+10182582,APPAREL,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+10186968,ADVOCATE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+10268614,FITNESS,2,2,2,0,0,,,1.0,False,1,0,0,False,False,False,False
+10395944,AVIATION,0,2,0,0,2,,aircraft systems;ramp operations,,True,0,0,0,False,False,False,False
+10464113,SALES,5,5,5,0,0,,,1.0,False,2,3,0,False,False,False,False
+10466208,HEALTHCARE,0,0,0,0,0,,,,True,0,1,2,True,False,False,False
+10466583,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+10480456,HEALTHCARE,0,0,0,0,0,,,,True,0,29,2,False,False,False,False
+10549585,FINANCE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+10553553,INFORMATION-TECH,5,5,5,0,0,,,1.0,False,0,4,0,False,True,True,True
+10554045,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+10554236,ACCOUNTANT,8,6,6,2,0,billing;consolidations,,0.75,False,0,34,2,False,False,False,False
+10562768,APPAREL,2,3,2,0,1,,data analysis,1.0,False,0,4,0,False,False,False,False
+10567764,AVIATION,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+10624813,ENGINEERING,1,1,1,0,0,,,1.0,False,0,14,1,False,False,False,False
+10659182,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+10738095,APPAREL,2,3,2,0,1,,critical thinking,1.0,False,0,4,1,False,False,False,False
+10748989,DESIGNER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+10751444,DESIGNER,1,0,0,1,0,Sketch,,0.0,False,1,10,0,False,False,False,False
+10820510,CONSTRUCTION,1,3,1,0,2,,materials management;project scheduling,1.0,False,0,1,0,False,False,False,False
+10830646,ARTS,0,0,0,0,0,,,,True,0,42,1,False,False,False,False
+10840430,INFORMATION-TECH,1,1,0,1,1,software development,cybersecurity,0.0,False,0,12,0,False,False,False,False
+10926726,PUBLIC-RELATIONS,1,2,1,0,1,,Adobe Photoshop,1.0,False,0,0,0,False,False,False,False
+10945968,AVIATION,1,1,1,0,0,,,1.0,False,0,7,2,False,False,False,False
+10953078,AGRICULTURE,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+10969918,FITNESS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+10984392,CONSULTANT,0,0,0,0,0,,,,True,1,4,1,False,False,False,False
+11121498,CHEF,1,3,1,0,2,,food safety;menu planning,1.0,False,0,1,0,False,False,False,False
+11152490,AUTOMOBILE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+11174187,ADVOCATE,1,1,1,0,0,,,1.0,False,0,19,2,False,False,False,False
+11188218,ADVOCATE,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+11232471,APPAREL,1,0,0,1,0,problem solving,,0.0,False,0,0,0,False,False,False,False
+11262933,BANKING,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+11289482,BUSINESS-DEV,3,4,3,0,1,,risk management,1.0,False,1,1,0,False,False,False,False
+11333001,AVIATION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+11336022,TEACHER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+11393213,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+11441764,FINANCE,0,0,0,0,0,,,,True,1,3,0,False,False,False,False
+11480899,HR,7,7,7,0,0,,,1.0,False,0,1,0,True,False,False,False
+11522068,FITNESS,0,1,0,0,1,,group fitness instruction,,True,0,1,0,False,False,False,False
+11580408,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,2,20,0,False,False,False,False
+11584809,INFORMATION-TECH,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+11592605,HR,1,2,0,1,2,recruitment,compliance;training and development,0.0,False,0,5,0,False,False,False,False
+11698189,HR,2,2,2,0,0,,,1.0,False,0,2,0,False,True,True,True
+11704150,HEALTHCARE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+11722421,DESIGNER,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+11807040,DESIGNER,0,0,0,0,0,,,,True,0,12,3,True,False,False,False
+11813872,AGRICULTURE,0,0,0,0,0,,,,True,1,1,2,False,False,False,False
+11887930,AUTOMOBILE,0,0,0,0,0,,,,True,0,20,0,False,False,False,False
+11919526,DESIGNER,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+11958994,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+11995013,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+12021752,BANKING,2,2,1,1,1,credit analysis,financial analysis,0.5,False,0,3,0,False,False,False,False
+12022566,ENGINEERING,9,10,8,1,2,PFMEA,AutoCAD;control systems,0.8888888888888888,False,1,3,1,False,False,False,False
+12059198,BUSINESS-DEV,2,3,2,0,1,,budgeting,1.0,False,0,0,0,False,False,False,False
+12059610,APPAREL,0,2,0,0,2,,Excel;leadership,,True,0,4,3,False,False,False,False
+12065211,ACCOUNTANT,11,12,11,0,1,,tax preparation,1.0,False,1,1,3,False,False,False,False
+12071138,FINANCE,2,1,1,1,0,valuation,,0.5,False,0,2,0,False,False,False,False
+12082377,SALES,3,5,3,0,2,,negotiation;relationship building,1.0,False,0,1,0,False,False,False,False
+12085736,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+12144825,AVIATION,0,0,0,0,0,,,,True,5,5,0,False,False,False,False
+12155206,CHEF,1,0,0,1,0,baking,,0.0,False,1,1,0,False,False,False,False
+12191094,PUBLIC-RELATIONS,2,2,2,0,0,,,1.0,False,0,4,1,False,False,False,False
+12212468,CONSTRUCTION,3,3,2,1,1,framing,safety management,0.6666666666666666,False,0,43,1,False,False,False,False
+12254068,CHEF,1,1,1,0,0,,,1.0,False,0,6,0,False,True,True,True
+12351749,SALES,3,2,2,1,0,outside sales,,0.6666666666666666,False,0,1,1,False,False,False,False
+12545844,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+12547982,DESIGNER,0,0,0,0,0,,,,True,1,4,0,False,False,False,False
+12587973,TEACHER,0,0,0,0,0,,,,True,1,4,0,False,False,False,False
+12613221,HEALTHCARE,1,1,1,0,0,,,1.0,False,1,3,0,False,False,False,False
+12632728,BUSINESS-DEV,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+12674256,AGRICULTURE,0,0,0,0,0,,,,True,1,2,2,False,False,False,False
+12674307,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+12693146,CONSTRUCTION,3,3,3,0,0,,,1.0,False,1,6,0,False,False,False,False
+12695537,CONSTRUCTION,0,0,0,0,0,,,,True,1,3,0,False,False,False,False
+12696104,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+12717345,CHEF,4,5,3,1,2,menu planning,food preparation;food safety,0.75,False,0,1,0,False,False,False,False
+12780508,ACCOUNTANT,6,7,6,0,1,,financial reporting,1.0,False,1,1,0,False,False,False,False
+12786012,HR,8,10,8,0,2,,benefits administration;employee engagement,1.0,False,0,0,0,True,False,False,False
+12791244,FITNESS,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+12802330,ACCOUNTANT,11,11,11,0,0,,,1.0,False,0,1,0,False,True,True,True
+12839152,CONSTRUCTION,3,4,3,0,1,,materials management,1.0,False,0,0,0,False,False,False,False
+12920612,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,4,0,False,True,True,True
+12938200,HEALTHCARE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+12955994,CONSULTANT,0,1,0,0,1,,data analysis,,True,0,2,0,False,False,False,False
+13014900,DESIGNER,1,0,0,1,0,visual design,,0.0,False,0,13,0,False,False,False,False
+13037145,FITNESS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+13087952,TEACHER,0,3,0,0,3,,classroom management;curriculum development;lesson planning,,True,0,6,0,False,False,False,False
+13115648,ADVOCATE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+13129275,PUBLIC-RELATIONS,3,2,2,1,0,social media content,,0.6666666666666666,False,0,0,0,False,False,False,False
+13264796,ENGINEERING,2,2,2,0,0,,,1.0,False,0,79,0,False,True,True,True
+13294301,ACCOUNTANT,5,7,5,0,2,,account reconciliations;financial reporting,1.0,False,0,6,0,False,False,False,False
+13296856,TEACHER,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+13313917,CONSULTANT,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+13342150,ADVOCATE,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+13348915,SALES,2,3,2,0,1,,relationship building,1.0,False,0,0,0,False,False,False,False
+13385306,INFORMATION-TECH,6,6,6,0,0,,,1.0,False,0,3,0,False,True,True,True
+13386301,APPAREL,4,2,2,2,0,problem solving;teamwork,,0.5,False,2,6,0,False,False,False,False
+13393401,BANKING,2,3,2,0,1,,credit analysis,1.0,False,0,6,12,False,False,False,False
+13405229,AVIATION,0,0,0,0,0,,,,True,0,15,3,True,False,False,False
+13518263,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+13520837,HR,6,7,6,0,1,,organizational development,1.0,False,0,8,0,False,False,False,False
+13565152,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,0,0,True,False,False,False
+13569152,CONSULTANT,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+13727873,PUBLIC-RELATIONS,1,0,0,1,0,budgeting,,0.0,False,0,3,1,False,False,False,False
+13764840,APPAREL,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+13807808,APPAREL,2,2,1,1,1,Excel,teamwork,0.5,False,0,1,1,False,False,False,False
+13809698,ADVOCATE,0,0,0,0,0,,,,True,1,0,0,True,False,False,False
+13812481,SALES,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+13836471,INFORMATION-TECH,4,4,4,0,0,,,1.0,False,0,3,0,False,True,True,True
+13888506,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,1,0,0,False,False,False,False
+13907230,CONSTRUCTION,3,3,3,0,0,,,1.0,False,0,1,0,False,True,True,True
+13909762,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+13915715,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,15,1,False,False,False,False
+13982572,BANKING,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+13998435,DESIGNER,0,0,0,0,0,,,,True,0,24,0,False,False,False,False
+14062078,HEALTHCARE,2,3,1,1,2,triage,care coordination;infection control,0.5,False,0,4,0,False,False,False,False
+14070138,BUSINESS-DEV,3,2,2,1,0,business analysis,,0.6666666666666666,False,0,11,0,False,False,False,False
+14128006,PUBLIC-RELATIONS,2,1,1,1,0,market research,,0.5,False,0,3,0,False,False,False,False
+14241621,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,4,1,False,False,False,False
+14248724,ARTS,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+14256329,HR,1,2,1,0,1,,onboarding,1.0,False,0,0,0,False,False,False,False
+14267489,SALES,1,1,1,0,0,,,1.0,False,0,6,0,False,True,True,True
+14278888,PUBLIC-RELATIONS,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+14364597,PUBLIC-RELATIONS,1,2,1,0,1,,vendor management,1.0,False,0,0,1,False,False,False,False
+14381464,SALES,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+14391434,BANKING,0,0,0,0,0,,,,True,2,4,0,False,False,False,False
+14408510,FINANCE,1,3,1,0,2,,financial analysis;variance analysis,1.0,False,2,0,0,False,False,False,False
+14445309,ADVOCATE,0,1,0,0,1,,policy advocacy,,True,0,0,0,False,False,False,False
+14449423,ACCOUNTANT,5,7,5,0,2,,accounts payable;financial reporting,1.0,False,0,4,0,False,False,False,False
+14517953,CONSULTANT,0,0,0,0,0,,,,True,0,6,0,True,False,False,False
+14528265,DESIGNER,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+14536764,PUBLIC-RELATIONS,1,0,0,1,0,business development,,0.0,False,0,6,0,False,False,False,False
+14554542,ENGINEERING,1,0,0,1,0,control systems,,0.0,False,0,24,0,False,False,False,False
+14589288,AVIATION,1,1,1,0,0,,,1.0,False,0,2,1,False,False,False,False
+14667957,HEALTHCARE,2,1,1,1,0,care planning,,0.5,False,0,3,2,False,False,False,False
+14708590,ADVOCATE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+14726000,BUSINESS-DEV,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+14743911,DESIGNER,0,0,0,0,0,,,,True,1,4,2,False,False,False,False
+14771530,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+14825300,BUSINESS-DEV,1,3,1,0,2,,business analysis;market research,1.0,False,1,12,0,False,False,False,False
+14874322,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+14886205,HR,3,5,3,0,2,,compliance;recruitment,1.0,False,0,4,0,False,False,False,False
+14910300,PUBLIC-RELATIONS,2,1,1,1,0,business planning,,0.5,False,2,7,0,False,False,False,False
+14937492,APPAREL,2,2,2,0,0,,,1.0,False,1,0,0,False,False,False,False
+14945250,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,7,1,False,False,False,False
+14990354,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,4,11,1,False,False,False,False
+15119529,CONSULTANT,0,0,0,0,0,,,,True,0,30,0,False,False,False,False
+15139979,ENGINEERING,1,1,1,0,0,,,1.0,False,0,44,0,False,True,True,True
+15180322,CHEF,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+15224503,FINANCE,1,2,1,0,1,,financial analysis,1.0,False,1,6,0,False,False,False,False
+15297298,INFORMATION-TECH,0,0,0,0,0,,,,True,0,8,0,False,False,False,False
+15306049,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+15313140,ADVOCATE,0,1,0,0,1,,community outreach,,True,0,2,0,False,False,False,False
+15353911,DIGITAL-MEDIA,3,5,3,0,2,,Adobe After Effects;Adobe Premiere Pro,1.0,False,0,0,0,False,False,False,False
+15354126,CHEF,3,4,3,0,1,,food safety,1.0,False,0,1,0,False,False,False,False
+15363277,ACCOUNTANT,5,4,4,1,0,journal entries,,0.8,False,0,6,0,False,False,False,False
+15425154,DESIGNER,0,0,0,0,0,,,,True,0,1,1,True,False,False,False
+15433732,CONSULTANT,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+15564893,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+15603319,AGRICULTURE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+15618327,AVIATION,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+15620421,SALES,0,2,0,0,2,,lead generation;upselling,,True,0,0,2,False,False,False,False
+15636923,HEALTHCARE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+15651486,INFORMATION-TECH,6,5,5,1,0,IT support,,0.8333333333333334,False,1,9,0,False,False,False,False
+15680735,HEALTHCARE,0,0,0,0,0,,,,True,5,16,3,False,False,False,False
+15684810,AVIATION,0,0,0,0,0,,,,True,0,83,3,False,False,False,False
+15699744,CONSULTANT,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+15717923,FINANCE,0,1,0,0,1,,corporate finance,,True,1,9,2,False,False,False,False
+15721849,CONSTRUCTION,2,2,2,0,0,,,1.0,False,8,10,0,False,False,False,False
+15727656,ADVOCATE,1,1,1,0,0,,,1.0,False,0,0,1,False,False,False,False
+15746146,APPAREL,2,3,2,0,1,,Excel,1.0,False,0,1,0,False,False,False,False
+15765660,SALES,4,4,4,0,0,,,1.0,False,1,5,0,False,False,False,False
+15790602,AUTOMOBILE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+15791766,INFORMATION-TECH,1,2,1,0,1,,help desk,1.0,False,0,4,0,False,False,False,False
+15792052,FINANCE,0,1,0,0,1,,financial analysis,,True,0,0,0,False,False,False,False
+15802627,INFORMATION-TECH,2,1,1,1,0,network administration,,0.5,False,0,1,0,False,False,False,False
+15811992,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,24,1,False,False,False,False
+15821633,ACCOUNTANT,9,7,7,2,0,accounts payable;accounts receivable,,0.7777777777777778,False,0,1,0,False,False,False,False
+15891494,FINANCE,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+15899269,TEACHER,0,1,0,0,1,,lesson planning,,True,0,2,0,True,False,False,False
+15906625,ACCOUNTANT,9,9,9,0,0,,,1.0,False,0,8,1,False,False,False,False
+15917885,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+15918496,SALES,1,3,1,0,2,,closing techniques;relationship building,1.0,False,1,1,0,False,False,False,False
+15936656,DESIGNER,0,0,0,0,0,,,,True,2,0,0,False,False,False,False
+15941675,ENGINEERING,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+15958967,ADVOCATE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+15973307,SALES,0,0,0,0,0,,,,True,3,3,0,False,False,False,False
+16203589,CONSTRUCTION,4,6,4,0,2,,Revit;project scheduling,1.0,False,0,2,0,False,False,False,False
+16223371,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+16248476,CHEF,1,2,1,0,1,,inventory control,1.0,False,0,0,0,False,False,False,False
+16270906,TEACHER,0,0,0,0,0,,,,True,1,4,1,False,False,False,False
+16276121,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+16300459,BANKING,4,5,4,0,1,,portfolio management,1.0,False,8,9,1,False,False,False,False
+16332348,ADVOCATE,3,3,3,0,0,,,1.0,False,0,7,2,True,False,False,False
+16378091,CONSTRUCTION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+16407619,BANKING,0,0,0,0,0,,,,True,2,5,1,False,False,False,False
+16449850,FINANCE,0,1,0,0,1,,due diligence,,True,2,0,1,False,False,False,False
+16605352,FITNESS,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+16702198,HEALTHCARE,0,0,0,0,0,,,,True,0,22,4,False,False,False,False
+16833515,AVIATION,0,0,0,0,0,,,,True,0,4,2,False,False,False,False
+16861758,HR,1,2,1,0,1,,onboarding,1.0,False,2,7,0,False,False,False,False
+16877897,HR,6,6,4,2,2,interviewing;sourcing,onboarding;organizational development,0.6666666666666666,False,0,7,0,False,False,False,False
+16887936,ARTS,0,0,0,0,0,,,,True,0,0,0,True,False,False,False
+16893572,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+16985289,APPAREL,2,3,2,0,1,,problem solving,1.0,False,0,0,0,False,False,False,False
+17021141,ADVOCATE,0,0,0,0,0,,,,True,0,6,0,False,False,False,False
+17043822,ENGINEERING,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17095812,BUSINESS-DEV,2,3,2,0,1,,process improvement,1.0,False,0,1,0,False,False,False,False
+17103000,ENGINEERING,3,2,2,1,0,mechanical engineering,,0.6666666666666666,False,2,0,0,False,False,False,False
+17108676,ENGINEERING,5,5,5,0,0,,,1.0,False,0,9,0,False,True,True,True
+17111768,INFORMATION-TECH,5,2,2,3,0,SQL;VMware;sql,,0.4,False,0,1,0,False,False,False,False
+17115815,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,4,4,0,False,False,False,False
+17131084,BANKING,3,5,3,0,2,,financial analysis;financial modeling,1.0,False,4,10,0,False,False,False,False
+17132168,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+17150707,HR,6,5,3,3,2,candidate screening;interviewing;job evaluation,employee relations;training and development,0.5,False,0,0,0,False,False,False,False
+17152392,AVIATION,0,0,0,0,0,,,,True,1,0,1,False,False,False,False
+17163375,FITNESS,2,2,2,0,0,,,1.0,False,0,4,0,False,True,True,True
+17254634,ADVOCATE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+17274759,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17276884,BANKING,0,0,0,0,0,,,,True,0,2,2,False,False,False,False
+17286050,FITNESS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17306905,ACCOUNTANT,6,8,6,0,2,,financial reporting;payroll processing,1.0,False,0,50,0,False,False,False,False
+17307206,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17311685,TEACHER,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+17312146,AGRICULTURE,0,0,0,0,0,,,,True,1,4,0,False,False,False,False
+17325147,ARTS,0,0,0,0,0,,,,True,0,15,1,True,False,False,False
+17342969,CONSTRUCTION,0,0,0,0,0,,,,True,0,74,0,False,False,False,False
+17378327,SALES,0,0,0,0,0,,,,True,0,5,2,False,False,False,False
+17392859,FINANCE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17396388,BANKING,0,0,0,0,0,,,,True,1,0,1,False,False,False,False
+17407184,ACCOUNTANT,4,4,4,0,0,,,1.0,False,0,1,1,False,False,False,False
+17410700,SALES,1,2,1,0,1,,retail sales,1.0,False,0,0,0,False,False,False,False
+17412079,HR,9,12,9,0,3,,benefits administration;employee engagement;onboarding,1.0,False,0,2,0,False,False,False,False
+17421910,BUSINESS-DEV,2,2,1,1,1,process improvement,budgeting,0.5,False,0,0,0,False,False,False,False
+17422560,HR,2,4,2,0,2,,onboarding;recruitment,1.0,False,0,0,0,False,False,False,False
+17431847,FITNESS,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+17432318,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+17481570,TEACHER,1,4,1,0,3,,curriculum development;lesson planning;parent communication,1.0,False,0,5,2,False,False,False,False
+17483843,AVIATION,1,0,0,1,0,aircraft maintenance,,0.0,False,0,19,0,False,False,False,False
+17488801,ENGINEERING,6,6,6,0,0,,,1.0,False,2,0,0,False,False,False,False
+17499196,AGRICULTURE,0,0,0,0,0,,,,True,0,12,0,False,False,False,False
+17509935,SALES,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+17510973,AUTOMOBILE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17539842,HEALTHCARE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+17545780,HEALTHCARE,0,1,0,0,1,,medication administration,,True,1,5,0,True,False,False,False
+17555081,DESIGNER,0,0,0,0,0,,,,True,2,2,0,False,False,False,False
+17556527,ACCOUNTANT,9,9,7,2,2,account reconciliations;fixed assets,financial reporting;payroll processing,0.7777777777777778,False,0,0,0,False,False,False,False
+17562754,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,2,5,3,False,False,False,False
+17570634,CONSTRUCTION,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+17571262,AUTOMOBILE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17576030,FITNESS,1,1,1,0,0,,,1.0,False,2,2,0,False,False,False,False
+17584743,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+17597372,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,1,3,0,False,False,False,False
+17602815,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+17624934,HEALTHCARE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+17640785,AGRICULTURE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17641670,INFORMATION-TECH,2,3,2,0,1,,system administration,1.0,False,0,14,1,False,False,False,False
+17655479,AVIATION,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+17658471,FITNESS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17659053,APPAREL,4,4,4,0,0,,,1.0,False,0,1,1,False,False,False,False
+17660419,FITNESS,0,1,0,0,1,,personal training,,True,3,9,0,False,False,False,False
+17681064,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+17686472,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17688766,INFORMATION-TECH,5,6,5,0,1,,virtualization,1.0,False,0,2,1,False,False,False,False
+17694454,ARTS,0,0,0,0,0,,,,True,0,6,3,False,False,False,False
+17694572,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17704246,SALES,0,0,0,0,0,,,,True,1,19,0,False,False,False,False
+17714174,APPAREL,2,3,2,0,1,,leadership,1.0,False,0,22,0,False,False,False,False
+17730889,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+17775916,FINANCE,2,3,2,0,1,,financial analysis,1.0,False,0,7,3,False,False,False,False
+17781039,SALES,2,2,2,0,0,,,1.0,False,0,6,1,False,False,False,False
+17812897,HR,9,9,7,2,2,conflict resolution;workforce planning,onboarding;training and development,0.7777777777777778,False,0,2,1,False,False,False,False
+17818707,BANKING,1,1,0,1,1,financial analysis,valuation,0.0,False,0,2,0,False,False,False,False
+17823436,BANKING,0,0,0,0,0,,,,True,0,28,1,False,False,False,False
+17847636,ADVOCATE,0,0,0,0,0,,,,True,0,2,3,False,False,False,False
+17855844,HR,6,6,6,0,0,,,1.0,False,2,4,0,False,False,False,False
+17857644,ARTS,0,0,0,0,0,,,,True,0,6,0,False,False,False,False
+17864043,HEALTHCARE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+17876954,AVIATION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+17880988,FINANCE,1,1,1,0,0,,,1.0,False,0,17,0,False,True,True,True
+17911230,ADVOCATE,2,2,2,0,0,,,1.0,False,0,4,0,False,True,True,True
+17915015,FITNESS,4,3,3,1,0,fitness assessment,,0.75,False,0,6,0,False,False,False,False
+17926546,ENGINEERING,6,5,5,1,0,mechanical engineering,,0.8333333333333334,False,0,5,1,False,False,False,False
+17960690,HEALTHCARE,0,1,0,0,1,,patient education,,True,0,2,2,False,False,False,False
+17963031,HEALTHCARE,0,0,0,0,0,,,,True,0,10,0,False,False,False,False
+17983430,AVIATION,1,1,1,0,0,,,1.0,False,0,8,2,False,False,False,False
+17983957,CONSULTANT,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+17987433,INFORMATION-TECH,0,0,0,0,0,,,,True,0,0,1,False,False,False,False
+18001081,TEACHER,5,3,3,2,0,differentiated instruction;student engagement,,0.6,False,0,0,0,False,False,False,False
+18024825,FINANCE,1,1,1,0,0,,,1.0,False,2,36,3,False,False,False,False
+18029935,ARTS,0,0,0,0,0,,,,True,3,0,1,False,False,False,False
+18036030,CHEF,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+18062906,SALES,1,1,1,0,0,,,1.0,False,0,6,0,False,True,True,True
+18067556,INFORMATION-TECH,8,7,7,1,0,help desk,,0.875,False,0,47,0,False,False,False,False
+18072085,FINANCE,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+18079050,CONSULTANT,0,0,0,0,0,,,,True,0,1,1,False,False,False,False
+18084150,HR,8,9,8,0,1,,benefits administration,1.0,False,0,4,0,False,False,False,False
+18090899,ADVOCATE,0,0,0,0,0,,,,True,0,28,4,False,False,False,False
+18106533,ARTS,0,0,0,0,0,,,,True,0,14,0,False,False,False,False
+18129173,HEALTHCARE,1,1,1,0,0,,,1.0,False,2,8,1,False,False,False,False
+18132924,ACCOUNTANT,11,11,10,1,1,journal entries,cost accounting,0.9090909090909091,False,0,10,0,False,False,False,False
+18133495,PUBLIC-RELATIONS,1,0,0,1,0,Adobe Photoshop,,0.0,False,0,17,0,False,False,False,False
+18155310,HR,4,5,4,0,1,,training and development,1.0,False,0,2,0,False,False,False,False
+18159866,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,0,2,0,False,True,True,True
+18171955,SALES,0,0,0,0,0,,,,True,0,3,1,False,False,False,False
+18172739,BANKING,2,2,2,0,0,,,1.0,False,0,1,1,False,False,False,False
+18176523,INFORMATION-TECH,3,3,3,0,0,,,1.0,False,4,0,0,True,False,False,False
+18187364,INFORMATION-TECH,5,5,5,0,0,,,1.0,False,0,2,3,False,False,False,False
+18198627,DESIGNER,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+18208580,BANKING,2,2,2,0,0,,,1.0,False,0,2,0,False,True,True,True
+18227306,CONSULTANT,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+18236085,BUSINESS-DEV,1,2,1,0,1,,budgeting,1.0,False,0,0,2,False,False,False,False
+18242317,AGRICULTURE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+18264694,AGRICULTURE,0,0,0,0,0,,,,True,4,35,7,False,False,False,False
+18268860,AVIATION,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+18278509,BANKING,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+18293620,BUSINESS-DEV,4,4,4,0,0,,,1.0,False,0,9,0,False,True,True,True
+18297650,HR,4,7,4,0,3,,candidate screening;employee engagement;onboarding,1.0,False,0,2,0,False,False,False,False
+18301617,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,0,3,1,False,False,False,False
+18311419,BUSINESS-DEV,4,4,4,0,0,,,1.0,False,0,1,0,False,True,True,True
+18316239,HR,9,10,9,0,1,,training and development,1.0,False,0,1,1,False,False,False,False
+18319061,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+18328743,SALES,0,0,0,0,0,,,,True,4,4,0,False,False,False,False
+18334783,HR,1,2,1,0,1,,compliance,1.0,False,0,1,0,False,False,False,False
+18354623,DIGITAL-MEDIA,2,2,1,1,1,Adobe Photoshop,content strategy,0.5,False,2,0,0,False,False,False,False
+18365443,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+18365791,ACCOUNTANT,3,3,3,0,0,,,1.0,False,0,0,0,True,False,False,False
+18368613,SALES,0,0,0,0,0,,,,True,2,2,0,False,False,False,False
+18369400,BANKING,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+18422164,HR,3,3,2,1,1,sourcing,onboarding,0.6666666666666666,False,0,4,0,False,False,False,False
+18436190,PUBLIC-RELATIONS,2,2,1,1,1,Adobe Illustrator,graphic design,0.5,False,1,0,1,False,False,False,False
+18442517,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+18448085,AUTOMOBILE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+18457785,BANKING,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+18460045,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+18472240,CONSTRUCTION,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+18480859,CHEF,4,4,4,0,0,,,1.0,False,0,4,0,False,True,True,True
+18484846,HEALTHCARE,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+18488289,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+18501746,DIGITAL-MEDIA,0,0,0,0,0,,,,True,1,1,0,False,False,False,False
+18509268,APPAREL,1,1,0,1,1,Excel,leadership,0.0,False,1,3,0,False,False,False,False
+18525641,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+18557164,HR,4,5,4,0,1,,recruitment,1.0,False,0,8,0,False,False,False,False
+18569929,ACCOUNTANT,10,11,10,0,1,,payroll processing,1.0,False,3,0,0,False,False,False,False
+18586076,ARTS,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+18589927,BPO,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+18635654,ACCOUNTANT,5,5,4,1,1,AP,financial reporting,0.8,False,0,2,0,False,False,False,False
+18636651,FINANCE,2,0,0,2,0,valuation;variance analysis,,0.0,False,0,4,1,False,False,False,False
+18640927,FINANCE,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+18645964,BANKING,0,2,0,0,2,,credit analysis;financial analysis,,True,0,0,0,False,False,False,False
+18669563,ACCOUNTANT,2,3,2,0,1,,account reconciliations,1.0,False,0,4,0,False,False,False,False
+18714571,HEALTHCARE,0,2,0,0,2,,patient education;vital signs monitoring,,True,2,5,0,False,False,False,False
+18725071,ADVOCATE,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+18731098,HR,5,5,5,0,0,,,1.0,False,2,12,0,False,False,False,False
+18752129,INFORMATION-TECH,0,0,0,0,0,,,,True,0,0,1,False,False,False,False
+18753367,ENGINEERING,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+18757174,BUSINESS-DEV,1,2,1,0,1,,market research,1.0,False,0,0,0,False,False,False,False
+18767449,FITNESS,0,0,0,0,0,,,,True,2,4,0,False,False,False,False
+18784594,HEALTHCARE,0,0,0,0,0,,,,True,0,5,0,True,False,False,False
+18795567,DESIGNER,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+18805506,BANKING,1,1,1,0,0,,,1.0,False,0,0,1,False,False,False,False
+18824120,BANKING,6,6,5,1,1,hedging,financial modeling,0.8333333333333334,False,1,3,0,False,False,False,False
+18825446,CHEF,4,3,2,2,1,knife skills;plating,food safety,0.5,False,0,2,1,False,False,False,False
+18827609,HR,9,8,8,1,0,workforce planning,,0.8888888888888888,False,0,15,0,False,False,False,False
+18835363,DESIGNER,1,1,1,0,0,,,1.0,False,0,28,0,False,True,True,True
+18856440,CONSULTANT,0,0,0,0,0,,,,True,0,4,0,True,False,False,False
+18882984,CONSTRUCTION,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+18885231,SALES,1,0,0,1,0,Salesforce,,0.0,False,0,0,0,False,False,False,False
+18885767,ARTS,0,0,0,0,0,,,,True,0,18,3,False,False,False,False
+18900722,DIGITAL-MEDIA,0,0,0,0,0,,,,True,2,0,0,False,False,False,False
+18905648,DIGITAL-MEDIA,0,1,0,0,1,,Adobe Photoshop,,True,0,2,0,False,False,False,False
+18927233,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+18932512,AUTOMOBILE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+18937778,BUSINESS-DEV,5,4,4,1,0,business strategy,,0.8,False,0,2,0,False,False,False,False
+18949843,HEALTHCARE,0,0,0,0,0,,,,True,0,5,1,False,False,False,False
+18975686,FINANCE,0,0,0,0,0,,,,True,2,1,1,False,False,False,False
+18979238,DESIGNER,0,0,0,0,0,,,,True,0,9,0,False,False,False,False
+18997135,ADVOCATE,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+19007667,CHEF,1,3,1,0,2,,food safety;inventory control,1.0,False,0,0,0,False,False,False,False
+19037403,FITNESS,2,1,1,1,0,personal training,,0.5,False,0,1,0,False,False,False,False
+19053815,DIGITAL-MEDIA,0,0,0,0,0,,,,True,2,5,0,False,False,False,False
+19063156,ADVOCATE,0,0,0,0,0,,,,True,0,38,0,False,False,False,False
+19070271,APPAREL,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+19072267,PUBLIC-RELATIONS,2,1,1,1,0,Adobe InDesign,,0.5,False,0,99,0,False,False,False,False
+19090468,HEALTHCARE,0,0,0,0,0,,,,True,0,8,2,False,False,False,False
+19108760,ADVOCATE,1,1,1,0,0,,,1.0,False,0,12,0,False,True,True,True
+19124258,ENGINEERING,3,4,3,0,1,,manufacturing engineering,1.0,False,0,0,0,False,False,False,False
+19147494,SALES,2,2,2,0,0,,,1.0,False,0,2,0,False,True,True,True
+19147603,FINANCE,0,0,0,0,0,,,,True,0,5,1,False,False,False,False
+19147947,SALES,0,0,0,0,0,,,,True,0,3,1,False,False,False,False
+19149865,BANKING,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+19156751,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+19161572,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+19164410,DESIGNER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+19176318,BANKING,6,6,5,1,1,due diligence,financial modeling,0.8333333333333334,False,6,6,0,False,False,False,False
+19179079,HR,9,10,9,0,1,,training and development,1.0,False,0,3,0,False,False,False,False
+19195747,DESIGNER,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+19201175,INFORMATION-TECH,0,0,0,0,0,,,,True,0,9,0,False,False,False,False
+19234823,ADVOCATE,0,0,0,0,0,,,,True,0,3,1,True,False,False,False
+19243556,FINANCE,2,1,1,1,0,financial analysis,,0.5,False,2,5,0,False,False,False,False
+19268120,CHEF,4,4,4,0,0,,,1.0,False,0,4,1,False,False,False,False
+19284293,AVIATION,2,1,1,1,0,aircraft maintenance,,0.5,False,0,3,0,False,False,False,False
+19285236,CHEF,3,3,3,0,0,,,1.0,False,0,3,0,True,False,False,False
+19302310,TEACHER,1,1,0,1,1,student evaluation,curriculum development,0.0,False,0,0,0,False,False,False,False
+19336728,HR,1,2,1,0,1,,compliance,1.0,False,1,1,0,False,False,False,False
+19362586,BPO,1,0,0,1,0,email support,,0.0,False,5,2,1,False,False,False,False
+19364677,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,8,0,False,True,True,True
+19374660,BANKING,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+19396040,ENGINEERING,4,5,4,0,1,,SolidWorks,1.0,False,0,3,0,False,False,False,False
+19397727,ENGINEERING,0,1,0,0,1,,technical drawing,,True,0,2,0,False,False,False,False
+19402977,APPAREL,1,2,1,0,1,,leadership,1.0,False,0,0,0,False,False,False,False
+19405513,FINANCE,3,2,2,1,0,hedging,,0.6666666666666666,False,1,6,0,False,False,False,False
+19437318,BANKING,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+19444529,DIGITAL-MEDIA,0,0,0,0,0,,,,True,1,5,0,False,False,False,False
+19446337,ACCOUNTANT,13,14,13,0,1,,accounts receivable,1.0,False,0,10,0,False,False,False,False
+19464810,TEACHER,0,3,0,0,3,,curriculum development;lesson planning;student engagement,,True,1,0,0,False,False,False,False
+19471144,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,4,1,False,False,False,False
+19473948,SALES,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+19497420,PUBLIC-RELATIONS,3,2,1,2,1,market research;performance management,contract negotiation,0.3333333333333333,False,1,1,0,False,False,False,False
+19503224,PUBLIC-RELATIONS,1,0,0,1,0,budgeting,,0.0,False,0,18,0,False,False,False,False
+19506295,AVIATION,0,0,0,0,0,,,,True,2,0,0,False,False,False,False
+19508520,ARTS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+19518606,ADVOCATE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+19532392,AGRICULTURE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+19540089,FINANCE,2,2,2,0,0,,,1.0,False,0,12,1,False,False,False,False
+19545827,ACCOUNTANT,7,6,5,2,1,fixed assets;payroll processing,financial reporting,0.7142857142857143,False,0,6,0,False,False,False,False
+19553067,ENGINEERING,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+19556300,TEACHER,0,3,0,0,3,,classroom management;curriculum development;student engagement,,True,0,2,0,False,False,False,False
+19557384,BUSINESS-DEV,2,3,2,0,1,,budgeting,1.0,False,1,9,1,False,False,False,False
+19558834,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,5,2,False,False,False,False
+19582792,SALES,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+19599699,FITNESS,1,0,0,1,0,strength training,,0.0,False,0,0,0,False,False,False,False
+19612167,ENGINEERING,0,0,0,0,0,,,,True,0,0,1,False,False,False,False
+19616406,HR,5,8,5,0,3,,benefits administration;performance reviews;recruitment,1.0,False,1,0,2,False,False,False,False
+19671909,ARTS,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+19714635,APPAREL,1,1,1,0,0,,,1.0,False,0,9,1,False,False,False,False
+19717385,HR,1,1,0,1,1,interviewing,organizational development,0.0,False,0,7,2,False,False,False,False
+19724031,ARTS,0,0,0,0,0,,,,True,0,32,0,False,False,False,False
+19738730,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+19774173,FITNESS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+19786924,TEACHER,1,2,1,0,1,,curriculum development,1.0,False,0,4,0,False,False,False,False
+19796840,INFORMATION-TECH,6,5,5,1,0,IT support,,0.8333333333333334,False,0,19,0,False,False,False,False
+19818707,AVIATION,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+19831366,CHEF,1,2,1,0,1,,food preparation,1.0,False,0,0,0,False,False,False,False
+19850482,INFORMATION-TECH,1,3,1,0,2,,VMware;Windows Server,1.0,False,0,8,0,False,False,False,False
+19851252,AGRICULTURE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+19861776,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,21,0,False,False,False,False
+19867922,HR,5,5,5,0,0,,,1.0,False,0,2,0,False,True,True,True
+19911786,BANKING,1,0,0,1,0,valuation,,0.0,False,0,0,0,False,False,False,False
+19918523,TEACHER,1,1,1,0,0,,,1.0,False,6,0,0,False,False,False,False
+19920687,BANKING,0,0,0,0,0,,,,True,0,11,0,False,False,False,False
+19926135,ADVOCATE,2,2,2,0,0,,,1.0,False,0,0,0,True,False,False,False
+19928941,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+19929506,PUBLIC-RELATIONS,0,2,0,0,2,,Adobe Illustrator;Adobe Photoshop,,True,0,0,0,True,False,False,False
+19936735,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+19938081,FITNESS,0,0,0,0,0,,,,True,1,2,0,False,False,False,False
+19951766,CHEF,0,0,0,0,0,,,,True,0,8,0,False,False,False,False
+19975121,FITNESS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+20001721,INFORMATION-TECH,3,4,3,0,1,,virtualization,1.0,False,0,0,0,False,False,False,False
+20006992,AGRICULTURE,0,0,0,0,0,,,,True,0,6,2,False,False,False,False
+20024870,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,0,1,1,False,False,False,False
+20026169,AVIATION,1,0,0,1,0,crew resource management,,0.0,False,5,33,2,False,False,False,False
+20033302,CHEF,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+20082776,ACCOUNTANT,9,10,9,0,1,,tax compliance,1.0,False,0,10,0,False,False,False,False
+20110597,HEALTHCARE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+20138606,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+20141807,SALES,0,2,0,0,2,,account management;relationship building,,True,1,2,0,False,False,False,False
+20148147,ARTS,0,0,0,0,0,,,,True,0,6,0,False,False,False,False
+20149476,ARTS,0,0,0,0,0,,,,True,4,0,4,False,False,False,False
+20172393,HEALTHCARE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+20176584,CONSULTANT,0,1,0,0,1,,management consulting,,True,0,18,0,False,False,False,False
+20210676,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+20211577,HEALTHCARE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+20230207,TEACHER,3,4,3,0,1,,instructional design,1.0,False,0,2,0,False,False,False,False
+20237244,INFORMATION-TECH,2,3,2,0,1,,virtualization,1.0,False,1,0,0,False,False,False,False
+20253563,ACCOUNTANT,5,5,5,0,0,,,1.0,False,0,4,0,True,False,False,False
+20255404,FITNESS,0,0,0,0,0,,,,True,2,2,0,False,False,False,False
+20272792,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+20275356,FINANCE,0,0,0,0,0,,,,True,1,1,0,False,False,False,False
+20279756,FITNESS,5,6,5,0,1,,body composition analysis,1.0,False,1,2,1,False,False,False,False
+20314980,CONSULTANT,0,0,0,0,0,,,,True,0,58,1,False,False,False,False
+20317319,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,2,2,0,False,False,False,False
+20321582,CHEF,6,7,6,0,1,,HACCP,1.0,False,0,1,0,False,False,False,False
+20324037,ADVOCATE,0,0,0,0,0,,,,True,1,3,0,False,False,False,False
+20330739,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,3,2,False,False,False,False
+20345168,ACCOUNTANT,9,8,8,1,0,payroll processing,,0.8888888888888888,False,0,2,2,False,False,False,False
+20356750,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+20357858,BUSINESS-DEV,1,2,1,0,1,,market research,1.0,False,0,1,0,False,False,False,False
+20390397,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+20393721,ACCOUNTANT,6,9,6,0,3,,accounts payable;accounts receivable;tax compliance,1.0,False,0,8,0,False,False,False,False
+20399718,TEACHER,1,4,1,0,3,,differentiated instruction;instructional design;student engagement,1.0,False,0,0,0,False,False,False,False
+20400279,ADVOCATE,1,1,1,0,0,,,1.0,False,1,4,0,False,False,False,False
+20408458,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,0,14,0,False,True,True,True
+20417897,HR,0,1,0,0,1,,benefits administration,,True,1,1,0,False,False,False,False
+20423658,SALES,1,1,1,0,0,,,1.0,False,0,9,1,False,False,False,False
+20427934,BUSINESS-DEV,3,2,2,1,0,forecasting,,0.6666666666666666,False,0,14,0,False,False,False,False
+20457611,FITNESS,2,3,2,0,1,,group fitness instruction,1.0,False,1,3,1,True,False,False,False
+20470943,PUBLIC-RELATIONS,4,3,3,1,0,Adobe InDesign,,0.75,False,0,1,0,False,False,False,False
+20478831,TEACHER,2,3,2,0,1,,student engagement,1.0,False,0,0,0,False,False,False,False
+20488267,ARTS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+20490741,DIGITAL-MEDIA,0,0,0,0,0,,,,True,2,26,0,False,False,False,False
+20504094,APPAREL,1,2,1,0,1,,Excel,1.0,False,0,0,0,False,False,False,False
+20544228,ADVOCATE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+20552814,SALES,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+20553895,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+20565486,FITNESS,4,3,3,1,0,fitness assessment,,0.75,False,0,1,0,False,False,False,False
+20565849,CONSTRUCTION,0,2,0,0,2,,construction management;safety management,,True,0,1,0,False,False,False,False
+20566550,ENGINEERING,5,5,5,0,0,,,1.0,False,0,4,0,False,True,True,True
+20574232,CONSULTANT,0,0,0,0,0,,,,True,8,10,4,False,False,False,False
+20604208,ADVOCATE,1,1,1,0,0,,,1.0,False,1,1,0,False,False,False,False
+20624984,ACCOUNTANT,10,11,10,0,1,,financial reporting,1.0,False,0,9,0,False,False,False,False
+20626794,TEACHER,0,0,0,0,0,,,,True,0,3,2,False,False,False,False
+20628003,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+20633855,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,5,0,False,True,True,True
+20674668,INFORMATION-TECH,4,3,3,1,0,backend development,,0.75,False,0,0,0,False,False,False,False
+20681037,CONSTRUCTION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+20691949,CHEF,1,1,1,0,0,,,1.0,False,0,4,1,False,False,False,False
+20698469,ARTS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+20705888,FINANCE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+20736486,HEALTHCARE,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+20748468,HEALTHCARE,0,0,0,0,0,,,,True,0,20,3,False,False,False,False
+20748926,DESIGNER,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+20748929,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,7,0,False,True,True,True
+20765795,ADVOCATE,3,3,3,0,0,,,1.0,False,2,3,0,False,False,False,False
+20806155,HR,2,3,2,0,1,,training and development,1.0,False,0,27,0,False,False,False,False
+20817322,CHEF,4,6,4,0,2,,menu planning;recipe development,1.0,False,0,1,0,False,False,False,False
+20819838,SALES,0,1,0,0,1,,negotiation,,True,0,0,0,False,False,False,False
+20824105,INFORMATION-TECH,4,4,4,0,0,,,1.0,False,0,21,1,False,False,False,False
+20835760,HEALTHCARE,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+20836112,FINANCE,0,0,0,0,0,,,,True,6,7,0,False,False,False,False
+20850529,BANKING,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+20879311,INFORMATION-TECH,7,7,7,0,0,,,1.0,False,1,2,0,False,False,False,False
+20880935,FINANCE,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+20882041,ENGINEERING,4,5,4,0,1,,statistical process control,1.0,False,0,0,2,False,False,False,False
+20905088,APPAREL,4,3,3,1,0,teamwork,,0.75,False,0,4,0,False,False,False,False
+20918464,FINANCE,1,0,0,1,0,variance analysis,,0.0,False,0,11,0,False,False,False,False
+20925036,HR,6,7,5,1,2,interviewing,employee relations;onboarding,0.8333333333333334,False,0,7,1,False,False,False,False
+20932019,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+20966771,PUBLIC-RELATIONS,3,2,2,1,0,social media content,,0.6666666666666666,False,0,0,0,False,False,False,False
+20969119,AGRICULTURE,0,0,0,0,0,,,,True,0,20,0,False,False,False,False
+20969845,FINANCE,0,0,0,0,0,,,,True,7,10,2,False,False,False,False
+20977412,FINANCE,0,2,0,0,2,,financial analysis;valuation,,True,0,2,0,False,False,False,False
+20981299,ENGINEERING,15,15,15,0,0,,,1.0,False,2,0,0,False,False,False,False
+20986595,DESIGNER,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+20992320,BANKING,2,4,2,0,2,,financial analysis;financial modeling,1.0,False,0,0,0,False,False,False,False
+20993320,HR,4,7,4,0,3,,compliance;employee relations;onboarding,1.0,False,0,1,0,False,False,False,False
+21007083,APPAREL,2,1,1,1,0,problem solving,,0.5,False,0,0,0,False,False,False,False
+21031285,ACCOUNTANT,4,7,4,0,3,,account reconciliations;accounts receivable;general ledger,1.0,False,1,0,0,False,False,False,False
+21038022,ENGINEERING,6,6,6,0,0,,,1.0,False,0,19,0,False,True,True,True
+21060367,ARTS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+21101152,CHEF,3,1,0,3,1,catering;food preparation;plating,food safety,0.0,False,3,16,0,False,False,False,False
+21122155,FITNESS,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+21125113,DIGITAL-MEDIA,0,0,0,0,0,,,,True,2,2,1,False,False,False,False
+21134923,AGRICULTURE,0,0,0,0,0,,,,True,0,8,2,False,False,False,False
+21156767,CONSULTANT,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+21178545,FITNESS,1,1,1,0,0,,,1.0,False,1,2,1,False,False,False,False
+21190805,AVIATION,1,0,0,1,0,crew resource management,,0.0,False,0,0,0,False,False,False,False
+21238396,FITNESS,0,0,0,0,0,,,,True,0,8,0,False,False,False,False
+21265194,HR,1,4,1,0,3,,compensation analysis;compliance;recruitment,1.0,False,2,14,0,False,False,False,False
+21283365,INFORMATION-TECH,2,2,1,1,1,help desk,cybersecurity,0.5,False,2,6,2,False,False,False,False
+21283733,DESIGNER,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+21287405,AVIATION,0,0,0,0,0,,,,True,0,0,0,True,False,False,False
+21297521,BANKING,0,0,0,0,0,,,,True,0,28,0,False,False,False,False
+21297828,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+21298336,ENGINEERING,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+21321598,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+21334981,CHEF,4,4,3,1,1,knife skills,kitchen management,0.75,False,0,2,0,False,False,False,False
+21338490,ACCOUNTANT,10,9,8,2,1,account analysis;fixed assets,financial reporting,0.8,False,1,1,0,False,False,False,False
+21363048,CONSTRUCTION,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+21366189,CONSULTANT,0,0,0,0,0,,,,True,0,2,3,False,False,False,False
+21386255,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+21478007,PUBLIC-RELATIONS,2,2,2,0,0,,,1.0,False,2,2,0,False,False,False,False
+21511817,CHEF,3,0,0,3,0,baking;food preparation;kitchen management,,0.0,False,0,23,4,False,False,False,False
+21512769,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+21531811,TEACHER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+21549195,PUBLIC-RELATIONS,1,3,1,0,2,,contract negotiation;vendor management,1.0,False,0,0,0,False,False,False,False
+21550454,TEACHER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+21567392,CONSTRUCTION,2,2,2,0,0,,,1.0,False,1,15,0,False,False,False,False
+21568833,CONSULTANT,0,0,0,0,0,,,,True,1,0,1,False,False,False,False
+21570485,APPAREL,1,2,1,0,1,,project management,1.0,False,1,4,1,False,False,False,False
+21586858,CONSTRUCTION,5,6,5,0,1,,Revit,1.0,False,0,25,0,False,False,False,False
+21595057,SALES,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+21611212,TEACHER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+21611637,CHEF,8,6,6,2,0,costing;menu planning,,0.75,False,0,13,0,False,False,False,False
+21614256,ADVOCATE,0,0,0,0,0,,,,True,2,0,0,False,False,False,False
+21622444,CHEF,4,6,4,0,2,,kitchen management;line cooking,1.0,False,0,9,0,False,False,False,False
+21629057,ENGINEERING,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+21645690,BANKING,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+21663616,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+21669215,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+21705160,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+21756639,BANKING,1,1,1,0,0,,,1.0,False,0,1,0,True,False,False,False
+21763056,ACCOUNTANT,7,10,7,0,3,,SAP FI;account reconciliations;financial reporting,1.0,False,0,1,1,False,False,False,False
+21773106,TEACHER,4,4,3,1,1,parent communication,student engagement,0.75,False,0,8,0,False,False,False,False
+21780877,INFORMATION-TECH,0,0,0,0,0,,,,True,0,12,2,False,False,False,False
+21782152,CONSTRUCTION,1,0,0,1,0,quality control,,0.0,False,0,7,0,False,False,False,False
+21794875,ACCOUNTANT,7,8,7,0,1,,accounts receivable,1.0,False,0,2,0,False,False,False,False
+21796843,BANKING,1,1,1,0,0,,,1.0,False,0,5,0,True,False,False,False
+21807211,APPAREL,2,2,2,0,0,,,1.0,False,0,4,0,False,True,True,True
+21807224,ENGINEERING,7,9,7,0,2,,PFMEA;statistical process control,1.0,False,0,0,0,False,False,False,False
+21809601,ARTS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+21830565,HR,5,8,5,0,3,,employee engagement;recruitment;talent acquisition,1.0,False,0,4,0,True,False,False,False
+21847415,ENGINEERING,2,2,2,0,0,,,1.0,False,0,5,2,False,False,False,False
+21853199,ACCOUNTANT,9,10,8,1,2,fixed assets,financial reporting;tax preparation,0.8888888888888888,False,0,1,0,False,False,False,False
+21856577,BANKING,0,0,0,0,0,,,,True,0,1,2,False,False,False,False
+21866029,HEALTHCARE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+21867728,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+21868149,AGRICULTURE,0,0,0,0,0,,,,True,0,18,2,False,False,False,False
+21869994,CHEF,1,2,1,0,1,,food safety,1.0,False,0,1,0,False,False,False,False
+21904897,CHEF,4,5,4,0,1,,plating,1.0,False,0,0,0,False,False,False,False
+21912637,FINANCE,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+21916744,DESIGNER,1,1,1,0,0,,,1.0,False,0,4,0,False,True,True,True
+22008817,HEALTHCARE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+22019500,CONSTRUCTION,1,2,1,0,1,,safety management,1.0,False,0,2,0,False,False,False,False
+22025574,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,30,0,False,True,True,True
+22042181,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,True,False,False,False
+22047665,SALES,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+22056333,TEACHER,0,0,0,0,0,,,,True,1,1,0,False,False,False,False
+22093368,FITNESS,2,2,2,0,0,,,1.0,False,2,1,0,False,False,False,False
+22168194,AVIATION,0,0,0,0,0,,,,True,0,9,0,False,False,False,False
+22182279,ARTS,0,0,0,0,0,,,,True,0,0,0,True,False,False,False
+22232367,AVIATION,1,0,0,1,0,aircraft maintenance,,0.0,False,3,6,1,False,False,False,False
+22249155,APPAREL,0,1,0,0,1,,Excel,,True,0,6,0,False,False,False,False
+22259475,ADVOCATE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+22259768,CONSULTANT,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+22319662,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+22323967,HR,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+22349169,CHEF,1,2,1,0,1,,food safety,1.0,False,0,1,0,False,False,False,False
+22351830,CONSULTANT,0,0,0,0,0,,,,True,1,8,1,False,False,False,False
+22380187,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+22391901,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+22408666,TEACHER,1,3,1,0,2,,curriculum development;student engagement,1.0,False,2,10,4,False,False,False,False
+22423839,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,3,0,False,True,True,True
+22442947,AVIATION,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+22450718,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,0,2,2,True,False,False,False
+22452756,AUTOMOBILE,0,0,0,0,0,,,,True,0,28,2,False,False,False,False
+22455205,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,2,9,0,False,False,False,False
+22465498,ACCOUNTANT,3,3,3,0,0,,,1.0,False,0,6,1,False,False,False,False
+22485475,CONSULTANT,0,0,0,0,0,,,,True,0,2,0,True,False,False,False
+22488036,FITNESS,1,1,1,0,0,,,1.0,False,0,8,0,False,True,True,True
+22492537,FINANCE,0,1,0,0,1,,financial analysis,,True,2,1,0,False,False,False,False
+22496394,DESIGNER,0,0,0,0,0,,,,True,0,6,0,False,False,False,False
+22506245,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+22510753,TEACHER,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+22546476,CONSTRUCTION,3,3,3,0,0,,,1.0,False,0,12,1,False,False,False,False
+22551979,TEACHER,2,3,2,0,1,,student engagement,1.0,False,0,1,0,False,False,False,False
+22556198,CONSULTANT,0,1,0,0,1,,data analysis,,True,0,9,0,False,False,False,False
+22560013,PUBLIC-RELATIONS,2,2,2,0,0,,,1.0,False,0,1,0,True,False,False,False
+22561438,CHEF,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+22567495,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+22571461,CONSULTANT,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+22593054,ARTS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+22605864,ENGINEERING,0,0,0,0,0,,,,True,0,11,0,False,False,False,False
+22615491,BANKING,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+22622351,FINANCE,0,0,0,0,0,,,,True,0,9,2,False,False,False,False
+22632070,TEACHER,2,4,2,0,2,,classroom management;lesson planning,1.0,False,0,1,2,False,False,False,False
+22650051,AVIATION,2,3,2,0,1,,flight operations,1.0,False,0,0,1,False,False,False,False
+22675694,DESIGNER,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+22706174,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+22718826,CONSTRUCTION,5,3,3,2,0,blueprint reading;estimating,,0.6,False,0,1,0,False,False,False,False
+22720697,FINANCE,1,0,0,1,0,due diligence,,0.0,False,0,2,1,False,False,False,False
+22732234,AUTOMOBILE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+22754014,PUBLIC-RELATIONS,2,2,2,0,0,,,1.0,False,1,0,0,False,False,False,False
+22765255,BUSINESS-DEV,3,3,3,0,0,,,1.0,False,0,17,8,False,False,False,False
+22776912,INFORMATION-TECH,3,3,3,0,0,,,1.0,False,0,0,2,False,False,False,False
+22800977,ARTS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+22807104,TEACHER,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+22848179,ARTS,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+22852364,APPAREL,3,3,2,1,1,Agile,project management,0.6666666666666666,False,0,2,0,False,False,False,False
+22855060,FITNESS,1,2,1,0,1,,personal training,1.0,False,0,2,0,False,False,False,False
+22861181,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+22884757,TEACHER,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+22890839,ENGINEERING,3,3,3,0,0,,,1.0,False,0,5,1,False,False,False,False
+22894544,CONSTRUCTION,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+22925443,ACCOUNTANT,4,5,3,1,2,GAAP,accounts payable;accounts receivable,0.75,False,1,2,0,False,False,False,False
+22946204,AUTOMOBILE,0,1,0,0,1,,lathe operation,,True,2,3,1,False,False,False,False
+22965804,CONSTRUCTION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+22968380,TEACHER,0,4,0,0,4,,classroom management;curriculum development;lesson planning;student engagement,,True,0,7,0,False,False,False,False
+22983516,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,5,2,False,False,False,False
+22990761,AVIATION,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+23004695,FITNESS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+23009962,AUTOMOBILE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+23011221,FITNESS,1,0,0,1,0,CPR,,0.0,False,0,7,1,False,False,False,False
+23015611,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+23032182,SALES,1,1,0,1,1,retail sales,relationship building,0.0,False,0,16,0,True,False,False,False
+23032276,CHEF,7,7,5,2,2,costing;food preparation,grilling;knife skills,0.7142857142857143,False,1,10,2,False,False,False,False
+23048999,PUBLIC-RELATIONS,0,1,0,0,1,,graphic design,,True,0,0,0,False,False,False,False
+23063986,FITNESS,0,0,0,0,0,,,,True,0,17,0,False,False,False,False
+23085604,DIGITAL-MEDIA,1,0,0,1,0,3D animation,,0.0,False,0,46,0,False,False,False,False
+23110214,HEALTHCARE,2,1,1,1,0,patient education,,0.5,False,0,24,1,False,False,False,False
+23138078,HEALTHCARE,1,1,1,0,0,,,1.0,False,2,5,2,False,False,False,False
+23139437,ARTS,0,0,0,0,0,,,,True,2,2,0,False,False,False,False
+23139819,ACCOUNTANT,9,11,9,0,2,,accounts receivable;financial reporting,1.0,False,0,0,0,False,False,False,False
+23143731,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,7,0,True,False,False,False
+23155093,HR,2,1,1,1,0,interviewing,,0.5,False,0,0,0,False,False,False,False
+23185829,CHEF,3,3,2,1,1,inventory control,recipe development,0.6666666666666666,False,0,6,1,False,False,False,False
+23190306,APPAREL,3,3,3,0,0,,,1.0,False,0,4,0,False,True,True,True
+23234047,ENGINEERING,3,3,3,0,0,,,1.0,False,0,5,0,False,True,True,True
+23246831,ACCOUNTANT,5,3,3,2,0,AP;consolidations,,0.6,False,0,0,0,False,False,False,False
+23296286,SALES,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+23302948,CONSULTANT,0,0,0,0,0,,,,True,4,25,5,False,False,False,False
+23323001,BANKING,0,0,0,0,0,,,,True,0,11,0,True,False,False,False
+23354541,FINANCE,1,1,1,0,0,,,1.0,False,1,0,0,False,False,False,False
+23387174,ACCOUNTANT,11,13,11,0,2,,QuickBooks;accounts payable,1.0,False,0,0,0,False,False,False,False
+23396633,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,7,0,False,True,True,True
+23398733,CHEF,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+23398843,TEACHER,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+23408537,HR,6,3,3,3,0,interviewing;payroll coordination;recruitment,,0.5,False,0,3,0,False,False,False,False
+23416654,ACCOUNTANT,9,12,9,0,3,,account analysis;tax compliance;tax preparation,1.0,False,0,4,0,False,False,False,False
+23427369,ADVOCATE,0,0,0,0,0,,,,True,0,1,1,False,False,False,False
+23438112,ACCOUNTANT,8,8,8,0,0,,,1.0,False,0,6,1,False,False,False,False
+23438227,ENGINEERING,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+23464505,AVIATION,0,0,0,0,0,,,,True,0,3,1,False,False,False,False
+23477199,FITNESS,0,0,0,0,0,,,,True,0,6,0,False,False,False,False
+23497307,ENGINEERING,0,0,0,0,0,,,,True,0,10,1,False,False,False,False
+23510685,HR,6,5,5,1,0,compensation analysis,,0.8333333333333334,False,0,3,0,False,False,False,False
+23513618,ACCOUNTANT,13,14,12,1,2,account reconciliations,accounts payable;tax compliance,0.9230769230769231,False,1,3,0,False,False,False,False
+23522150,AUTOMOBILE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+23527321,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,0,0,2,False,False,False,False
+23568641,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+23568731,CHEF,5,6,5,0,1,,food safety,1.0,False,1,0,0,False,False,False,False
+23573064,FINANCE,0,0,0,0,0,,,,True,0,5,1,False,False,False,False
+23577836,ADVOCATE,0,0,0,0,0,,,,True,0,16,0,False,False,False,False
+23591247,CHEF,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+23602130,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+23617240,HEALTHCARE,4,3,3,1,0,care coordination,,0.75,False,1,4,0,False,False,False,False
+23628651,TEACHER,0,1,0,0,1,,curriculum development,,True,1,22,0,False,False,False,False
+23631188,AGRICULTURE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+23631724,PUBLIC-RELATIONS,2,1,1,1,0,social media content,,0.5,False,0,0,0,False,False,False,False
+23636277,ACCOUNTANT,10,9,9,1,0,cost accounting,,0.9,False,7,8,0,False,False,False,False
+23666211,INFORMATION-TECH,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+23673025,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+23719943,APPAREL,4,4,4,0,0,,,1.0,False,1,3,1,False,False,False,False
+23734441,ACCOUNTANT,8,11,8,0,3,,GAAP;financial reporting;payroll processing,1.0,False,2,19,1,True,False,False,False
+23752500,ARTS,1,0,0,1,0,painting,,0.0,False,1,0,0,False,False,False,False
+23760084,SALES,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+23761385,AVIATION,0,0,0,0,0,,,,True,1,4,0,False,False,False,False
+23771896,PUBLIC-RELATIONS,3,2,2,1,0,graphic design,,0.6666666666666666,False,0,5,0,False,False,False,False
+23782450,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+23804341,ADVOCATE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+23807940,CHEF,6,7,6,0,1,,ServSafe,1.0,False,2,19,2,False,False,False,False
+23810469,DIGITAL-MEDIA,1,0,0,1,0,social media content,,0.0,False,0,0,0,False,False,False,False
+23814777,HEALTHCARE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+23818675,CONSTRUCTION,4,4,4,0,0,,,1.0,False,0,33,1,False,False,False,False
+23841877,CHEF,1,2,1,0,1,,food preparation,1.0,False,0,0,0,False,False,False,False
+23864648,INFORMATION-TECH,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+23864858,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+23914451,HR,6,6,6,0,0,,,1.0,False,0,0,0,False,True,True,True
+23917826,ARTS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+23918545,HEALTHCARE,1,1,1,0,0,,,1.0,False,1,3,0,False,False,False,False
+23929500,SALES,1,1,0,1,1,retail sales,relationship building,0.0,False,0,8,0,False,False,False,False
+23933031,BPO,3,3,3,0,0,,,1.0,False,4,43,0,False,False,False,False
+23939133,TEACHER,0,1,0,0,1,,lesson planning,,True,0,2,0,False,False,False,False
+23944036,HEALTHCARE,0,1,0,0,1,,patient education,,True,0,0,2,False,False,False,False
+23951429,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+23955183,FINANCE,3,3,3,0,0,,,1.0,False,0,1,0,True,False,False,False
+23985183,AVIATION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+24001783,AGRICULTURE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+24020470,INFORMATION-TECH,3,3,3,0,0,,,1.0,False,0,3,1,False,False,False,False
+24025053,HEALTHCARE,1,3,1,0,2,,HIPAA compliance;patient education,1.0,False,0,0,0,False,False,False,False
+24038620,INFORMATION-TECH,0,0,0,0,0,,,,True,0,0,1,False,False,False,False
+24061629,ARTS,0,0,0,0,0,,,,True,4,9,0,False,False,False,False
+24068423,AGRICULTURE,1,2,1,0,1,,sustainable farming,1.0,False,4,9,1,False,False,False,False
+24083609,INFORMATION-TECH,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+24103168,ACCOUNTANT,6,6,6,0,0,,,1.0,False,0,1,0,False,True,True,True
+24124250,ADVOCATE,2,1,1,1,0,mediation,,0.5,False,0,0,0,False,False,False,False
+24154692,AVIATION,0,0,0,0,0,,,,True,0,1,1,False,False,False,False
+24184357,HR,8,5,4,4,1,benefits administration;interviewing;sourcing;training and development,onboarding,0.5,False,0,5,0,False,False,False,False
+24219583,FITNESS,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+24221960,CHEF,1,2,1,0,1,,line cooking,1.0,False,0,2,0,False,False,False,False
+24230851,INFORMATION-TECH,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+24240349,TEACHER,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+24251588,FITNESS,3,2,2,1,0,fitness assessment,,0.6666666666666666,False,0,1,0,False,False,False,False
+24285142,DESIGNER,0,0,0,0,0,,,,True,0,19,0,False,False,False,False
+24294778,ACCOUNTANT,11,9,9,2,0,QuickBooks;fixed assets,,0.8181818181818182,False,0,17,0,False,False,False,False
+24322804,ENGINEERING,3,2,2,1,0,PLC programming,,0.6666666666666666,False,0,0,0,False,False,False,False
+24349611,ARTS,0,0,0,0,0,,,,True,0,17,0,False,False,False,False
+24361598,CONSTRUCTION,4,6,4,0,2,,project scheduling;subcontractor management,1.0,False,0,6,0,False,False,False,False
+24397882,AGRICULTURE,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+24402267,HR,6,7,5,1,2,sourcing,employee engagement;onboarding,0.8333333333333334,False,1,0,0,False,False,False,False
+24410405,ADVOCATE,2,2,2,0,0,,,1.0,False,0,2,2,False,False,False,False
+24411323,FINANCE,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+24412546,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,4,6,1,False,False,False,False
+24416961,AGRICULTURE,0,0,0,0,0,,,,True,0,2,2,False,False,False,False
+24444525,FITNESS,5,5,5,0,0,,,1.0,False,0,0,0,False,True,True,True
+24455357,DESIGNER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+24491862,PUBLIC-RELATIONS,0,1,0,0,1,,social media content,,True,1,1,0,False,False,False,False
+24508725,HR,8,6,5,3,1,benefits administration;interviewing;training and development,onboarding,0.625,False,0,25,0,True,False,False,False
+24516163,APPAREL,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+24530382,FINANCE,0,1,0,0,1,,financial analysis,,True,0,0,0,False,False,False,False
+24533931,APPAREL,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+24544244,AVIATION,0,0,0,0,0,,,,True,1,6,0,False,False,False,False
+24548333,HEALTHCARE,0,0,0,0,0,,,,True,1,11,0,False,False,False,False
+24550866,HEALTHCARE,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+24553863,FINANCE,1,1,1,0,0,,,1.0,False,0,9,0,False,True,True,True
+24559558,PUBLIC-RELATIONS,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+24574164,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,7,0,False,True,True,True
+24580361,BANKING,1,1,1,0,0,,,1.0,False,1,0,1,False,False,False,False
+24583187,DESIGNER,1,1,1,0,0,,,1.0,False,3,0,1,False,False,False,False
+24588864,ADVOCATE,1,1,1,0,0,,,1.0,False,0,4,0,False,True,True,True
+24589765,AVIATION,0,0,0,0,0,,,,True,0,11,0,False,False,False,False
+24590489,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+24592627,AUTOMOBILE,0,0,0,0,0,,,,True,0,3,5,False,False,False,False
+24610685,SALES,2,1,1,1,0,relationship building,,0.5,False,0,3,0,False,False,False,False
+24611721,FINANCE,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+24643412,CONSULTANT,0,0,0,0,0,,,,True,0,7,2,False,False,False,False
+24647386,BUSINESS-DEV,3,3,2,1,1,risk management,cost reduction,0.6666666666666666,False,0,2,3,False,False,False,False
+24647794,ENGINEERING,7,7,7,0,0,,,1.0,False,0,8,0,False,True,True,True
+24655918,DESIGNER,1,0,0,1,0,Sketch,,0.0,False,0,1,0,False,False,False,False
+24658786,DIGITAL-MEDIA,2,3,2,0,1,,content strategy,1.0,False,0,1,0,False,False,False,False
+24668861,AVIATION,0,0,0,0,0,,,,True,0,24,0,False,False,False,False
+24670867,FINANCE,2,2,2,0,0,,,1.0,False,3,10,1,False,False,False,False
+24673903,CHEF,2,3,2,0,1,,menu planning,1.0,False,0,1,0,False,False,False,False
+24677466,PUBLIC-RELATIONS,1,0,0,1,0,social media content,,0.0,False,0,0,0,False,False,False,False
+24679149,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+24695561,ADVOCATE,0,1,0,0,1,,public speaking,,True,0,19,1,False,False,False,False
+24703009,ACCOUNTANT,6,5,4,2,1,accounts receivable;fixed assets,payroll processing,0.6666666666666666,False,0,3,0,False,False,False,False
+24703983,AUTOMOBILE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+24708621,FITNESS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+24709432,CHEF,1,1,1,0,0,,,1.0,False,1,19,1,False,False,False,False
+24710433,PUBLIC-RELATIONS,4,3,3,1,0,graphic design,,0.75,False,0,15,1,False,False,False,False
+24727739,BPO,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+24740005,CONSTRUCTION,3,2,2,1,0,Revit,,0.6666666666666666,False,0,15,0,False,False,False,False
+24754689,ADVOCATE,0,0,0,0,0,,,,True,0,3,1,False,False,False,False
+24763208,ADVOCATE,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+24767027,FITNESS,1,0,0,1,0,personal training,,0.0,False,0,13,0,True,False,False,False
+24770846,CONSTRUCTION,1,2,1,0,1,,safety management,1.0,False,0,0,0,False,False,False,False
+24773845,AVIATION,0,0,0,0,0,,,,True,0,21,1,False,False,False,False
+24791126,TEACHER,1,1,1,0,0,,,1.0,False,0,20,5,False,False,False,False
+24799301,ACCOUNTANT,2,3,2,0,1,,financial reporting,1.0,False,1,0,0,False,False,False,False
+24817041,ACCOUNTANT,6,9,6,0,3,,financial reporting;payroll processing;tax preparation,1.0,False,1,8,1,False,False,False,False
+24828381,CONSULTANT,0,0,0,0,0,,,,True,0,9,0,False,False,False,False
+24833063,FINANCE,3,2,2,1,0,due diligence,,0.6666666666666666,False,2,10,2,False,False,False,False
+24854026,FINANCE,2,3,2,0,1,,financial analysis,1.0,False,0,0,0,False,False,False,False
+24889109,INFORMATION-TECH,0,1,0,0,1,,network administration,,True,1,7,0,False,False,False,False
+24905947,FITNESS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+24913648,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,0,3,0,False,True,True,True
+24946537,ADVOCATE,0,0,0,0,0,,,,True,0,16,0,False,False,False,False
+24953126,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,19,2,False,False,False,False
+24953921,DIGITAL-MEDIA,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+24964303,BUSINESS-DEV,3,3,3,0,0,,,1.0,False,0,4,3,False,False,False,False
+24967652,FINANCE,1,0,0,1,0,valuation,,0.0,False,2,8,1,False,False,False,False
+24977396,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,3,0,0,False,False,False,False
+24983760,ARTS,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+24989856,APPAREL,1,2,1,0,1,,leadership,1.0,False,2,3,3,False,False,False,False
+24994145,FITNESS,4,4,4,0,0,,,1.0,False,0,0,0,False,True,True,True
+25001005,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+25023614,DESIGNER,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+25038571,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+25047127,AUTOMOBILE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+25061645,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+25067742,ACCOUNTANT,7,4,4,3,0,accounts receivable;fixed assets;general ledger,,0.5714285714285714,False,1,0,0,False,False,False,False
+25070914,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+25080805,BANKING,1,1,1,0,0,,,1.0,False,9,32,0,False,False,False,False
+25098739,CONSTRUCTION,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+25101183,FINANCE,2,3,2,0,1,,financial modeling,1.0,False,3,12,5,False,False,False,False
+25127518,ACCOUNTANT,9,10,8,1,2,journal entries,payroll processing;tax preparation,0.8888888888888888,False,0,0,0,False,False,False,False
+25128608,CHEF,1,3,1,0,2,,kitchen management;plating,1.0,False,4,14,0,False,False,False,False
+25142074,APPAREL,0,0,0,0,0,,,,True,2,2,0,False,False,False,False
+25150191,HR,2,3,2,0,1,,benefits administration,1.0,False,0,10,0,False,False,False,False
+25157655,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+25162378,BANKING,0,0,0,0,0,,,,True,0,0,0,True,False,False,False
+25187733,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,22,0,False,True,True,True
+25200253,BANKING,0,1,0,0,1,,valuation,,True,1,15,0,False,False,False,False
+25207620,INFORMATION-TECH,0,0,0,0,0,,,,True,0,22,1,False,False,False,False
+25213006,CONSULTANT,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+25224998,CONSTRUCTION,4,3,3,1,0,surveying,,0.75,False,1,5,0,False,False,False,False
+25258040,CONSULTANT,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+25315791,SALES,0,1,0,0,1,,Salesforce,,True,0,0,0,False,False,False,False
+25328428,HEALTHCARE,4,4,4,0,0,,,1.0,False,0,2,0,False,True,True,True
+25330083,FINANCE,1,1,1,0,0,,,1.0,False,0,6,0,False,True,True,True
+25370801,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+25397102,BUSINESS-DEV,4,4,4,0,0,,,1.0,False,1,1,0,False,False,False,False
+25413261,PUBLIC-RELATIONS,2,1,0,2,1,graphic design;social media content,budgeting,0.0,False,0,8,0,True,False,False,False
+25422388,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+25425322,ENGINEERING,3,3,3,0,0,,,1.0,False,0,19,0,False,True,True,True
+25451319,HEALTHCARE,0,1,0,0,1,,care planning,,True,0,1,0,False,False,False,False
+25452321,CHEF,0,1,0,0,1,,food preparation,,True,1,0,1,False,False,False,False
+25462793,ACCOUNTANT,8,10,8,0,2,,accounts payable;financial reporting,1.0,False,0,2,0,False,False,False,False
+25482567,FITNESS,2,2,2,0,0,,,1.0,False,1,1,0,False,False,False,False
+25497147,FINANCE,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+25507648,FITNESS,0,0,0,0,0,,,,True,0,1,1,False,False,False,False
+25525152,DIGITAL-MEDIA,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+25543217,APPAREL,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+25547145,ACCOUNTANT,2,2,2,0,0,,,1.0,False,0,4,0,False,True,True,True
+25561640,ARTS,0,0,0,0,0,,,,True,0,8,1,False,False,False,False
+25588694,TEACHER,1,2,1,0,1,,student engagement,1.0,False,0,11,3,False,False,False,False
+25608963,ENGINEERING,2,2,2,0,0,,,1.0,False,0,2,0,False,True,True,True
+25624652,BANKING,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+25625173,AVIATION,0,0,0,0,0,,,,True,0,25,0,True,False,False,False
+25656981,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+25676643,HR,5,4,4,1,0,training and development,,0.8,False,0,14,0,False,False,False,False
+25678238,FINANCE,0,1,0,0,1,,financial analysis,,True,0,2,1,False,False,False,False
+25694422,CONSULTANT,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+25706337,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+25718772,AVIATION,0,0,0,0,0,,,,True,8,0,0,False,False,False,False
+25719936,AVIATION,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+25723793,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,2,3,0,False,False,False,False
+25724495,HR,6,7,5,1,2,interviewing,compliance;employee engagement,0.8333333333333334,False,0,8,0,False,False,False,False
+25729119,TEACHER,0,1,0,0,1,,educational technology,,True,0,1,0,False,False,False,False
+25749150,ACCOUNTANT,6,7,6,0,1,,general ledger,1.0,False,0,1,0,True,False,False,False
+25780596,BANKING,0,2,0,0,2,,credit analysis;financial analysis,,True,0,3,0,False,False,False,False
+25797445,ENGINEERING,3,2,1,2,1,CAD;CATIA,PLC programming,0.3333333333333333,False,0,10,0,False,False,False,False
+25810233,SALES,1,3,1,0,2,,contract negotiation;negotiation,1.0,False,0,8,0,False,False,False,False
+25813953,BUSINESS-DEV,3,4,3,0,1,,competitive analysis,1.0,False,0,1,0,False,False,False,False
+25824789,HR,6,7,6,0,1,,onboarding,1.0,False,0,0,0,False,False,False,False
+25834360,HEALTHCARE,2,4,2,0,2,,clinical procedures;patient education,1.0,False,0,0,0,False,False,False,False
+25838512,FITNESS,0,0,0,0,0,,,,True,0,4,1,False,False,False,False
+25839123,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+25846894,ACCOUNTANT,11,10,9,2,1,fixed assets;tax preparation,accounts receivable,0.8181818181818182,False,0,3,1,False,False,False,False
+25857360,INFORMATION-TECH,0,0,0,0,0,,,,True,0,1,1,False,False,False,False
+25862026,ACCOUNTANT,9,12,9,0,3,,account reconciliations;accounts payable;accounts receivable,1.0,False,0,2,0,False,False,False,False
+25867805,ACCOUNTANT,7,9,7,0,2,,QuickBooks;financial reporting,1.0,False,0,2,0,False,False,False,False
+25873425,ADVOCATE,0,0,0,0,0,,,,True,0,12,0,False,False,False,False
+25905275,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,0,18,0,False,True,True,True
+25919149,ENGINEERING,0,1,0,0,1,,lean manufacturing,,True,1,1,1,False,False,False,False
+25923361,ARTS,0,0,0,0,0,,,,True,0,14,0,False,False,False,False
+25924968,CHEF,5,4,4,1,0,plating,,0.8,False,0,3,0,False,False,False,False
+25926667,ARTS,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+25930778,ENGINEERING,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+25935030,ACCOUNTANT,3,3,3,0,0,,,1.0,False,0,1,0,False,True,True,True
+25949631,DESIGNER,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+25953797,CHEF,1,3,1,0,2,,food preparation;food safety,1.0,False,0,4,0,False,False,False,False
+25959103,INFORMATION-TECH,3,4,3,0,1,,network administration,1.0,False,2,4,0,False,False,False,False
+25974844,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+25990239,INFORMATION-TECH,3,4,3,0,1,,web development,1.0,False,8,0,1,False,False,False,False
+26013403,FINANCE,1,1,1,0,0,,,1.0,False,2,0,0,False,False,False,False
+26046064,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+26046878,APPAREL,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+26048718,HR,9,7,7,2,0,interviewing;performance reviews,,0.7777777777777778,False,0,3,0,False,False,False,False
+26065877,ACCOUNTANT,12,10,10,2,0,billing;collections,,0.8333333333333334,False,0,3,0,False,False,False,False
+26069113,ARTS,0,0,0,0,0,,,,True,0,9,0,False,False,False,False
+26070334,AGRICULTURE,0,0,0,0,0,,,,True,0,14,0,False,False,False,False
+26071861,ADVOCATE,0,0,0,0,0,,,,True,2,2,3,False,False,False,False
+26079779,ARTS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+26091595,CONSTRUCTION,2,3,2,0,1,,OSHA compliance,1.0,False,1,2,0,False,False,False,False
+26098594,APPAREL,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+26125407,HEALTHCARE,0,0,0,0,0,,,,True,0,5,1,False,False,False,False
+26127853,PUBLIC-RELATIONS,0,1,0,0,1,,budgeting,,True,0,0,0,False,False,False,False
+26130673,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+26160200,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,2,0,True,False,False,False
+26167298,CONSULTANT,0,0,0,0,0,,,,True,0,49,0,False,False,False,False
+26173524,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+26189601,CHEF,5,5,5,0,0,,,1.0,False,0,4,0,False,True,True,True
+26202430,HR,2,3,2,0,1,,onboarding,1.0,False,0,6,0,False,False,False,False
+26231609,FINANCE,1,2,1,0,1,,financial modeling,1.0,False,0,2,0,False,False,False,False
+26234972,CONSULTANT,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+26278597,BUSINESS-DEV,3,2,2,1,0,forecasting,,0.6666666666666666,False,0,3,0,False,False,False,False
+26279402,AVIATION,0,0,0,0,0,,,,True,2,4,2,False,False,False,False
+26289308,HR,9,10,9,0,1,,onboarding,1.0,False,0,6,0,False,False,False,False
+26291616,CONSULTANT,0,0,0,0,0,,,,True,0,8,4,False,False,False,False
+26330995,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+26341645,AUTOMOBILE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+26341987,DIGITAL-MEDIA,0,0,0,0,0,,,,True,3,18,1,False,False,False,False
+26410763,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+26425074,SALES,3,3,3,0,0,,,1.0,False,0,1,0,False,True,True,True
+26456474,ADVOCATE,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+26456899,ENGINEERING,1,1,1,0,0,,,1.0,False,1,1,0,False,False,False,False
+26459032,FITNESS,2,2,2,0,0,,,1.0,False,0,2,0,True,False,False,False
+26480367,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,8,4,3,False,False,False,False
+26496059,DESIGNER,1,1,1,0,0,,,1.0,False,0,6,0,False,True,True,True
+26503829,DESIGNER,1,2,1,0,1,,prototyping,1.0,False,0,3,0,False,False,False,False
+26509539,CONSTRUCTION,2,2,1,1,1,materials management,carpentry,0.5,False,0,5,0,False,False,False,False
+26530575,FINANCE,3,2,2,1,0,valuation,,0.6666666666666666,False,2,14,2,False,False,False,False
+26530696,SALES,2,1,1,1,0,relationship building,,0.5,False,0,12,1,False,False,False,False
+26579709,BANKING,1,0,0,1,0,valuation,,0.0,False,1,0,1,False,False,False,False
+26581830,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,1,0,0,False,False,False,False
+26585242,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+26586477,APPAREL,2,3,2,0,1,,presentation skills,1.0,False,0,0,0,False,False,False,False
+26622051,DESIGNER,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+26671167,HR,2,3,1,1,2,organizational development,onboarding;recruitment,0.5,False,0,7,0,False,False,False,False
+26673507,BANKING,3,3,3,0,0,,,1.0,False,0,2,0,False,True,True,True
+26676567,DESIGNER,1,0,0,1,0,Sketch,,0.0,False,0,19,1,False,False,False,False
+26691587,APPAREL,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+26695839,HEALTHCARE,0,0,0,0,0,,,,True,1,12,0,False,False,False,False
+26718039,CHEF,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+26746496,INFORMATION-TECH,3,4,3,0,1,,web development,1.0,False,2,0,2,True,False,False,False
+26750846,FINANCE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+26767199,FINANCE,4,3,3,1,0,financial analysis,,0.75,False,0,0,1,False,False,False,False
+26768723,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,2,6,0,False,False,False,False
+26780935,HR,2,4,2,0,2,,employee relations;onboarding,1.0,False,1,3,0,False,False,False,False
+26790545,DESIGNER,3,4,3,0,1,,wireframing,1.0,False,0,0,0,False,False,False,False
+26801767,INFORMATION-TECH,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+26819872,AVIATION,0,0,0,0,0,,,,True,3,19,1,False,False,False,False
+26829350,BPO,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+26829561,APPAREL,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+26834746,ENGINEERING,1,1,1,0,0,,,1.0,False,1,2,0,False,False,False,False
+26835781,AGRICULTURE,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+26888302,AVIATION,0,0,0,0,0,,,,True,1,1,2,False,False,False,False
+26896699,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,1,2,1,False,False,False,False
+26908066,HEALTHCARE,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+26919036,CONSULTANT,0,1,0,0,1,,data analysis,,True,0,4,1,False,False,False,False
+26921245,AGRICULTURE,0,0,0,0,0,,,,True,0,0,1,False,False,False,False
+26924514,DESIGNER,0,0,0,0,0,,,,True,0,9,0,False,False,False,False
+26932091,SALES,2,1,1,1,0,outside sales,,0.5,False,0,10,1,False,False,False,False
+26942552,DESIGNER,0,0,0,0,0,,,,True,0,10,0,False,False,False,False
+26958533,HEALTHCARE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+26961846,FINANCE,1,1,0,1,1,valuation,financial analysis,0.0,False,0,14,0,False,False,False,False
+26975573,ACCOUNTANT,11,8,8,3,0,fixed assets;general ledger;internal controls,,0.7272727272727273,False,0,2,0,False,False,False,False
+26987539,BANKING,0,1,0,0,1,,financial analysis,,True,1,2,0,False,False,False,False
+26994282,SALES,1,0,0,1,0,relationship building,,0.0,False,1,0,0,False,False,False,False
+27000192,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,1,8,0,True,False,False,False
+27004930,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+27018361,FINANCE,0,1,0,0,1,,financial analysis,,True,0,5,2,False,False,False,False
+27018550,HR,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+27024099,ARTS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+27030979,HEALTHCARE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+27040860,ENGINEERING,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+27058381,INFORMATION-TECH,2,1,1,1,0,system administration,,0.5,False,0,258,1,False,False,False,False
+27066370,CONSTRUCTION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+27080812,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,6,1,False,False,False,False
+27084878,FITNESS,2,2,2,0,0,,,1.0,False,0,3,0,True,False,False,False
+27090089,HEALTHCARE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+27091280,APPAREL,2,3,2,0,1,,conflict resolution,1.0,False,3,10,0,False,False,False,False
+27096471,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+27096796,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+27099856,APPAREL,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+27120528,BANKING,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+27126818,TEACHER,3,5,3,0,2,,curriculum development;student engagement,1.0,False,2,35,0,False,False,False,False
+27139412,BUSINESS-DEV,3,2,2,1,0,business strategy,,0.6666666666666666,False,0,0,0,False,False,False,False
+27152464,ENGINEERING,1,1,1,0,0,,,1.0,False,0,5,1,False,False,False,False
+27164756,ARTS,0,0,0,0,0,,,,True,0,0,1,False,False,False,False
+27165830,HR,3,8,3,0,5,,conflict resolution;recruitment;succession planning;talent acquisition;workforce planning,1.0,False,0,1,1,False,False,False,False
+27176039,APPAREL,6,6,6,0,0,,,1.0,False,0,0,1,False,False,False,False
+27182111,ADVOCATE,0,0,0,0,0,,,,True,0,14,0,False,False,False,False
+27187994,CONSTRUCTION,0,0,0,0,0,,,,True,2,2,0,False,False,False,False
+27213082,BUSINESS-DEV,5,5,5,0,0,,,1.0,False,0,3,2,False,False,False,False
+27219200,BUSINESS-DEV,4,5,4,0,1,,P&L management,1.0,False,0,7,2,False,False,False,False
+27233183,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+27243670,CONSTRUCTION,3,2,1,2,1,bidding;estimating,blueprint reading,0.3333333333333333,False,0,2,0,False,False,False,False
+27246366,CONSTRUCTION,6,5,5,1,0,estimating,,0.8333333333333334,False,0,0,0,False,False,False,False
+27257013,PUBLIC-RELATIONS,0,1,0,0,1,,social media content,,True,0,9,0,False,False,False,False
+27295996,INFORMATION-TECH,7,5,5,2,0,Azure;azure,,0.7142857142857143,False,0,2,2,False,False,False,False
+27298953,CHEF,0,0,0,0,0,,,,True,0,2,0,True,False,False,False
+27330027,FINANCE,6,6,5,1,1,Excel modeling,financial analysis,0.8333333333333334,False,0,0,0,False,False,False,False
+27372171,INFORMATION-TECH,2,1,1,1,0,help desk,,0.5,False,0,8,0,False,False,False,False
+27375577,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,13,1,False,False,False,False
+27397245,FITNESS,1,1,1,0,0,,,1.0,False,0,4,0,False,True,True,True
+27409087,FINANCE,2,1,1,1,0,financial analysis,,0.5,False,0,0,0,False,False,False,False
+27419236,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,11,0,False,False,False,False
+27485716,INFORMATION-TECH,2,3,2,0,1,,software development,1.0,False,0,0,0,False,False,False,False
+27490876,HR,7,7,7,0,0,,,1.0,False,3,3,0,False,False,False,False
+27496514,HR,2,2,2,0,0,,,1.0,False,0,9,1,False,False,False,False
+27497542,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+27502951,AVIATION,1,1,1,0,0,,,1.0,False,1,0,0,False,False,False,False
+27512470,AVIATION,0,0,0,0,0,,,,True,1,0,1,False,False,False,False
+27523575,HR,2,4,2,0,2,,compliance;talent acquisition,1.0,False,0,9,0,False,False,False,False
+27524018,TEACHER,0,1,0,0,1,,classroom management,,True,0,0,2,True,False,False,False
+27529455,DESIGNER,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+27531694,TEACHER,4,3,2,2,1,lesson planning;parent communication,student engagement,0.5,False,0,13,1,False,False,False,False
+27536013,INFORMATION-TECH,3,3,3,0,0,,,1.0,False,0,6,0,False,True,True,True
+27549075,APPAREL,2,1,1,1,0,problem solving,,0.5,False,0,12,3,False,False,False,False
+27558837,ACCOUNTANT,4,7,4,0,3,,AP;financial reporting;tax compliance,1.0,False,1,0,0,False,False,False,False
+27573855,ACCOUNTANT,12,11,11,1,0,account analysis,,0.9166666666666666,False,3,4,2,False,False,False,False
+27606527,BANKING,0,0,0,0,0,,,,True,0,3,1,False,False,False,False
+27607632,SALES,1,1,1,0,0,,,1.0,False,1,0,0,False,False,False,False
+27624540,SALES,0,0,0,0,0,,,,True,0,11,2,False,False,False,False
+27637576,ACCOUNTANT,7,6,5,2,1,AP;payroll processing,accounts payable,0.7142857142857143,False,0,7,0,False,False,False,False
+27662298,CHEF,5,5,5,0,0,,,1.0,False,1,0,0,False,False,False,False
+27689009,AGRICULTURE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+27694040,APPAREL,1,2,1,0,1,,Excel,1.0,False,0,0,0,False,False,False,False
+27710853,BPO,1,1,1,0,0,,,1.0,False,7,32,0,False,False,False,False
+27715131,ARTS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+27726066,CONSULTANT,0,0,0,0,0,,,,True,0,10,0,True,False,False,False
+27756469,ENGINEERING,3,2,2,1,0,control systems,,0.6666666666666666,False,0,2,0,False,False,False,False
+27770859,INFORMATION-TECH,6,6,6,0,0,,,1.0,False,0,6,1,False,False,False,False
+27788376,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+27789372,FINANCE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+27796199,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+27798860,TEACHER,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+27820360,CHEF,3,4,3,0,1,,food safety,1.0,False,1,0,0,False,False,False,False
+27831220,CHEF,5,5,5,0,0,,,1.0,False,1,1,0,False,False,False,False
+27835351,CONSTRUCTION,2,2,2,0,0,,,1.0,False,0,2,0,False,True,True,True
+27847081,HR,5,6,5,0,1,,onboarding,1.0,False,0,0,0,False,False,False,False
+27850777,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,6,0,False,True,True,True
+27884470,BANKING,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+27888251,AGRICULTURE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+27902692,AVIATION,0,0,0,0,0,,,,True,4,2,0,False,False,False,False
+27903191,FITNESS,0,1,0,0,1,,personal training,,True,0,3,0,False,False,False,False
+27909372,CHEF,2,2,2,0,0,,,1.0,False,0,4,1,False,False,False,False
+27914096,FINANCE,3,4,3,0,1,,variance analysis,1.0,False,0,0,0,False,False,False,False
+27917969,HEALTHCARE,0,0,0,0,0,,,,True,0,15,0,False,False,False,False
+27921561,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+27936502,ARTS,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+27937592,BUSINESS-DEV,3,2,2,1,0,forecasting,,0.6666666666666666,False,0,2,0,False,False,False,False
+27974588,FITNESS,2,2,2,0,0,,,1.0,False,3,4,1,False,False,False,False
+27980446,ACCOUNTANT,5,6,5,0,1,,financial reporting,1.0,False,0,4,1,False,False,False,False
+27981289,DIGITAL-MEDIA,0,1,0,0,1,,graphic design,,True,0,0,0,False,False,False,False
+28005884,ENGINEERING,3,3,3,0,0,,,1.0,False,0,6,0,False,True,True,True
+28013287,TEACHER,1,2,1,0,1,,classroom management,1.0,False,0,30,0,False,False,False,False
+28020046,AVIATION,0,0,0,0,0,,,,True,0,0,1,False,False,False,False
+28035460,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,0,10,0,False,True,True,True
+28051330,BANKING,0,1,0,0,1,,financial analysis,,True,0,2,0,False,False,False,False
+28063132,TEACHER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+28078163,ENGINEERING,1,2,1,0,1,,CAD,1.0,False,0,10,0,False,False,False,False
+28086303,TEACHER,5,6,5,0,1,,instructional design,1.0,False,1,0,0,False,False,False,False
+28092317,CHEF,1,2,1,0,1,,catering,1.0,False,0,0,0,False,False,False,False
+28109594,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+28111403,ADVOCATE,0,0,0,0,0,,,,True,0,2,1,False,False,False,False
+28126340,INFORMATION-TECH,3,4,3,0,1,,web development,1.0,False,0,24,0,False,False,False,False
+28139742,SALES,0,1,0,0,1,,cold calling,,True,0,1,0,False,False,False,False
+28165687,AGRICULTURE,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+28172023,FITNESS,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+28175164,HR,10,8,8,2,0,performance reviews;training and development,,0.8,False,0,5,0,False,False,False,False
+28176889,CHEF,1,2,1,0,1,,ServSafe,1.0,False,0,0,0,False,False,False,False
+28186635,AVIATION,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+28198029,SALES,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+28206098,ADVOCATE,1,2,1,0,1,,public speaking,1.0,False,0,3,0,False,False,False,False
+28230807,CHEF,3,3,3,0,0,,,1.0,False,0,1,0,False,True,True,True
+28243590,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+28247753,AGRICULTURE,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+28290448,PUBLIC-RELATIONS,2,3,2,0,1,,contract negotiation,1.0,False,0,5,0,False,False,False,False
+28298773,ACCOUNTANT,10,11,10,0,1,,financial reporting,1.0,False,2,2,1,False,False,False,False
+28320387,ENGINEERING,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+28321954,FITNESS,2,3,2,0,1,,strength training,1.0,False,0,2,2,False,False,False,False
+28325193,ARTS,0,0,0,0,0,,,,True,1,0,1,False,False,False,False
+28326441,DESIGNER,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+28337049,BUSINESS-DEV,3,3,3,0,0,,,1.0,False,0,3,0,False,True,True,True
+28359817,ACCOUNTANT,5,8,5,0,3,,account reconciliations;financial reporting;tax compliance,1.0,False,0,15,1,False,False,False,False
+28377361,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+28383893,AVIATION,2,1,1,1,0,flight operations,,0.5,False,1,6,1,False,False,False,False
+28396458,FINANCE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+28396528,CHEF,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+28398216,FINANCE,0,0,0,0,0,,,,True,0,6,1,False,False,False,False
+28419173,HR,2,2,2,0,0,,,1.0,False,0,8,0,False,True,True,True
+28419927,BANKING,0,0,0,0,0,,,,True,1,4,0,False,False,False,False
+28423028,HEALTHCARE,2,3,2,0,1,,care coordination,1.0,False,0,8,0,False,False,False,False
+28424982,CHEF,3,3,3,0,0,,,1.0,False,0,0,1,False,False,False,False
+28471099,ARTS,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+28505854,ENGINEERING,4,4,4,0,0,,,1.0,False,0,4,1,False,False,False,False
+28522529,FINANCE,4,4,4,0,0,,,1.0,False,0,1,0,False,True,True,True
+28531493,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,1,0,0,False,False,False,False
+28609364,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+28614791,ACCOUNTANT,4,5,4,0,1,,accounts payable,1.0,False,0,33,0,False,False,False,False
+28623782,FINANCE,3,4,3,0,1,,variance analysis,1.0,False,0,1,0,False,False,False,False
+28628090,ENGINEERING,4,3,3,1,0,lean manufacturing,,0.75,False,0,6,0,False,False,False,False
+28629430,ARTS,4,4,4,0,0,,,1.0,False,0,4,0,False,True,True,True
+28630325,ENGINEERING,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+28631840,ENGINEERING,2,1,1,1,0,root cause analysis,,0.5,False,0,0,0,False,False,False,False
+28635795,ADVOCATE,1,2,1,0,1,,legal research,1.0,False,0,3,0,False,False,False,False
+28640735,HR,5,9,5,0,4,,HRIS;compliance;onboarding;organizational development,1.0,False,2,10,0,False,False,False,False
+28642819,TEACHER,3,2,2,1,0,parent communication,,0.6666666666666666,False,0,0,0,False,False,False,False
+28663949,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+28669770,FITNESS,2,2,2,0,0,,,1.0,False,0,3,1,False,False,False,False
+28670024,HEALTHCARE,0,1,0,0,1,,infection control,,True,0,19,0,False,False,False,False
+28672970,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+28679359,DIGITAL-MEDIA,0,0,0,0,0,,,,True,1,6,0,False,False,False,False
+28697203,INFORMATION-TECH,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+28711616,ARTS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+28724469,FINANCE,1,0,0,1,0,valuation,,0.0,False,0,6,0,False,False,False,False
+28733974,AGRICULTURE,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+28745844,HEALTHCARE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+28756444,CONSTRUCTION,3,2,2,1,0,quality control,,0.6666666666666666,False,0,3,0,False,False,False,False
+28758002,FINANCE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+28762662,ENGINEERING,1,1,1,0,0,,,1.0,False,0,8,0,False,True,True,True
+28772892,TEACHER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+28790806,AUTOMOBILE,0,0,0,0,0,,,,True,1,1,2,False,False,False,False
+28803888,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,24,0,False,True,True,True
+28808263,HR,0,3,0,0,3,,compliance;conflict resolution;onboarding,,True,0,0,0,False,False,False,False
+28815362,CONSTRUCTION,4,4,4,0,0,,,1.0,False,0,7,0,False,True,True,True
+28828844,HR,7,10,7,0,3,,benefits administration;onboarding;recruitment,1.0,False,1,0,0,False,False,False,False
+28831378,ENGINEERING,2,2,2,0,0,,,1.0,False,0,2,0,False,True,True,True
+28831442,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,13,2,False,False,False,False
+28862054,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,39,0,False,False,False,False
+28867567,SALES,2,4,2,0,2,,closing techniques;lead generation,1.0,False,0,0,0,False,False,False,False
+28871170,ADVOCATE,2,4,2,0,2,,grant writing;legal research,1.0,False,1,28,1,False,False,False,False
+28895997,BANKING,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+28897981,INFORMATION-TECH,3,3,3,0,0,,,1.0,False,0,4,0,False,True,True,True
+28916894,BUSINESS-DEV,3,3,3,0,0,,,1.0,False,0,7,0,False,True,True,True
+28923650,ENGINEERING,8,8,8,0,0,,,1.0,False,0,3,1,False,False,False,False
+28933005,TEACHER,3,3,2,1,1,student engagement,differentiated instruction,0.6666666666666666,False,6,6,0,False,False,False,False
+28939941,ACCOUNTANT,2,2,2,0,0,,,1.0,False,0,5,1,False,False,False,False
+28942221,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+28949406,CONSTRUCTION,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+28951817,CONSULTANT,1,1,1,0,0,,,1.0,False,0,9,0,False,True,True,True
+28969385,ACCOUNTANT,10,12,10,0,2,,account reconciliations;internal controls,1.0,False,1,2,0,False,False,False,False
+28973180,FINANCE,0,1,0,0,1,,financial analysis,,True,2,4,0,False,False,False,False
+28974459,ADVOCATE,1,1,1,0,0,,,1.0,False,0,4,0,False,True,True,True
+28975482,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,2,6,1,False,False,False,False
+28989677,BANKING,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+28998957,APPAREL,3,4,3,0,1,,project management,1.0,False,0,3,0,False,False,False,False
+29002596,DIGITAL-MEDIA,0,1,0,0,1,,content strategy,,True,1,4,0,False,False,False,False
+29014805,BUSINESS-DEV,3,4,2,1,2,process improvement,contract negotiation;market research,0.6666666666666666,False,6,21,1,False,False,False,False
+29028935,APPAREL,2,3,2,0,1,,attention to detail,1.0,False,0,1,0,False,False,False,False
+29050809,ACCOUNTANT,12,12,11,1,1,fixed assets,internal controls,0.9166666666666666,False,0,4,0,False,False,False,False
+29051656,INFORMATION-TECH,5,5,5,0,0,,,1.0,False,0,2,1,False,False,False,False
+29061628,CONSTRUCTION,0,0,0,0,0,,,,True,0,0,0,True,False,False,False
+29072179,CHEF,4,4,4,0,0,,,1.0,False,0,1,1,True,False,False,False
+29075857,INFORMATION-TECH,2,3,2,0,1,,software development,1.0,False,0,10,0,False,False,False,False
+29076405,CONSULTANT,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+29087505,CONSTRUCTION,1,2,1,0,1,,blueprint reading,1.0,False,0,0,0,False,False,False,False
+29091445,HR,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+29093426,BANKING,2,2,2,0,0,,,1.0,False,0,24,1,False,False,False,False
+29134372,HEALTHCARE,0,0,0,0,0,,,,True,2,2,1,False,False,False,False
+29134721,SALES,0,0,0,0,0,,,,True,0,30,0,False,False,False,False
+29142288,AGRICULTURE,0,0,0,0,0,,,,True,0,10,3,True,False,False,False
+29147100,DESIGNER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+29148871,ARTS,0,0,0,0,0,,,,True,0,2,1,False,False,False,False
+29149998,HR,3,5,3,0,2,,benefits administration;onboarding,1.0,False,0,2,0,False,False,False,False
+29161565,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+29165698,FITNESS,2,2,2,0,0,,,1.0,False,0,5,1,False,False,False,False
+29167286,AVIATION,1,1,0,1,1,ground handling,aircraft maintenance,0.0,False,0,23,7,False,False,False,False
+29173771,ADVOCATE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+29177904,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+29184740,SALES,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+29193505,CONSTRUCTION,1,2,1,0,1,,construction management,1.0,False,0,5,0,False,False,False,False
+29196643,CONSULTANT,0,1,0,0,1,,data analysis,,True,0,7,0,False,False,False,False
+29208172,BUSINESS-DEV,8,8,8,0,0,,,1.0,False,0,0,0,False,True,True,True
+29211359,CHEF,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+29211919,SALES,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+29221006,AVIATION,0,0,0,0,0,,,,True,0,81,0,False,False,False,False
+29267293,TEACHER,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+29297393,CONSULTANT,0,0,0,0,0,,,,True,4,13,1,False,False,False,False
+29297973,HR,3,8,3,0,5,,benefits administration;compliance;conflict resolution;onboarding;training and development,1.0,False,0,4,2,False,False,False,False
+29306433,FITNESS,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+29319314,FITNESS,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+29329075,PUBLIC-RELATIONS,0,2,0,0,2,,business planning;operations management,,True,0,3,0,False,False,False,False
+29332616,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+29399491,SALES,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+29406313,BANKING,2,2,2,0,0,,,1.0,False,0,7,1,False,False,False,False
+29415426,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+29425788,FITNESS,1,2,1,0,1,,weight management,1.0,False,0,19,1,False,False,False,False
+29449419,CHEF,7,6,6,1,0,catering,,0.8571428571428571,False,1,0,2,False,False,False,False
+29456173,ACCOUNTANT,4,8,4,0,4,,account reconciliations;accounts receivable;financial reporting;general ledger,1.0,False,1,0,0,False,False,False,False
+29483501,CONSTRUCTION,1,1,1,0,0,,,1.0,False,2,2,2,True,False,False,False
+29486525,TEACHER,0,5,0,0,5,,classroom management;curriculum development;learning objectives;lesson planning;student engagement,,True,0,0,1,False,False,False,False
+29494962,FINANCE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+29510501,AGRICULTURE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+29521434,APPAREL,6,7,6,0,1,,Excel,1.0,False,0,1,0,False,False,False,False
+29524570,DESIGNER,0,0,0,0,0,,,,True,0,8,1,False,False,False,False
+29525715,PUBLIC-RELATIONS,2,2,2,0,0,,,1.0,False,2,9,0,False,False,False,False
+29534737,AVIATION,0,0,0,0,0,,,,True,5,4,1,False,False,False,False
+29552167,BANKING,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+29564653,HR,1,3,1,0,2,,benefits administration;training and development,1.0,False,0,0,2,False,False,False,False
+29573698,FITNESS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+29574501,CONSTRUCTION,0,0,0,0,0,,,,True,2,2,0,False,False,False,False
+29595906,AVIATION,0,1,0,0,1,,aircraft maintenance,,True,0,0,0,False,False,False,False
+29612672,FINANCE,1,2,1,0,1,,financial analysis,1.0,False,0,1,0,False,False,False,False
+29639533,TEACHER,1,1,1,0,0,,,1.0,False,2,0,0,False,False,False,False
+29640922,APPAREL,4,4,4,0,0,,,1.0,False,0,3,0,False,True,True,True
+29647215,CONSULTANT,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+29648950,FINANCE,0,1,0,0,1,,financial analysis,,True,0,1,1,False,False,False,False
+29723311,CONSULTANT,0,0,0,0,0,,,,True,0,10,0,False,False,False,False
+29746235,AGRICULTURE,0,0,0,0,0,,,,True,4,4,0,False,False,False,False
+29764492,APPAREL,3,2,2,1,0,teamwork,,0.6666666666666666,False,0,22,0,False,False,False,False
+29770086,CONSULTANT,0,0,0,0,0,,,,True,0,14,1,False,False,False,False
+29772450,CHEF,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+29775391,CHEF,4,3,2,2,1,catering;food preparation,food safety,0.5,False,0,6,0,False,False,False,False
+29784524,CHEF,1,1,1,0,0,,,1.0,False,1,2,0,False,False,False,False
+29792535,FITNESS,5,4,4,1,0,body composition analysis,,0.8,False,0,1,0,False,False,False,False
+29797594,TEACHER,0,1,0,0,1,,differentiated instruction,,True,0,0,0,True,False,False,False
+29805310,SALES,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+29815762,SALES,0,1,0,0,1,,account management,,True,0,1,0,False,False,False,False
+29821051,ACCOUNTANT,8,7,7,1,0,consolidations,,0.875,False,0,5,0,False,False,False,False
+29825044,BUSINESS-DEV,3,3,3,0,0,,,1.0,False,0,3,0,False,True,True,True
+29839396,BANKING,3,4,3,0,1,,financial modeling,1.0,False,1,14,0,False,False,False,False
+29865476,DESIGNER,0,0,0,0,0,,,,True,0,2,1,False,False,False,False
+29878348,CONSTRUCTION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+29894080,CONSTRUCTION,3,2,2,1,0,framing,,0.6666666666666666,False,1,6,1,False,False,False,False
+29897742,AGRICULTURE,0,1,0,0,1,,animal husbandry,,True,0,1,0,False,False,False,False
+29908929,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+29915354,DIGITAL-MEDIA,7,8,7,0,1,,visual effects,1.0,False,1,3,0,False,False,False,False
+29926588,ADVOCATE,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+29928796,SALES,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+29930479,TEACHER,2,4,2,0,2,,curriculum development;student engagement,1.0,False,0,3,0,False,False,False,False
+29968330,AGRICULTURE,0,0,0,0,0,,,,True,0,0,1,False,False,False,False
+29975124,INFORMATION-TECH,4,4,4,0,0,,,1.0,False,0,7,0,False,True,True,True
+29990140,CHEF,0,0,0,0,0,,,,True,0,16,1,False,False,False,False
+29992154,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,4,0,False,True,True,True
+29998869,FINANCE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+29999135,ACCOUNTANT,7,9,7,0,2,,account analysis;financial reporting,1.0,False,0,14,1,False,False,False,False
+30083884,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+30083943,SALES,0,0,0,0,0,,,,True,0,14,1,False,False,False,False
+30097175,ENGINEERING,2,4,2,0,2,,CAD;SCADA,1.0,False,1,4,1,False,False,False,False
+30127072,BANKING,2,1,1,1,0,risk analysis,,0.5,False,0,4,1,False,False,False,False
+30128072,CHEF,1,1,1,0,0,,,1.0,False,1,6,0,False,False,False,False
+30148777,AVIATION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+30163002,HR,2,3,2,0,1,,compliance,1.0,False,1,2,0,False,False,False,False
+30223363,INFORMATION-TECH,5,5,5,0,0,,,1.0,False,0,2,3,False,False,False,False
+30288581,ENGINEERING,4,4,4,0,0,,,1.0,False,0,2,1,False,False,False,False
+30304575,ACCOUNTANT,14,13,13,1,0,collections,,0.9285714285714286,False,0,2,0,False,True,False,False
+30311202,CHEF,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+30311725,CONSTRUCTION,2,2,2,0,0,,,1.0,False,0,0,1,False,False,False,False
+30337969,CHEF,1,0,0,1,0,inventory control,,0.0,False,0,11,0,False,False,False,False
+30344127,APPAREL,3,5,3,0,2,,data analysis;project management,1.0,False,0,16,1,False,False,False,False
+30361788,ACCOUNTANT,4,4,4,0,0,,,1.0,False,0,0,0,False,True,True,True
+30397268,CONSTRUCTION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+30430249,APPAREL,1,3,1,0,2,,attention to detail;problem solving,1.0,False,1,8,0,False,False,False,False
+30437583,AGRICULTURE,0,0,0,0,0,,,,True,0,13,0,False,False,False,False
+30504149,DIGITAL-MEDIA,0,0,0,0,0,,,,True,6,7,1,False,False,False,False
+30529547,SALES,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+30542184,ENGINEERING,1,0,0,1,0,root cause analysis,,0.0,False,0,10,2,False,False,False,False
+30563572,HR,8,8,8,0,0,,,1.0,False,0,1,0,False,True,True,True
+30594821,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+30608780,SALES,2,2,1,1,1,retail sales,negotiation,0.5,False,0,0,0,False,False,False,False
+30642458,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+30646367,HR,5,5,5,0,0,,,1.0,False,0,8,0,False,True,True,True
+30709029,BPO,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+30713796,BANKING,0,0,0,0,0,,,,True,3,4,0,False,False,False,False
+30741799,ADVOCATE,2,2,2,0,0,,,1.0,False,0,5,0,False,True,True,True
+30757456,FITNESS,1,0,0,1,0,corrective exercise,,0.0,False,0,39,2,False,False,False,False
+30813919,ACCOUNTANT,6,6,6,0,0,,,1.0,False,1,0,0,False,False,False,False
+30826569,CHEF,1,1,1,0,0,,,1.0,False,1,4,0,False,False,False,False
+30862904,HR,10,11,10,0,1,,HRIS,1.0,False,0,1,0,False,False,False,False
+30863060,CONSULTANT,0,0,0,0,0,,,,True,0,15,0,False,False,False,False
+30864828,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+30938994,BUSINESS-DEV,1,2,1,0,1,,risk management,1.0,False,0,7,2,False,False,False,False
+30965258,DESIGNER,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+30968749,DESIGNER,1,1,1,0,0,,,1.0,False,0,8,0,False,True,True,True
+30990885,FITNESS,1,1,1,0,0,,,1.0,False,0,10,0,False,True,True,True
+30999638,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+31016926,CONSULTANT,0,1,0,0,1,,stakeholder interviews,,True,0,4,1,False,False,False,False
+31025785,BANKING,2,2,2,0,0,,,1.0,False,0,21,0,True,False,False,False
+31040875,ADVOCATE,0,0,0,0,0,,,,True,4,0,0,False,False,False,False
+31042953,FITNESS,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+31064969,BPO,0,1,0,0,1,,call center operations,,True,0,3,1,False,False,False,False
+31111279,INFORMATION-TECH,4,4,4,0,0,,,1.0,False,0,3,0,False,True,True,True
+31114531,ARTS,0,0,0,0,0,,,,True,0,1,1,False,False,False,False
+31162167,DIGITAL-MEDIA,0,1,0,0,1,,social media content,,True,0,4,1,False,False,False,False
+31169070,CONSULTANT,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+31199035,SALES,0,0,0,0,0,,,,True,0,48,0,False,False,False,False
+31201660,CONSULTANT,0,0,0,0,0,,,,True,2,4,1,False,False,False,False
+31211074,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,1,1,0,False,False,False,False
+31217840,CONSULTANT,2,2,2,0,0,,,1.0,False,0,4,4,False,False,False,False
+31220062,PUBLIC-RELATIONS,3,3,1,2,2,budgeting;contract negotiation,competitive analysis;market research,0.3333333333333333,False,0,9,0,False,False,False,False
+31225895,APPAREL,2,3,1,1,2,problem solving,adaptability;leadership,0.5,False,0,1,0,False,False,False,False
+31242382,ADVOCATE,1,1,1,0,0,,,1.0,False,1,1,0,False,False,False,False
+31243710,INFORMATION-TECH,4,5,4,0,1,,Windows Server,1.0,False,2,25,2,False,False,False,False
+31273310,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+31273413,ARTS,2,2,2,0,0,,,1.0,False,0,1,0,True,False,False,False
+31292364,PUBLIC-RELATIONS,0,1,0,0,1,,social media content,,True,0,0,0,False,False,False,False
+31362807,APPAREL,1,2,1,0,1,,leadership,1.0,False,4,0,3,False,False,False,False
+31392754,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+31395710,HEALTHCARE,3,3,3,0,0,,,1.0,False,0,4,0,False,True,True,True
+31395742,CONSULTANT,0,0,0,0,0,,,,True,0,0,3,False,False,False,False
+31454430,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+31536294,AVIATION,2,2,2,0,0,,,1.0,False,0,5,0,False,True,True,True
+31547476,CHEF,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+31552617,TEACHER,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+31556198,FITNESS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+31602598,ACCOUNTANT,8,7,7,1,0,accounts payable,,0.875,False,0,3,1,False,False,False,False
+31605080,AVIATION,1,2,1,0,1,,aircraft systems,1.0,False,0,0,0,False,False,False,False
+31638814,BUSINESS-DEV,1,2,1,0,1,,contract negotiation,1.0,False,0,1,0,False,False,False,False
+31677347,ENGINEERING,0,0,0,0,0,,,,True,0,16,2,False,False,False,False
+31684925,ENGINEERING,3,3,3,0,0,,,1.0,False,0,7,0,False,True,True,True
+31694970,ENGINEERING,11,12,11,0,1,,control systems,1.0,False,0,8,0,False,False,False,False
+31710562,BANKING,2,1,1,1,0,due diligence,,0.5,False,3,18,0,False,False,False,False
+31761591,APPAREL,2,1,1,1,0,problem solving,,0.5,False,1,0,0,False,False,False,False
+31813535,BUSINESS-DEV,4,4,4,0,0,,,1.0,False,1,4,2,False,False,False,False
+31850269,CONSTRUCTION,1,0,0,1,0,quality control,,0.0,False,0,2,0,False,False,False,False
+31909493,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+31926950,HEALTHCARE,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+31929166,DIGITAL-MEDIA,1,0,0,1,0,Final Cut Pro,,0.0,False,1,1,0,False,False,False,False
+31948488,FINANCE,1,0,0,1,0,cash flow forecasting,,0.0,False,0,0,0,False,False,False,False
+32025286,CONSTRUCTION,3,3,3,0,0,,,1.0,False,0,3,0,False,True,True,True
+32042584,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+32067700,TEACHER,0,2,0,0,2,,classroom management;curriculum development,,True,0,3,0,False,False,False,False
+32069695,AUTOMOBILE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+32081266,ENGINEERING,2,2,2,0,0,,,1.0,False,0,14,1,False,False,False,False
+32109048,AUTOMOBILE,0,0,0,0,0,,,,True,0,5,0,True,False,False,False
+32140087,SALES,1,1,1,0,0,,,1.0,False,0,2,2,False,False,False,False
+32219038,HEALTHCARE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+32265203,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+32308556,HR,2,4,2,0,2,,compliance;recruitment,1.0,False,0,8,1,False,False,False,False
+32318506,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+32385553,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+32433431,CONSULTANT,0,0,0,0,0,,,,True,0,2,0,True,False,False,False
+32441790,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+32517106,FITNESS,3,4,3,0,1,,injury prevention,1.0,False,0,9,2,True,False,False,False
+32518109,CHEF,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+32531824,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+32532982,DESIGNER,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+32563518,HEALTHCARE,3,3,3,0,0,,,1.0,False,1,4,0,False,False,False,False
+32605413,CHEF,0,1,0,0,1,,inventory control,,True,3,12,1,True,False,False,False
+32636041,FITNESS,2,2,2,0,0,,,1.0,False,0,3,0,False,True,True,True
+32637306,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+32651555,FITNESS,3,3,3,0,0,,,1.0,False,0,18,0,False,True,True,True
+32720816,AVIATION,1,2,0,1,2,aircraft maintenance,ATC communication;navigation,0.0,False,0,27,0,False,False,False,False
+32773331,CONSTRUCTION,0,0,0,0,0,,,,True,1,2,1,False,False,False,False
+32794700,ARTS,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+32799518,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,5,0,False,True,True,True
+32802563,ENGINEERING,1,1,1,0,0,,,1.0,False,0,6,0,False,True,True,True
+32896934,HR,6,6,5,1,1,training and development,compliance,0.8333333333333334,False,0,1,0,False,False,False,False
+32947778,HR,6,8,6,0,2,,benefits administration;onboarding,1.0,False,0,0,0,False,False,False,False
+32954522,DESIGNER,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+32959732,INFORMATION-TECH,5,6,3,2,3,SQL;sql,AWS;aws;virtualization,0.6,False,0,11,1,False,False,False,False
+32965335,ADVOCATE,0,0,0,0,0,,,,True,0,5,1,False,False,False,False
+32977530,HR,2,2,1,1,1,compliance,conflict resolution,0.5,False,0,3,0,False,False,False,False
+32980197,BANKING,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+32985311,ENGINEERING,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+33023370,CONSTRUCTION,0,2,0,0,2,,blueprint reading;quality control,,True,0,3,1,False,False,False,False
+33072201,PUBLIC-RELATIONS,4,1,1,3,0,Adobe InDesign;forecasting;video editing,,0.25,False,0,58,2,False,False,False,False
+33135102,BANKING,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+33141415,CONSTRUCTION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+33176873,HR,3,6,3,0,3,,benefits administration;employee engagement;talent acquisition,1.0,False,0,4,1,False,False,False,False
+33236701,SALES,2,2,2,0,0,,,1.0,False,1,3,0,False,False,False,False
+33241454,INFORMATION-TECH,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+33286293,BANKING,5,5,5,0,0,,,1.0,False,0,8,0,False,True,True,True
+33344933,ARTS,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+33370664,BANKING,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+33381211,INFORMATION-TECH,6,6,6,0,0,,,1.0,False,0,36,1,False,False,False,False
+33424600,BUSINESS-DEV,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+33527446,ACCOUNTANT,7,8,7,0,1,,financial reporting,1.0,False,0,13,0,False,False,False,False
+33542483,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+33578873,SALES,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+33627938,AVIATION,1,1,1,0,0,,,1.0,False,0,13,0,False,True,True,True
+33665485,APPAREL,3,3,3,0,0,,,1.0,False,0,12,0,False,True,True,True
+33685075,ENGINEERING,3,3,3,0,0,,,1.0,False,0,3,0,False,True,True,True
+33685988,FINANCE,0,1,0,0,1,,financial analysis,,True,0,0,0,False,False,False,False
+33704389,TEACHER,2,2,1,1,1,parent communication,classroom management,0.5,False,0,4,0,False,False,False,False
+33750209,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+33803142,HEALTHCARE,1,0,0,1,0,infection control,,0.0,False,0,4,0,False,False,False,False
+33872500,BANKING,4,4,4,0,0,,,1.0,False,0,0,0,False,True,True,True
+33893326,DIGITAL-MEDIA,1,0,0,1,0,graphic design,,0.0,False,1,3,1,False,False,False,False
+33919379,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+33964275,CHEF,1,1,1,0,0,,,1.0,False,0,2,0,True,False,False,False
+34033933,TEACHER,0,1,0,0,1,,student engagement,,True,0,3,0,False,False,False,False
+34046031,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+34051710,DESIGNER,0,0,0,0,0,,,,True,0,1,2,False,False,False,False
+34131484,SALES,0,2,0,0,2,,account management;upselling,,True,0,0,1,False,False,False,False
+34141299,AGRICULTURE,0,0,0,0,0,,,,True,0,11,0,True,False,False,False
+34146825,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+34151183,FITNESS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+34185495,BANKING,4,4,4,0,0,,,1.0,False,0,20,5,False,False,False,False
+34198885,ACCOUNTANT,8,9,7,1,2,accounts receivable,financial reporting;journal entries,0.875,False,1,2,3,False,False,False,False
+34250007,FINANCE,0,3,0,0,3,,corporate finance;financial analysis;variance analysis,,True,0,1,0,False,False,False,False
+34252537,CHEF,5,5,5,0,0,,,1.0,False,0,4,0,False,True,True,True
+34303500,SALES,2,3,2,0,1,,relationship building,1.0,False,0,2,1,False,False,False,False
+34304175,ARTS,0,0,0,0,0,,,,True,0,1,0,True,False,False,False
+34317538,DESIGNER,3,5,3,0,2,,usability testing;wireframing,1.0,False,0,6,0,False,False,False,False
+34319869,DIGITAL-MEDIA,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+34327438,ADVOCATE,1,1,1,0,0,,,1.0,False,0,14,5,False,False,False,False
+34349255,DESIGNER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+34419403,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+34452806,CHEF,7,4,4,3,0,costing;menu planning;recipe development,,0.5714285714285714,False,0,8,0,False,False,False,False
+34465087,TEACHER,0,0,0,0,0,,,,True,0,15,0,False,False,False,False
+34511655,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+34544955,CONSTRUCTION,3,1,1,2,0,estimating;masonry,,0.3333333333333333,False,0,12,0,False,False,False,False
+34554248,HR,7,9,6,1,3,training and development,benefits administration;compliance;interviewing,0.8571428571428571,False,0,2,0,False,False,False,False
+34583750,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+34594746,HEALTHCARE,1,2,1,0,1,,medical terminology,1.0,False,0,1,0,False,False,False,False
+34657584,DESIGNER,0,0,0,0,0,,,,True,0,2,2,False,False,False,False
+34689720,TEACHER,0,3,0,0,3,,classroom management;curriculum development;student engagement,,True,0,17,1,False,False,False,False
+34712719,PUBLIC-RELATIONS,2,1,1,1,0,Adobe Illustrator,,0.5,False,0,5,0,True,False,False,False
+34740556,HR,8,8,8,0,0,,,1.0,False,1,1,0,False,False,False,False
+34745915,TEACHER,0,1,0,0,1,,student engagement,,True,0,2,0,False,False,False,False
+34758680,BANKING,2,3,2,0,1,,financial modeling,1.0,False,0,0,0,False,False,False,False
+34783330,BANKING,3,2,2,1,0,financial analysis,,0.6666666666666666,False,0,1,0,False,False,False,False
+34792238,FITNESS,2,0,0,2,0,group fitness instruction;personal training,,0.0,False,0,10,0,False,False,False,False
+34797369,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,3,0,False,True,True,True
+34816637,ACCOUNTANT,5,8,5,0,3,,financial reporting;payroll processing;tax compliance,1.0,False,0,14,1,False,False,False,False
+34875813,CONSULTANT,0,0,0,0,0,,,,True,0,1,1,False,False,False,False
+34953092,BANKING,1,2,1,0,1,,due diligence,1.0,False,0,0,0,False,False,False,False
+34962725,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+34970271,ADVOCATE,1,2,1,0,1,,public speaking,1.0,False,0,0,0,False,False,False,False
+35121930,APPAREL,0,0,0,0,0,,,,True,2,14,1,False,False,False,False
+35157762,CHEF,3,3,3,0,0,,,1.0,False,0,17,0,False,True,True,True
+35164503,FITNESS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+35172961,ENGINEERING,5,5,5,0,0,,,1.0,False,1,5,0,False,False,False,False
+35302620,FITNESS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+35325329,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,0,4,0,False,True,True,True
+35344611,ADVOCATE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+35389360,ENGINEERING,0,0,0,0,0,,,,True,0,21,0,False,False,False,False
+35421497,TEACHER,3,3,3,0,0,,,1.0,False,0,0,0,True,False,False,False
+35422305,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,3,1,False,False,False,False
+35468363,CHEF,0,1,0,0,1,,kitchen management,,True,0,0,0,False,False,False,False
+35474904,ADVOCATE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+35483925,BANKING,1,1,0,1,1,hedging,financial analysis,0.0,False,0,1,0,False,False,False,False
+35492909,BANKING,1,1,1,0,0,,,1.0,False,0,10,2,False,False,False,False
+35554162,ACCOUNTANT,9,8,8,1,0,fixed assets,,0.8888888888888888,False,1,0,0,False,False,False,False
+35564026,BANKING,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+35571205,APPAREL,1,3,1,0,2,,critical thinking;leadership,1.0,False,0,0,0,False,False,False,False
+35579812,HEALTHCARE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+35603950,APPAREL,2,2,1,1,1,problem solving,leadership,0.5,False,0,44,4,False,False,False,False
+35651876,ENGINEERING,1,1,0,1,1,FEA,electrical engineering,0.0,False,1,30,1,False,False,False,False
+35673335,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,10,1,False,False,False,False
+35737840,ENGINEERING,2,2,2,0,0,,,1.0,False,0,4,0,True,False,False,False
+35971546,CONSTRUCTION,3,4,3,0,1,,construction management,1.0,False,0,4,0,False,False,False,False
+35985133,APPAREL,1,0,0,1,0,Excel,,0.0,False,0,14,0,False,False,False,False
+35990852,DESIGNER,0,0,0,0,0,,,,True,0,24,0,False,False,False,False
+36019469,ARTS,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+36024962,ACCOUNTANT,5,9,5,0,4,,accounts payable;accounts receivable;financial reporting;payroll processing,1.0,False,2,2,0,False,False,False,False
+36074301,SALES,6,5,5,1,0,relationship building,,0.8333333333333334,False,5,8,5,False,False,False,False
+36094883,APPAREL,2,3,2,0,1,,technical writing,1.0,False,0,4,0,False,False,False,False
+36102323,AGRICULTURE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+36107065,PUBLIC-RELATIONS,3,3,3,0,0,,,1.0,False,2,6,3,False,False,False,False
+36136569,APPAREL,4,4,4,0,0,,,1.0,False,3,7,0,False,False,False,False
+36139251,FITNESS,2,2,2,0,0,,,1.0,False,0,8,0,False,True,True,True
+36149549,ENGINEERING,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+36170003,BUSINESS-DEV,2,1,1,1,0,forecasting,,0.5,False,1,0,0,False,False,False,False
+36206485,TEACHER,4,5,4,0,1,,instructional design,1.0,False,0,1,0,False,False,False,False
+36252245,AVIATION,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+36269672,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+36302399,BANKING,0,1,0,0,1,,financial analysis,,True,0,4,1,False,False,False,False
+36331163,CONSTRUCTION,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+36366044,CHEF,0,0,0,0,0,,,,True,0,16,0,False,False,False,False
+36379931,ARTS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+36392131,ADVOCATE,0,0,0,0,0,,,,True,1,7,0,False,False,False,False
+36425270,ACCOUNTANT,7,8,7,0,1,,payroll processing,1.0,False,2,8,1,False,False,False,False
+36434348,INFORMATION-TECH,9,8,8,1,0,system administration,,0.8888888888888888,False,0,1,0,False,False,False,False
+36517781,ENGINEERING,2,2,2,0,0,,,1.0,False,0,6,0,False,True,True,True
+36569713,TEACHER,1,3,1,0,2,,classroom management;curriculum development,1.0,False,0,1,0,False,False,False,False
+36574147,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,4,0,False,True,True,True
+36621169,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+36625776,HEALTHCARE,0,0,0,0,0,,,,True,0,6,0,False,False,False,False
+36671891,PUBLIC-RELATIONS,1,1,0,1,1,graphic design,policy development,0.0,False,0,1,0,False,False,False,False
+36694627,ADVOCATE,2,2,2,0,0,,,1.0,False,0,3,0,False,True,True,True
+36727173,AVIATION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+36758947,ARTS,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+36805025,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,33,0,False,True,True,True
+36856210,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,1,5,0,False,False,False,False
+36861863,HEALTHCARE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+36868767,HEALTHCARE,1,2,1,0,1,,HIPAA compliance,1.0,False,0,0,0,False,False,False,False
+36904300,SALES,1,0,0,1,0,retail sales,,0.0,False,0,7,0,False,False,False,False
+36905896,BANKING,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+36970996,SALES,2,2,1,1,1,retail sales,relationship building,0.5,False,1,14,0,False,False,False,False
+37001381,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,3,1,False,False,False,False
+37058472,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+37087371,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,6,0,False,True,True,True
+37087824,FITNESS,0,0,0,0,0,,,,True,1,1,2,False,False,False,False
+37201447,AGRICULTURE,0,1,0,0,1,,animal husbandry,,True,2,1,0,False,False,False,False
+37220856,ARTS,0,0,0,0,0,,,,True,0,9,0,False,False,False,False
+37231163,CHEF,5,5,5,0,0,,,1.0,False,0,0,0,False,True,True,True
+37242217,INFORMATION-TECH,2,3,2,0,1,,network administration,1.0,False,0,1,0,False,False,False,False
+37263609,DESIGNER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+37292350,AGRICULTURE,0,0,0,0,0,,,,True,0,48,0,False,False,False,False
+37333719,ADVOCATE,0,1,0,0,1,,community outreach,,True,0,0,0,False,False,False,False
+37335325,ENGINEERING,2,2,2,0,0,,,1.0,False,0,3,0,False,True,True,True
+37348041,ADVOCATE,1,1,1,0,0,,,1.0,False,0,3,1,False,False,False,False
+37360517,SALES,0,0,0,0,0,,,,True,0,0,0,True,False,False,False
+37370455,ACCOUNTANT,11,12,11,0,1,,collections,1.0,False,0,5,0,False,False,False,False
+37374340,HEALTHCARE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+37375999,PUBLIC-RELATIONS,2,1,1,1,0,graphic design,,0.5,False,0,1,2,False,False,False,False
+37391947,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,0,2,False,False,False,False
+37402097,TEACHER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+37472265,ARTS,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+37473139,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+37521676,BUSINESS-DEV,3,4,3,0,1,,budgeting,1.0,False,0,31,1,False,False,False,False
+37540732,SALES,2,2,0,2,2,outside sales;retail sales,lead generation;negotiation,0.0,False,1,1,1,False,False,False,False
+37560528,ADVOCATE,1,0,0,1,0,conflict resolution,,0.0,False,0,7,1,False,False,False,False
+37640804,ADVOCATE,0,0,0,0,0,,,,True,0,12,0,False,False,False,False
+37660306,TEACHER,0,1,0,0,1,,curriculum development,,True,0,13,0,False,False,False,False
+37664296,DESIGNER,4,5,4,0,1,,Adobe XD,1.0,False,0,8,0,False,False,False,False
+37695494,DESIGNER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+37735467,SALES,2,2,2,0,0,,,1.0,False,0,0,0,True,False,False,False
+37739183,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,48,0,False,False,False,False
+37750854,APPAREL,0,0,0,0,0,,,,True,0,0,1,False,False,False,False
+37751611,ARTS,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+37764298,INFORMATION-TECH,4,3,3,1,0,system administration,,0.75,False,0,6,0,False,False,False,False
+37792474,SALES,0,2,0,0,2,,contract negotiation;negotiation,,True,0,6,0,False,False,False,False
+37818861,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+37913536,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+37931076,FINANCE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+37997506,ACCOUNTANT,11,9,8,3,1,accounts receivable;fixed assets;journal entries,financial reporting,0.7272727272727273,False,0,0,0,False,False,False,False
+38007664,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,13,1,False,False,False,False
+38047274,AVIATION,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+38056161,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+38059130,ADVOCATE,0,0,0,0,0,,,,True,2,6,1,False,False,False,False
+38087844,SALES,4,6,4,0,2,,contract negotiation;negotiation,1.0,False,0,11,0,False,False,False,False
+38108845,FITNESS,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+38115035,ARTS,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+38154903,AVIATION,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+38165833,CONSULTANT,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+38216888,AGRICULTURE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+38220146,ENGINEERING,7,9,7,0,2,,PLC programming;mechanical engineering,1.0,False,1,2,0,False,False,False,False
+38225199,FINANCE,1,1,1,0,0,,,1.0,False,0,1,2,False,False,False,False
+38291889,ADVOCATE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+38309905,CHEF,3,3,3,0,0,,,1.0,False,0,3,0,False,True,True,True
+38314236,ENGINEERING,7,7,7,0,0,,,1.0,False,0,1,1,False,False,False,False
+38355831,AVIATION,2,2,2,0,0,,,1.0,False,0,9,0,False,True,True,True
+38399177,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+38441665,FINANCE,2,3,2,0,1,,financial modeling,1.0,False,0,0,1,False,False,False,False
+38457612,CONSULTANT,0,0,0,0,0,,,,True,0,2,4,False,False,False,False
+38535335,ENGINEERING,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+38565119,DESIGNER,0,0,0,0,0,,,,True,0,11,0,False,False,False,False
+38642923,FITNESS,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+38650096,FITNESS,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+38663892,AVIATION,0,0,0,0,0,,,,True,5,34,2,False,False,False,False
+38688388,BUSINESS-DEV,5,5,5,0,0,,,1.0,False,0,1,0,False,True,True,True
+38698573,ADVOCATE,1,2,1,0,1,,mediation,1.0,False,0,0,1,False,False,False,False
+38707449,BPO,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+38744475,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+38750659,TEACHER,6,6,5,1,1,lesson planning,learning objectives,0.8333333333333334,False,0,2,0,False,False,False,False
+38753827,INFORMATION-TECH,6,5,5,1,0,help desk,,0.8333333333333334,False,0,32,1,False,False,False,False
+38847011,ACCOUNTANT,6,7,6,0,1,,tax compliance,1.0,False,1,3,0,False,False,False,False
+38860712,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+38896303,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+38897568,BANKING,0,1,0,0,1,,financial analysis,,True,0,0,0,False,False,False,False
+38907798,FINANCE,3,3,3,0,0,,,1.0,False,0,1,0,False,True,True,True
+38946032,CONSTRUCTION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+38989376,AVIATION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+39027764,CONSTRUCTION,3,3,3,0,0,,,1.0,False,1,5,1,False,False,False,False
+39064638,ARTS,0,0,0,0,0,,,,True,1,1,1,False,False,False,False
+39081840,HR,6,6,6,0,0,,,1.0,False,0,1,1,False,False,False,False
+39082090,HEALTHCARE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+39115899,ACCOUNTANT,4,4,4,0,0,,,1.0,False,5,10,0,False,False,False,False
+39142536,BANKING,0,0,0,0,0,,,,True,0,1,1,False,False,False,False
+39166680,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+39237915,BUSINESS-DEV,4,4,4,0,0,,,1.0,False,3,9,0,False,False,False,False
+39247950,BANKING,0,0,0,0,0,,,,True,0,13,1,False,False,False,False
+39252859,DESIGNER,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+39295103,FINANCE,0,0,0,0,0,,,,True,0,0,2,False,False,False,False
+39308779,CONSULTANT,0,0,0,0,0,,,,True,1,6,0,False,False,False,False
+39413067,INFORMATION-TECH,6,8,6,0,2,,database design;web development,1.0,False,0,5,1,False,False,False,False
+39434376,DESIGNER,0,0,0,0,0,,,,True,0,9,0,False,False,False,False
+39441617,CONSULTANT,0,0,0,0,0,,,,True,0,13,1,False,False,False,False
+39470264,ARTS,2,0,0,2,0,drawing;painting,,0.0,False,0,33,0,False,False,False,False
+39566718,CONSTRUCTION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+39569771,BANKING,1,1,1,0,0,,,1.0,False,1,0,1,False,False,False,False
+39581020,SALES,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+39608848,ARTS,0,0,0,0,0,,,,True,0,2,2,False,False,False,False
+39650734,HR,6,8,5,1,3,performance reviews,compliance;interviewing;onboarding,0.8333333333333334,False,0,0,0,False,False,False,False
+39674178,ACCOUNTANT,4,4,4,0,0,,,1.0,False,0,4,0,False,True,True,True
+39674782,CONSTRUCTION,0,1,0,0,1,,construction management,,True,1,0,2,False,False,False,False
+39675895,FINANCE,0,1,0,0,1,,financial analysis,,True,0,7,0,False,False,False,False
+39718499,INFORMATION-TECH,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+39776400,DESIGNER,1,0,0,1,0,InVision,,0.0,False,0,9,1,False,False,False,False
+39805617,FITNESS,0,0,0,0,0,,,,True,0,9,0,False,False,False,False
+39835894,ENGINEERING,2,2,2,0,0,,,1.0,False,1,0,0,False,False,False,False
+39855211,ENGINEERING,1,1,1,0,0,,,1.0,False,0,0,0,True,False,False,False
+39875803,BUSINESS-DEV,3,3,3,0,0,,,1.0,False,1,1,0,False,False,False,False
+39908485,CONSTRUCTION,7,4,3,4,1,carpentry;construction management;framing;masonry,Revit,0.42857142857142855,False,0,123,4,False,False,False,False
+39970711,HR,8,8,7,1,1,training and development,onboarding,0.875,False,0,3,0,False,False,False,False
+40018190,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,0,4,0,False,True,True,True
+40088790,ADVOCATE,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+40311088,DIGITAL-MEDIA,0,1,0,0,1,,graphic design,,True,0,1,0,False,False,False,False
+40792022,BUSINESS-DEV,4,3,3,1,0,contract negotiation,,0.75,False,0,0,0,False,False,False,False
+40882926,AGRICULTURE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+40883703,DIGITAL-MEDIA,0,0,0,0,0,,,,True,2,0,1,False,False,False,False
+40987524,SALES,0,2,0,0,2,,lead generation;negotiation,,True,0,5,0,False,False,False,False
+41152404,BPO,0,0,0,0,0,,,,True,0,8,0,False,False,False,False
+41344156,INFORMATION-TECH,4,4,4,0,0,,,1.0,False,0,3,0,False,True,True,True
+41506705,DESIGNER,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+41523474,HR,2,4,2,0,2,,employee engagement;onboarding,1.0,False,0,2,0,False,False,False,False
+41586420,APPAREL,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+41590605,PUBLIC-RELATIONS,2,1,1,1,0,Adobe Photoshop,,0.5,False,0,6,0,False,False,False,False
+41651672,BANKING,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+41910253,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+41950126,ARTS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+42156237,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+42164460,ADVOCATE,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+42304307,SALES,1,1,1,0,0,,,1.0,False,3,8,0,False,False,False,False
+42332765,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+42384185,DESIGNER,0,0,0,0,0,,,,True,0,1,0,True,False,False,False
+42427521,AVIATION,1,1,1,0,0,,,1.0,False,0,20,1,False,False,False,False
+42487883,ACCOUNTANT,9,9,9,0,0,,,1.0,False,0,1,0,False,True,True,True
+42546558,AVIATION,0,0,0,0,0,,,,True,2,5,0,False,False,False,False
+42641525,AVIATION,1,1,1,0,0,,,1.0,False,0,18,0,False,True,True,True
+43311839,CONSULTANT,1,1,1,0,0,,,1.0,False,2,41,0,False,False,False,False
+43375498,BANKING,1,0,0,1,0,valuation,,0.0,False,0,32,2,False,False,False,False
+43378989,CONSULTANT,1,1,1,0,0,,,1.0,False,2,2,0,True,False,False,False
+43408471,AVIATION,0,0,0,0,0,,,,True,1,4,3,False,False,False,False
+43622023,ARTS,0,0,0,0,0,,,,True,6,16,0,False,False,False,False
+43685045,ACCOUNTANT,10,13,10,0,3,,account reconciliations;journal entries;tax compliance,1.0,False,1,0,0,False,False,False,False
+43720116,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+43752620,ENGINEERING,10,10,10,0,0,,,1.0,False,0,9,0,False,True,True,True
+43852883,APPAREL,3,2,2,1,0,attention to detail,,0.6666666666666666,False,0,3,0,False,False,False,False
+43994605,HEALTHCARE,1,2,1,0,1,,care coordination,1.0,False,0,0,0,False,False,False,False
+44115326,ADVOCATE,0,1,0,0,1,,mediation,,True,0,92,0,False,False,False,False
+44145704,DESIGNER,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+44147689,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+44185767,DESIGNER,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+44476983,HR,7,7,7,0,0,,,1.0,False,0,0,0,False,True,True,True
+44624796,ENGINEERING,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+45077654,BPO,2,1,1,1,0,outbound calling,,0.5,False,0,9,0,False,False,False,False
+45167858,BANKING,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+45286020,TEACHER,0,1,0,0,1,,differentiated instruction,,True,2,0,6,False,False,False,False
+45462344,PUBLIC-RELATIONS,0,2,0,0,2,,Adobe Photoshop;business strategy,,True,0,3,0,False,False,False,False
+45475027,CONSTRUCTION,3,1,1,2,0,quality control;safety management,,0.3333333333333333,False,0,11,1,False,False,False,False
+45656814,FITNESS,0,0,0,0,0,,,,True,1,3,0,False,False,False,False
+45900271,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+45907524,HEALTHCARE,2,1,1,1,0,infection control,,0.5,False,0,11,0,False,False,False,False
+45987048,TEACHER,0,1,0,0,1,,differentiated instruction,,True,0,0,0,False,False,False,False
+46055835,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+46258701,HR,3,3,1,2,2,performance reviews;sourcing,onboarding;recruitment,0.3333333333333333,False,0,0,0,False,False,False,False
+46260230,INFORMATION-TECH,6,4,4,2,0,VMware;help desk,,0.6666666666666666,False,0,0,0,False,False,False,False
+46349752,HEALTHCARE,3,2,2,1,0,infection control,,0.6666666666666666,False,0,1,0,False,False,False,False
+46514339,APPAREL,1,3,1,0,2,,leadership;mentoring,1.0,False,0,6,0,False,False,False,False
+46772262,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+47067533,BUSINESS-DEV,1,3,1,0,2,,contract negotiation;market research,1.0,False,0,7,0,True,False,False,False
+47133747,ADVOCATE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+47276718,ENGINEERING,6,6,6,0,0,,,1.0,False,2,26,0,False,False,False,False
+47317494,CHEF,0,1,0,0,1,,kitchen management,,True,0,6,0,False,False,False,False
+47410104,FINANCE,1,3,1,0,2,,derivatives;investment analysis,1.0,False,1,10,1,False,False,False,False
+47470864,HR,2,2,1,1,1,compliance,training and development,0.5,False,0,1,0,False,False,False,False
+47487091,AUTOMOBILE,0,0,0,0,0,,,,True,1,2,0,False,False,False,False
+47549345,ENGINEERING,5,6,5,0,1,,control systems,1.0,False,0,3,0,False,False,False,False
+47603843,CHEF,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+47729453,CHEF,1,3,1,0,2,,food preparation;inventory control,1.0,False,0,4,0,False,False,False,False
+47919212,ENGINEERING,2,2,2,0,0,,,1.0,False,1,7,0,False,False,False,False
+47996197,HEALTHCARE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+48037995,INFORMATION-TECH,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+48285304,FINANCE,0,0,0,0,0,,,,True,1,4,0,False,False,False,False
+48533663,CONSULTANT,0,1,0,0,1,,management consulting,,True,0,0,0,False,False,False,False
+48547319,TEACHER,1,2,1,0,1,,curriculum development,1.0,False,0,6,0,False,False,False,False
+48549972,CONSTRUCTION,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+48580330,CHEF,2,2,2,0,0,,,1.0,False,0,24,2,False,False,False,False
+49119887,PUBLIC-RELATIONS,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+49127329,ENGINEERING,2,2,2,0,0,,,1.0,False,0,9,0,False,True,True,True
+49204385,ACCOUNTANT,15,13,13,2,0,account analysis;tax preparation,,0.8666666666666667,False,1,3,0,False,False,False,False
+49285644,TEACHER,0,1,0,0,1,,student engagement,,True,0,0,0,False,False,False,False
+49325370,HEALTHCARE,1,2,1,0,1,,care coordination,1.0,False,0,1,0,False,False,False,False
+49475708,ADVOCATE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+49486820,ADVOCATE,1,1,1,0,0,,,1.0,False,2,0,0,False,False,False,False
+49646155,AVIATION,0,1,0,0,1,,aviation regulations,,True,0,6,0,False,False,False,False
+49685006,CONSTRUCTION,1,1,1,0,0,,,1.0,False,1,0,0,False,False,False,False
+49777184,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,True,False,False,False
+49937469,HR,4,5,4,0,1,,HR policy development,1.0,False,0,3,0,False,False,False,False
+49997097,ACCOUNTANT,7,11,7,0,4,,accounts payable;accounts receivable;financial reporting;internal controls,1.0,False,0,2,0,False,False,False,False
+50219114,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,4,0,False,True,True,True
+50222417,ACCOUNTANT,10,11,9,1,2,journal entries,accounts payable;accounts receivable,0.9,False,0,6,1,False,False,False,False
+50324968,APPAREL,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+50328713,ENGINEERING,3,3,3,0,0,,,1.0,False,0,82,3,False,False,False,False
+50432401,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+50775901,AVIATION,1,1,1,0,0,,,1.0,False,0,22,0,False,True,True,True
+51018476,DESIGNER,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+51209395,TEACHER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+51349448,SALES,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+51363762,INFORMATION-TECH,0,1,0,0,1,,IT support,,True,0,39,3,False,False,False,False
+51415089,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,1,4,0,False,False,False,False
+51432451,CONSULTANT,1,0,0,1,0,client workshops,,0.0,False,0,1,0,False,False,False,False
+51508889,AUTOMOBILE,0,0,0,0,0,,,,True,0,55,0,False,False,False,False
+51554903,CHEF,2,2,2,0,0,,,1.0,False,2,11,0,False,False,False,False
+51588273,ENGINEERING,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+51638201,CONSTRUCTION,0,1,0,0,1,,blueprint reading,,True,0,1,0,False,False,False,False
+51639418,INFORMATION-TECH,5,5,5,0,0,,,1.0,False,0,9,3,False,False,False,False
+51681660,DESIGNER,1,1,1,0,0,,,1.0,False,0,15,0,False,True,True,True
+51724595,CONSULTANT,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+51769822,HR,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+51777546,HEALTHCARE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+52246737,INFORMATION-TECH,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+52252936,APPAREL,3,2,1,2,1,problem solving;time management,leadership,0.3333333333333333,False,0,8,2,False,False,False,False
+52618188,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+52684666,FITNESS,1,1,1,0,0,,,1.0,False,2,18,0,True,False,False,False
+52979663,HR,4,6,4,0,2,,compliance;organizational development,1.0,False,3,4,4,False,False,False,False
+53129155,TEACHER,0,2,0,0,2,,classroom management;student engagement,,True,0,14,0,False,False,False,False
+53169257,ADVOCATE,0,0,0,0,0,,,,True,0,6,0,False,False,False,False
+53227466,ARTS,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+53265899,CHEF,6,6,5,1,1,baking,ServSafe,0.8333333333333334,False,2,1,1,False,False,False,False
+53640713,ACCOUNTANT,10,6,6,4,0,account analysis;account reconciliations;accounts receivable;general ledger,,0.6,False,3,10,2,False,False,False,False
+53701275,PUBLIC-RELATIONS,4,5,4,0,1,,policy development,1.0,False,1,1,0,False,False,False,False
+54067174,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+54100393,ARTS,0,0,0,0,0,,,,True,1,1,0,False,False,False,False
+54101961,SALES,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+54180474,ARTS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+54201930,DESIGNER,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+54227873,ENGINEERING,2,4,2,0,2,,FEA;control systems,1.0,False,0,19,3,False,False,False,False
+54232810,AVIATION,1,0,0,1,0,aircraft maintenance,,0.0,False,2,7,1,False,False,False,False
+54246169,AGRICULTURE,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+54259150,FITNESS,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+54308684,APPAREL,3,4,3,0,1,,teamwork,1.0,False,0,0,0,False,False,False,False
+54421668,BANKING,1,0,0,1,0,valuation,,0.0,False,0,5,0,False,False,False,False
+54934269,HEALTHCARE,0,0,0,0,0,,,,True,0,10,1,False,False,False,False
+55097118,SALES,1,0,0,1,0,retail sales,,0.0,False,0,3,0,False,False,False,False
+55104715,SALES,1,2,1,0,1,,prospecting,1.0,False,0,4,0,False,False,False,False
+55477468,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+55500538,AGRICULTURE,0,0,0,0,0,,,,True,0,20,0,False,False,False,False
+55595908,ENGINEERING,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+55712978,AGRICULTURE,0,0,0,0,0,,,,True,0,36,0,False,False,False,False
+55746506,FITNESS,2,2,2,0,0,,,1.0,False,0,4,0,False,True,True,True
+55953734,ENGINEERING,4,4,4,0,0,,,1.0,False,0,1,0,False,True,True,True
+56025640,APPAREL,4,3,3,1,0,problem solving,,0.75,False,0,1,0,False,False,False,False
+56068028,AGRICULTURE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+56151548,APPAREL,3,2,2,1,0,Excel,,0.6666666666666666,False,1,2,0,False,False,False,False
+56286525,FITNESS,0,0,0,0,0,,,,True,0,6,0,False,False,False,False
+56520872,HEALTHCARE,2,3,2,0,1,,medication administration,1.0,False,0,0,0,False,False,False,False
+56525735,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,0,0,True,False,False,False
+56691064,ENGINEERING,4,4,4,0,0,,,1.0,False,3,12,0,False,False,False,False
+56792999,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+56952849,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,19,1,False,False,False,False
+57002858,INFORMATION-TECH,4,5,4,0,1,,Windows Server,1.0,False,0,11,0,False,False,False,False
+57088974,FINANCE,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+57262959,CHEF,0,0,0,0,0,,,,True,1,2,0,False,False,False,False
+57364820,CONSULTANT,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+57575888,FITNESS,2,2,2,0,0,,,1.0,False,5,22,1,False,False,False,False
+57601040,CONSULTANT,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+57667857,HR,5,5,4,1,1,interviewing,organizational development,0.8,False,0,3,0,False,False,False,False
+57706851,BPO,1,1,1,0,0,,,1.0,False,0,24,0,False,True,True,True
+58048626,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+58105060,TEACHER,1,6,1,0,5,,classroom management;curriculum development;differentiated instruction;educational technology;student engagement,1.0,False,0,8,0,False,False,False,False
+58165257,FINANCE,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+58208591,APPAREL,3,4,3,0,1,,time management,1.0,False,0,5,1,False,False,False,False
+58428843,SALES,1,0,0,1,0,relationship building,,0.0,False,0,1,0,False,False,False,False
+58665241,TEACHER,0,2,0,0,2,,classroom management;formative assessment,,True,0,5,0,False,False,False,False
+58708773,TEACHER,0,1,0,0,1,,classroom management,,True,0,0,0,False,False,False,False
+58879993,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,0,1,False,False,False,False
+58915642,DIGITAL-MEDIA,0,0,0,0,0,,,,True,6,28,3,False,False,False,False
+59011090,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+59346975,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+59403481,ACCOUNTANT,11,11,11,0,0,,,1.0,False,0,0,1,False,False,False,False
+59422148,SALES,4,5,4,0,1,,retail sales,1.0,False,2,1,1,False,False,False,False
+59450123,FINANCE,1,2,1,0,1,,valuation,1.0,False,0,15,0,False,False,False,False
+59487170,FITNESS,3,2,2,1,0,personal training,,0.6666666666666666,False,0,11,0,False,False,False,False
+59696315,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,3,6,3,False,False,False,False
+59777056,FINANCE,0,0,0,0,0,,,,True,0,0,1,False,False,False,False
+59818742,FINANCE,1,0,0,1,0,portfolio management,,0.0,False,0,21,0,False,False,False,False
+59938965,FINANCE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+59962788,HR,5,6,4,1,2,job evaluation,benefits administration;talent acquisition,0.8,False,0,10,0,False,False,False,False
+60004873,ENGINEERING,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+60182829,BANKING,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+60489316,BANKING,1,0,0,1,0,valuation,,0.0,False,0,1,1,False,False,False,False
+60624892,HEALTHCARE,0,0,0,0,0,,,,True,3,12,0,True,False,False,False
+61065616,CONSTRUCTION,3,3,3,0,0,,,1.0,False,1,0,0,False,False,False,False
+61315605,AVIATION,0,0,0,0,0,,,,True,2,0,1,False,False,False,False
+61319162,PUBLIC-RELATIONS,1,1,0,1,1,business development,operations management,0.0,False,0,3,0,False,False,False,False
+61322296,CHEF,3,4,3,0,1,,recipe development,1.0,False,0,1,0,False,False,False,False
+61579998,ENGINEERING,8,8,8,0,0,,,1.0,False,1,1,0,False,False,False,False
+61634281,FINANCE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+61677751,BUSINESS-DEV,3,3,2,1,1,process improvement,business strategy,0.6666666666666666,False,2,0,1,False,False,False,False
+62071407,ENGINEERING,4,6,4,0,2,,AutoCAD;PLC programming,1.0,False,0,3,1,False,False,False,False
+62184086,TEACHER,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+62312955,DESIGNER,2,0,0,2,0,Sketch;design systems,,0.0,False,0,0,0,False,False,False,False
+62555739,CHEF,3,1,1,2,0,catering;food safety,,0.3333333333333333,False,0,1,0,False,False,False,False
+62700506,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+62809577,ACCOUNTANT,9,10,9,0,1,,financial reporting,1.0,False,0,1,0,False,False,False,False
+62850928,FINANCE,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+62870550,FITNESS,0,0,0,0,0,,,,True,1,3,0,False,False,False,False
+62994611,AGRICULTURE,0,0,0,0,0,,,,True,0,12,0,False,False,False,False
+63083944,CONSTRUCTION,4,4,4,0,0,,,1.0,False,1,4,0,False,False,False,False
+63137898,ACCOUNTANT,9,9,9,0,0,,,1.0,False,0,2,0,False,True,True,True
+63145386,CONSTRUCTION,2,3,2,0,1,,project scheduling,1.0,False,0,0,0,False,False,False,False
+63158213,BPO,0,0,0,0,0,,,,True,1,7,0,False,False,False,False
+63282405,FITNESS,2,2,2,0,0,,,1.0,False,0,3,0,True,False,False,False
+63391085,TEACHER,0,2,0,0,2,,curriculum development;lesson planning,,True,1,1,1,False,False,False,False
+63670997,CONSULTANT,0,0,0,0,0,,,,True,1,1,3,True,False,False,False
+63989974,AUTOMOBILE,0,0,0,0,0,,,,True,0,6,0,False,False,False,False
+64017585,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+64468610,ENGINEERING,1,1,1,0,0,,,1.0,False,0,11,0,False,True,True,True
+64471954,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+64589506,BANKING,3,2,2,1,0,corporate finance,,0.6666666666666666,False,0,1,1,False,False,False,False
+64755882,ENGINEERING,3,3,3,0,0,,,1.0,False,1,0,0,False,False,False,False
+65062795,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+65219288,AVIATION,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+65237556,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,1,6,1,False,False,False,False
+65325317,ARTS,0,0,0,0,0,,,,True,0,146,0,False,False,False,False
+65352424,ARTS,0,0,0,0,0,,,,True,1,4,0,False,False,False,False
+65373280,CHEF,6,6,6,0,0,,,1.0,False,0,26,1,False,False,False,False
+65456466,SALES,0,0,0,0,0,,,,True,0,15,1,False,False,False,False
+65708020,BUSINESS-DEV,3,2,2,1,0,forecasting,,0.6666666666666666,False,0,5,0,False,False,False,False
+65864767,BANKING,0,1,0,0,1,,financial analysis,,True,0,28,5,False,False,False,False
+66226673,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+66683238,TEACHER,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+66741193,FINANCE,3,3,3,0,0,,,1.0,False,0,10,0,False,True,True,True
+66832845,INFORMATION-TECH,4,5,2,2,3,Azure;azure,VMware;network administration;virtualization,0.5,False,6,18,1,False,False,False,False
+66906212,TEACHER,2,4,2,0,2,,curriculum development;student engagement,1.0,False,0,3,0,False,False,False,False
+67032711,FITNESS,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+67406885,CONSULTANT,0,1,0,0,1,,data analysis,,True,0,7,3,False,False,False,False
+67501448,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,0,8,0,True,False,False,False
+67582956,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+67631413,AVIATION,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+67645662,DESIGNER,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+68216398,AVIATION,0,0,0,0,0,,,,True,0,1,1,False,False,False,False
+68240723,DESIGNER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+68338341,CHEF,4,4,3,1,1,menu planning,inventory control,0.75,False,2,7,0,False,False,False,False
+68460556,INFORMATION-TECH,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+68781345,BANKING,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+69005326,TEACHER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+69097572,BPO,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+69155584,SALES,0,1,0,0,1,,retail sales,,True,0,0,0,False,False,False,False
+69181350,CONSULTANT,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+69199666,HEALTHCARE,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+69243180,BANKING,0,0,0,0,0,,,,True,1,4,3,False,False,False,False
+69336473,AGRICULTURE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+69360287,AGRICULTURE,0,0,0,0,0,,,,True,1,4,0,False,False,False,False
+69458502,AVIATION,0,0,0,0,0,,,,True,2,0,4,False,False,False,False
+69487178,FINANCE,0,1,0,0,1,,financial analysis,,True,0,0,0,False,False,False,False
+69532425,TEACHER,1,2,1,0,1,,lesson planning,1.0,False,0,0,0,False,False,False,False
+69666645,FITNESS,1,2,1,0,1,,CPR,1.0,False,0,0,0,False,False,False,False
+69764348,CONSTRUCTION,0,0,0,0,0,,,,True,2,16,2,False,False,False,False
+69859102,AGRICULTURE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+70089206,INFORMATION-TECH,3,3,3,0,0,,,1.0,False,1,0,0,False,False,False,False
+70196518,DIGITAL-MEDIA,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+70198580,AVIATION,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+70528646,SALES,3,3,2,1,1,relationship building,lead generation,0.6666666666666666,False,0,5,0,False,False,False,False
+70541112,FINANCE,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+70603826,FITNESS,5,4,3,2,1,body composition analysis;personal training,injury prevention,0.6,False,0,2,0,False,False,False,False
+70667011,BANKING,2,3,2,0,1,,credit analysis,1.0,False,0,1,0,False,False,False,False
+70750649,APPAREL,2,2,2,0,0,,,1.0,False,0,9,0,False,True,True,True
+70892619,TEACHER,0,0,0,0,0,,,,True,0,3,0,True,False,False,False
+71422121,BANKING,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+71499299,APPAREL,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+71576860,CONSTRUCTION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+71767359,APPAREL,3,2,2,1,0,Sketch,,0.6666666666666666,False,0,10,0,False,False,False,False
+71772815,SALES,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+71888547,CONSULTANT,0,0,0,0,0,,,,True,0,8,0,False,False,False,False
+72136463,FINANCE,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+72231872,HR,9,8,8,1,0,interviewing,,0.8888888888888888,False,0,4,0,False,False,False,False
+72652441,ADVOCATE,1,1,1,0,0,,,1.0,False,0,7,0,False,True,True,True
+72807293,APPAREL,2,2,1,1,1,teamwork,adaptability,0.5,False,2,0,0,False,False,False,False
+72876163,BANKING,0,0,0,0,0,,,,True,0,8,3,False,False,False,False
+73030450,ARTS,0,0,0,0,0,,,,True,0,13,0,False,False,False,False
+73075521,CONSULTANT,0,0,0,0,0,,,,True,0,19,0,False,False,False,False
+73077810,HR,7,8,7,0,1,,benefits administration,1.0,False,0,3,0,True,False,False,False
+73157997,BANKING,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+73282756,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+73448369,ADVOCATE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+73497035,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+74126637,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+74191424,ADVOCATE,0,0,0,0,0,,,,True,1,0,1,False,False,False,False
+74236636,ENGINEERING,3,4,3,0,1,,FEA,1.0,False,2,5,0,False,False,False,False
+74512244,FINANCE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+74522938,CHEF,2,3,1,1,2,food preparation,food safety;recipe development,0.5,False,1,2,1,False,False,False,False
+74552449,BANKING,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+74816727,TEACHER,0,0,0,0,0,,,,True,5,1,0,True,False,False,False
+74849878,FINANCE,0,0,0,0,0,,,,True,2,10,0,False,False,False,False
+75057933,ADVOCATE,3,3,3,0,0,,,1.0,False,0,3,0,False,True,True,True
+75156649,FITNESS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+75286906,ACCOUNTANT,10,11,10,0,1,,financial reporting,1.0,False,3,8,0,False,False,False,False
+75297735,HEALTHCARE,0,0,0,0,0,,,,True,2,5,0,False,False,False,False
+75329822,PUBLIC-RELATIONS,2,2,2,0,0,,,1.0,False,1,2,1,True,False,False,False
+75435017,ADVOCATE,1,1,1,0,0,,,1.0,False,0,12,0,False,True,True,True
+75744306,HEALTHCARE,0,1,0,0,1,,medication administration,,True,1,0,0,False,False,False,False
+75950464,ADVOCATE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+76010167,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+76196367,TEACHER,2,3,2,0,1,,student engagement,1.0,False,0,10,0,False,False,False,False
+76454959,FINANCE,1,2,1,0,1,,financial analysis,1.0,False,0,1,0,False,False,False,False
+76530505,FITNESS,0,0,0,0,0,,,,True,0,2,1,False,False,False,False
+76916835,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,2,2,0,False,False,False,False
+77156708,BANKING,2,2,2,0,0,,,1.0,False,0,14,0,False,True,True,True
+77266989,FITNESS,2,0,0,2,0,CPR;first aid,,0.0,False,0,2,0,False,False,False,False
+77439230,ADVOCATE,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+77576845,BUSINESS-DEV,4,6,4,0,2,,forecasting;performance management,1.0,False,1,10,0,False,False,False,False
+77626587,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+77638654,FINANCE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+77828437,ENGINEERING,8,8,8,0,0,,,1.0,False,0,5,0,False,True,True,True
+78016758,CONSULTANT,0,0,0,0,0,,,,True,3,5,1,False,False,False,False
+78107631,ARTS,0,0,0,0,0,,,,True,0,38,0,False,False,False,False
+78114950,CONSTRUCTION,6,5,5,1,0,construction management,,0.8333333333333334,False,0,27,3,False,False,False,False
+78149576,DESIGNER,0,0,0,0,0,,,,True,0,3,2,False,False,False,False
+78229715,FINANCE,1,1,1,0,0,,,1.0,False,0,4,0,False,True,True,True
+78257294,ACCOUNTANT,9,5,4,5,1,GAAP;billing;financial reporting;general ledger;internal controls,account reconciliations,0.4444444444444444,False,0,9,1,False,False,False,False
+78273826,APPAREL,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+78298706,CONSTRUCTION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+78357954,AUTOMOBILE,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+78403342,ACCOUNTANT,4,5,4,0,1,,financial reporting,1.0,False,0,1,0,False,False,False,False
+78538268,ADVOCATE,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+79041971,BANKING,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+79261033,BPO,1,0,0,1,0,customer service,,0.0,False,2,7,0,False,False,False,False
+79376680,SALES,2,2,2,0,0,,,1.0,False,0,3,0,False,True,True,True
+79432080,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+79536879,AGRICULTURE,0,0,0,0,0,,,,True,0,22,0,False,False,False,False
+79541391,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,0,33,0,False,True,True,True
+79570655,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+79663360,TEACHER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+79759716,BUSINESS-DEV,2,2,2,0,0,,,1.0,False,0,1,0,False,True,True,True
+80000092,FITNESS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+80053367,ACCOUNTANT,4,4,4,0,0,,,1.0,False,0,2,0,False,True,True,True
+80162314,HR,3,4,3,0,1,,onboarding,1.0,False,0,0,0,False,False,False,False
+80275976,BUSINESS-DEV,1,1,1,0,0,,,1.0,False,4,10,1,False,False,False,False
+80503242,ADVOCATE,0,0,0,0,0,,,,True,4,6,1,False,False,False,False
+80527194,CONSULTANT,0,0,0,0,0,,,,True,0,7,0,False,False,False,False
+80679862,DIGITAL-MEDIA,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+80876647,HEALTHCARE,1,0,0,1,0,patient assessment,,0.0,False,0,1,0,False,False,False,False
+81011612,DESIGNER,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+81042872,AGRICULTURE,0,0,0,0,0,,,,True,1,11,0,True,False,False,False
+81125166,ENGINEERING,4,4,4,0,0,,,1.0,False,0,6,1,False,False,False,False
+81217013,FINANCE,0,0,0,0,0,,,,True,3,8,0,False,False,False,False
+81310245,BUSINESS-DEV,2,3,2,0,1,,business strategy,1.0,False,0,6,0,False,False,False,False
+81373857,CHEF,0,2,0,0,2,,food safety;grilling,,True,0,3,0,False,False,False,False
+81508860,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+81588968,AVIATION,0,1,0,0,1,,flight operations,,True,0,30,0,False,False,False,False
+81677620,FINANCE,2,2,1,1,1,valuation,financial analysis,0.5,False,0,6,1,False,False,False,False
+81761658,INFORMATION-TECH,3,4,3,0,1,,virtualization,1.0,False,0,1,1,False,False,False,False
+82118447,BUSINESS-DEV,3,1,1,2,0,forecasting;process improvement,,0.3333333333333333,False,2,10,0,False,False,False,False
+82125182,ENGINEERING,2,3,2,0,1,,process engineering,1.0,False,0,0,2,False,False,False,False
+82140102,AUTOMOBILE,0,0,0,0,0,,,,True,0,8,0,False,False,False,False
+82246962,ENGINEERING,6,4,3,3,1,FEA;lean manufacturing;manufacturing engineering,electrical engineering,0.5,False,0,5,0,False,False,False,False
+82649935,ACCOUNTANT,6,6,5,1,1,financial reporting,accounts payable,0.8333333333333334,False,0,9,0,False,False,False,False
+82738323,AVIATION,2,2,1,1,1,navigation,aircraft maintenance,0.5,False,0,2,0,False,False,False,False
+82929064,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+83206166,ARTS,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+83338413,ARTS,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+83566455,APPAREL,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+83816738,INFORMATION-TECH,9,8,8,1,0,database design,,0.8888888888888888,False,1,4,1,False,False,False,False
+84295343,AUTOMOBILE,0,0,0,0,0,,,,True,0,2,0,True,False,False,False
+84356308,FINANCE,4,5,4,0,1,,treasury management,1.0,False,0,12,0,False,False,False,False
+84373843,FINANCE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+84512719,AGRICULTURE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+85101052,DESIGNER,0,0,0,0,0,,,,True,3,12,0,False,False,False,False
+85417107,HEALTHCARE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+85421438,HEALTHCARE,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+85766635,PUBLIC-RELATIONS,0,0,0,0,0,,,,True,0,25,0,False,False,False,False
+85918100,SALES,1,1,1,0,0,,,1.0,False,3,3,0,False,False,False,False
+85973397,PUBLIC-RELATIONS,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+86184722,HR,8,11,8,0,3,,benefits administration;organizational development;talent acquisition,1.0,False,0,7,0,False,False,False,False
+86209934,ENGINEERING,5,5,4,1,1,manufacturing engineering,six sigma,0.8,False,0,2,0,False,False,False,False
+86322251,TEACHER,3,3,2,1,1,parent communication,student engagement,0.6666666666666666,False,0,5,0,False,False,False,False
+86549455,FINANCE,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+86551046,CHEF,0,0,0,0,0,,,,True,1,4,0,False,False,False,False
+86595128,FINANCE,0,0,0,0,0,,,,True,0,2,0,True,False,False,False
+86597425,TEACHER,0,0,0,0,0,,,,True,0,3,0,True,False,False,False
+86828820,ENGINEERING,5,6,5,0,1,,quality engineering,1.0,False,0,0,0,True,False,False,False
+87118391,SALES,0,1,0,0,1,,account management,,True,1,0,1,False,False,False,False
+87520378,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+87635012,ACCOUNTANT,9,9,9,0,0,,,1.0,False,0,1,1,False,False,False,False
+87826037,AVIATION,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+87867370,BANKING,1,1,1,0,0,,,1.0,False,1,14,0,False,False,False,False
+87968870,HR,6,8,6,0,2,,benefits administration;conflict resolution,1.0,False,0,2,0,False,False,False,False
+88038965,FINANCE,2,2,2,0,0,,,1.0,False,0,6,0,False,True,True,True
+88651471,PUBLIC-RELATIONS,2,4,2,0,2,,SOP development;budgeting,1.0,False,0,10,0,False,False,False,False
+88691367,CONSULTANT,0,0,0,0,0,,,,True,1,0,0,False,False,False,False
+88859947,CONSTRUCTION,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+88907739,CONSULTANT,1,1,1,0,0,,,1.0,False,0,3,0,False,True,True,True
+89049979,BANKING,1,0,0,1,0,equity research,,0.0,False,0,14,0,False,False,False,False
+89197180,BUSINESS-DEV,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+89413122,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,1,1,0,False,False,False,False
+89508407,ADVOCATE,1,1,1,0,0,,,1.0,False,0,13,0,False,True,True,True
+89512321,BPO,0,0,0,0,0,,,,True,0,19,1,False,False,False,False
+89740812,AGRICULTURE,0,0,0,0,0,,,,True,0,2,1,False,False,False,False
+89858892,FITNESS,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+90032884,CONSTRUCTION,1,2,1,0,1,,concrete work,1.0,False,1,9,0,False,False,False,False
+90066849,DESIGNER,0,0,0,0,0,,,,True,1,11,2,False,False,False,False
+90280583,ENGINEERING,9,8,7,2,1,FMEA;GD&T,product development,0.7777777777777778,False,6,32,7,False,False,False,False
+90318913,AVIATION,0,0,0,0,0,,,,True,0,10,1,False,False,False,False
+90363254,TEACHER,3,2,2,1,0,summative assessment,,0.6666666666666666,False,0,1,1,False,False,False,False
+90365216,FITNESS,2,2,2,0,0,,,1.0,False,0,18,0,False,True,True,True
+90468982,ADVOCATE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+90629382,BUSINESS-DEV,3,2,2,1,0,market research,,0.6666666666666666,False,0,0,0,True,False,False,False
+90682785,SALES,1,1,1,0,0,,,1.0,False,0,1,0,False,True,True,True
+90685127,DIGITAL-MEDIA,0,0,0,0,0,,,,True,1,0,1,False,False,False,False
+90867631,INFORMATION-TECH,5,4,3,2,1,IT support;software development,system administration,0.6,False,0,114,0,False,False,False,False
+91026230,APPAREL,2,2,2,0,0,,,1.0,False,0,4,0,False,True,True,True
+91051945,ADVOCATE,1,1,1,0,0,,,1.0,False,0,18,0,False,True,True,True
+91072502,CHEF,4,5,4,0,1,,inventory control,1.0,False,0,1,1,False,False,False,False
+91116867,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+91121135,INFORMATION-TECH,0,0,0,0,0,,,,True,0,7,1,False,False,False,False
+91153752,DESIGNER,6,7,6,0,1,,usability testing,1.0,False,0,0,0,False,False,False,False
+91189201,CONSULTANT,0,2,0,0,2,,benchmarking;data analysis,,True,0,9,0,False,False,False,False
+91197243,PUBLIC-RELATIONS,0,1,0,0,1,,business development,,True,0,1,0,False,False,False,False
+91268638,CHEF,4,4,4,0,0,,,1.0,False,0,2,0,False,True,True,True
+91318828,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+91431878,AVIATION,0,0,0,0,0,,,,True,4,6,4,False,False,False,False
+91467795,BUSINESS-DEV,3,3,3,0,0,,,1.0,False,0,2,0,False,True,True,True
+91478356,HEALTHCARE,2,3,2,0,1,,vital signs monitoring,1.0,False,0,8,0,False,False,False,False
+91515108,AUTOMOBILE,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+91533580,APPAREL,2,2,2,0,0,,,1.0,False,7,9,0,False,False,False,False
+91539554,DIGITAL-MEDIA,0,0,0,0,0,,,,True,2,2,2,False,False,False,False
+91564103,FINANCE,2,1,1,1,0,financial analysis,,0.5,False,0,0,0,False,False,False,False
+91591026,CHEF,6,5,4,2,1,plating;recipe development,food safety,0.6666666666666666,False,1,10,3,False,False,False,False
+91635250,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,0,0,0,False,True,True,True
+91697974,INFORMATION-TECH,2,2,2,0,0,,,1.0,False,2,2,0,False,False,False,False
+91930382,HR,7,5,3,4,2,employee relations;job evaluation;training and development;workforce planning,compliance;onboarding,0.42857142857142855,False,0,1,1,False,False,False,False
+92069209,INFORMATION-TECH,1,1,1,0,0,,,1.0,False,1,2,0,False,False,False,False
+92122785,CHEF,2,2,2,0,0,,,1.0,False,2,5,0,False,False,False,False
+92200491,SALES,0,1,0,0,1,,upselling,,True,0,1,0,False,False,False,False
+92246939,CONSULTANT,0,0,0,0,0,,,,True,1,20,0,False,False,False,False
+92283635,AVIATION,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+92524964,FINANCE,0,0,0,0,0,,,,True,0,23,0,False,False,False,False
+92985983,CHEF,2,4,2,0,2,,food safety;inventory control,1.0,False,3,4,0,False,False,False,False
+93002334,HR,1,2,1,0,1,,onboarding,1.0,False,0,0,0,False,False,False,False
+93112113,HR,5,7,5,0,2,,employee engagement;onboarding,1.0,False,3,0,0,False,False,False,False
+93301686,DESIGNER,0,0,0,0,0,,,,True,0,6,0,False,False,False,False
+93349646,CONSULTANT,0,0,0,0,0,,,,True,0,16,6,False,False,False,False
+93436805,CONSTRUCTION,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+93459677,CONSULTANT,1,0,0,1,0,implementation support,,0.0,False,0,10,1,False,False,False,False
+93512385,ADVOCATE,0,0,0,0,0,,,,True,8,8,1,False,False,False,False
+93576192,ARTS,0,0,0,0,0,,,,True,2,4,0,False,False,False,False
+93653247,FINANCE,3,3,3,0,0,,,1.0,False,0,5,7,False,False,False,False
+93828034,PUBLIC-RELATIONS,1,0,0,1,0,Adobe Photoshop,,0.0,False,3,5,0,False,False,False,False
+93988900,HEALTHCARE,0,0,0,0,0,,,,True,0,36,1,False,False,False,False
+94047639,CHEF,0,1,0,0,1,,food preparation,,True,0,2,0,False,False,False,False
+94137171,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+94230796,ARTS,0,0,0,0,0,,,,True,0,3,1,False,False,False,False
+94417768,DESIGNER,1,0,0,1,0,Sketch,,0.0,False,0,1,0,False,False,False,False
+94492380,DIGITAL-MEDIA,0,0,0,0,0,,,,True,0,3,4,False,False,False,False
+94503308,CONSTRUCTION,1,2,1,0,1,,materials management,1.0,False,0,1,0,False,False,False,False
+95011061,HEALTHCARE,0,0,0,0,0,,,,True,0,1,0,False,False,False,False
+95085510,FITNESS,0,0,0,0,0,,,,True,0,9,0,False,False,False,False
+95350373,CONSULTANT,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+95382114,BUSINESS-DEV,3,4,2,1,2,business strategy,budgeting;contract negotiation,0.6666666666666666,False,0,2,1,False,False,False,False
+95429627,CONSULTANT,0,0,0,0,0,,,,True,0,4,0,False,False,False,False
+95519832,FINANCE,0,0,0,0,0,,,,True,0,0,1,False,False,False,False
+95625660,BPO,0,0,0,0,0,,,,True,2,9,0,False,False,False,False
+95714702,ADVOCATE,0,0,0,0,0,,,,True,0,5,0,False,False,False,False
+95769832,FITNESS,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+95792386,CONSULTANT,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+95970987,ADVOCATE,0,0,0,0,0,,,,True,0,17,1,False,False,False,False
+96029688,ENGINEERING,16,13,13,3,0,CATIA;FEA;finite element analysis,,0.8125,False,0,21,0,False,False,False,False
+96260484,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,2,0,False,True,True,True
+96457008,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+96493528,BANKING,2,1,1,1,0,valuation,,0.5,False,3,15,3,False,False,False,False
+96547039,TEACHER,0,1,0,0,1,,classroom management,,True,0,0,0,False,False,False,False
+96761538,FITNESS,0,0,0,0,0,,,,True,0,2,0,False,False,False,False
+97123005,FITNESS,0,0,0,0,0,,,,True,0,2,1,False,False,False,False
+97169343,HEALTHCARE,0,0,0,0,0,,,,True,0,12,1,False,False,False,False
+97405769,ADVOCATE,0,0,0,0,0,,,,True,1,3,0,False,False,False,False
+97449528,AUTOMOBILE,0,0,0,0,0,,,,True,0,3,0,False,False,False,False
+98086373,PUBLIC-RELATIONS,2,2,2,0,0,,,1.0,False,1,0,0,False,False,False,False
+98108571,SALES,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+98300955,HEALTHCARE,0,0,0,0,0,,,,True,3,9,0,False,False,False,False
+98309114,HEALTHCARE,1,1,1,0,0,,,1.0,False,0,11,0,False,True,True,True
+98348532,BANKING,0,0,0,0,0,,,,True,2,0,1,False,False,False,False
+98379112,BUSINESS-DEV,3,3,3,0,0,,,1.0,False,0,0,0,False,True,True,True
+98389424,AVIATION,0,0,0,0,0,,,,True,0,0,0,False,False,False,False
+98509238,SALES,1,1,1,0,0,,,1.0,False,0,3,1,False,False,False,False
+98513424,FINANCE,3,1,1,2,0,valuation;variance analysis,,0.3333333333333333,False,2,4,3,False,False,False,False
+98559931,ACCOUNTANT,7,8,7,0,1,,internal controls,1.0,False,0,4,0,True,False,False,False
+98965485,BANKING,0,0,0,0,0,,,,True,0,9,0,False,False,False,False
+99033098,ARTS,0,1,0,0,1,,painting,,True,0,2,0,False,False,False,False
+99124477,BANKING,0,0,0,0,0,,,,True,0,30,0,False,False,False,False
+99244405,TEACHER,1,1,1,0,0,,,1.0,False,0,0,0,False,True,True,True
+99416532,AVIATION,0,0,0,0,0,,,,True,0,5,2,False,False,False,False
+99433371,CONSTRUCTION,1,1,1,0,0,,,1.0,False,0,1,0,True,False,False,False
+99561379,ARTS,0,0,0,0,0,,,,True,0,34,0,False,False,False,False
+99680385,AUTOMOBILE,1,1,1,0,0,,,1.0,False,2,22,4,False,False,False,False
+99714410,CONSULTANT,1,0,0,1,0,data analysis,,0.0,False,0,14,0,False,False,False,False

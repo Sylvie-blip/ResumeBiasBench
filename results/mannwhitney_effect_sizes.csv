@@ -1,0 +1,10 @@
+metric,n_AI,n_Human,U,p,r,sig,label_a,label_b
+entropy,2109,2109,1666962.0,0.0,0.2504,***,AI,Human
+perplexity,2109,2109,1666962.0,0.0,0.2504,***,AI,Human
+rolling_entropy,2109,2109,1247558.5,0.0,0.439,***,AI,Human
+sentence_entropy_variance,2109,2109,1446166.0,0.0,0.3497,***,AI,Human
+lexical_density,2109,2109,3598279.0,0.0,-0.618,***,AI,Human
+pattern_regularity,2109,2109,1325217.5,0.0,0.4041,***,AI,Human
+repetition,2109,2109,3577690.0,0.0,-0.6087,***,AI,Human
+sentence_evenness,2109,2109,1617220.0,0.0,0.2728,***,AI,Human
+tonal_stability,2109,2109,1939557.0,0.0,0.1279,***,AI,Human

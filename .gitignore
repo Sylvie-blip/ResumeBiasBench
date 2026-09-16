@@ -1,0 +1,55 @@
+# Workspace folders not part of the public repo
+Useless/
+Check/
+
+# Private keys
+*.pem
+*.key
+
+# Large raw data (download from Kaggle: https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)
+data/airesumes/
+data/humanresumes/
+data/airesumesjson/
+data/humanresumesjson/
+data/sorted_data/
+
+# Duplicate/stray data artifacts
+data/results/new_merged copy.csv
+data/results/new_merged_AI.csv
+
+# Paper drafts / internal-only material — not part of the public repo
+Papers/
+/ACM_AIES_2026_Paper.pdf
+_logbook_bundle/
+_logbook_bundle.zip
+project_timeline.csv
+
+# Stale raw output dumps superseded by data/results/
+/qwen2.5.txt
+/results_*.txt
+results_experiments/
+
+# Superseded by data/figures/ (same plots, canonical copy lives there)
+high_res_plots/
+
+# Claude Code local config
+.claude/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+*.bak
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
